@@ -7,9 +7,14 @@ from datasets import load_dataset
 from torch.cuda import empty_cache
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-PROMPT = """Translate the following sentence from English to Hindi:
+PROMPT = """Translate the following sentence from English to {lang}:
 {text}
 RESPONSE FORMAT: <ONLY TRANSLATED TEXT>"""
+
+LANG_NAMES = {
+    "hin_Deva": "Hindi", "tel_Telu": "Telugu", "guj_Gujr": "Gujarati", "tam_Taml": "Tamil",
+    "ben_Beng": "Bengali", "urd_Arab": "Urdu", "kan_Knda": "Kannada",
+}
 
 MAX_ROWS = 4000
 DEBIASED_CKA = True
@@ -89,14 +94,19 @@ def load_model(model_name):
     )
 
 
-def build_inputs(tokenizer, dataset_path, num_samples):
-    ds = load_dataset("csv", data_files=dataset_path, delimiter="\t", split="train")
-    ds = ds.select(range(num_samples))
-    messages = [[{"role": "user", "content": PROMPT.format(text=s)}] for s in ds["src"]]
+def build_multilingual_inputs(tokenizer, sources, src_col, num_samples):
+    messages = []
+    for path, lang in sources:
+        ds = load_dataset("csv", data_files=path, delimiter="\t", split="train").select(range(num_samples))
+        messages += [[{"role": "user", "content": PROMPT.format(lang=lang, text=s)}] for s in ds[src_col]]
     return tokenizer.apply_chat_template(
         messages, add_generation_prompt=True, tokenize=True,
         return_dict=True, return_tensors="pt", padding=True,
     )
+
+
+def build_inputs(tokenizer, dataset_path, num_samples):
+    return build_multilingual_inputs(tokenizer, [(dataset_path, "Hindi")], "src", num_samples)
 
 
 def reindex_layers(model):

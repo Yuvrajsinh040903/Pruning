@@ -1,4 +1,5 @@
 import copy
+import csv
 import math
 import time
 import torch
@@ -7,7 +8,7 @@ import torch.nn.functional as F
 import pandas as pd
 from contextlib import contextmanager
 from dataclasses import dataclass
-from datasets import load_dataset
+from datasets import concatenate_datasets, load_dataset
 from transformers import Trainer, TrainerCallback, TrainingArguments
 from pruning_core import PROMPT, reindex_layers
 
@@ -28,7 +29,8 @@ class RecoveryConfig:
     eval_steps: int = 50
     patience: int = 3
     max_len: int = 512
-    eval_size: int = 200
+    train_per_lang: int = 4000
+    eval_per_lang: int = 50
     seed: int = 0
 
 
@@ -69,24 +71,31 @@ def swapped_layers(model, layers):
         reindex_layers(model)
 
 
-def build_recovery_data(tokenizer, path, src_col, tgt_col, cfg):
-    ds = load_dataset("csv", data_files=path, delimiter="\t", split="train")
+def encode_pair(row, tokenizer, lang, src_col, tgt_col, max_len):
+    prompt = tokenizer.apply_chat_template(
+        [{"role": "user", "content": PROMPT.format(lang=lang, text=row[src_col])}],
+        add_generation_prompt=True, tokenize=False,
+    )
+    prompt_ids = tokenizer(prompt, add_special_tokens=False)["input_ids"]
+    resp_ids = tokenizer(row[tgt_col], add_special_tokens=False)["input_ids"] + [tokenizer.eos_token_id]
+    return {
+        "input_ids": (prompt_ids + resp_ids)[:max_len],
+        "labels": ([-100] * len(prompt_ids) + resp_ids)[:max_len],
+    }
 
-    def encode(row):
-        prompt = tokenizer.apply_chat_template(
-            [{"role": "user", "content": PROMPT.format(text=row[src_col])}],
-            add_generation_prompt=True, tokenize=False,
+
+def build_recovery_data(tokenizer, sources, src_col, tgt_col, cfg):
+    train_parts, eval_parts = [], []
+    for path, lang in sources:
+        ds = load_dataset("csv", data_files=path, delimiter="\t", quoting=csv.QUOTE_NONE, split="train")
+        ds = ds.shuffle(seed=cfg.seed).select(range(min(len(ds), cfg.train_per_lang + cfg.eval_per_lang)))
+        ds = ds.map(
+            encode_pair, remove_columns=ds.column_names,
+            fn_kwargs=dict(tokenizer=tokenizer, lang=lang, src_col=src_col, tgt_col=tgt_col, max_len=cfg.max_len),
         )
-        prompt_ids = tokenizer(prompt, add_special_tokens=False)["input_ids"]
-        resp_ids = tokenizer(row[tgt_col], add_special_tokens=False)["input_ids"] + [tokenizer.eos_token_id]
-        return {
-            "input_ids": (prompt_ids + resp_ids)[:cfg.max_len],
-            "labels": ([-100] * len(prompt_ids) + resp_ids)[:cfg.max_len],
-        }
-
-    ds = ds.map(encode, remove_columns=ds.column_names)
-    split = ds.train_test_split(test_size=cfg.eval_size, seed=cfg.seed)
-    return split["train"], split["test"]
+        eval_parts.append(ds.select(range(cfg.eval_per_lang)))
+        train_parts.append(ds.select(range(cfg.eval_per_lang, len(ds))))
+    return concatenate_datasets(train_parts), concatenate_datasets(eval_parts)
 
 
 def make_collator(pad_id):

@@ -3,7 +3,23 @@ import os
 from datasets import load_dataset
 
 from config import DATA_TEMPLATE, LANGS, SRC_COLUMN, SRC_LANG, TGT_COLUMN, TGT_LANGS
+SRC_LANG = "eng"
+SRC_COLUMN = "source"
+TGT_COLUMN = "target"
+TGT_LANGS = ["hin", "tel", "guj", "tam", "ben", "urd", "kan"]
 
+LANGS = {
+    "eng": {"flores": "eng_Latn"},
+    "hin": {"flores": "hin_Deva"},
+    "tel": {"flores": "tel_Telu"},
+    "guj": {"flores": "guj_Gujr"},
+    "tam": {"flores": "tam_Taml"},
+    "ben": {"flores": "ben_Beng"},
+    "urd": {"flores": "urd_Arab"},
+    "kan": {"flores": "kan_Knda"},
+}
+
+DATA_TEMPLATE = "/home/priyanka/Pruning/EXP/Data/flores_data/{split}/eng-{tgt}.tsv"
 # Gated dataset: accept the terms on the dataset page and run `huggingface-cli login` first
 FLORES_REPO = "openlanguagedata/flores_plus"
 SPLITS = {"devtest": "test", "dev": "dev"}

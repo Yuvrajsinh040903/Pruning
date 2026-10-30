@@ -15,7 +15,7 @@ from pruning_core import (
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 dataset_path = "/home/yuvrajsinh.bodana/Pruning/EXP/Data/Flores_Dev.tsv"
 num_samples = 100
-num_iterations = 4
+num_iterations = 8
 strategy_name = "cos_cka"
 strategy = {**STRATEGIES[strategy_name], "weight": 0.5}
 

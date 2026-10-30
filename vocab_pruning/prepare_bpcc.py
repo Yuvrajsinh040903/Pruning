@@ -1,13 +1,33 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 from huggingface_hub import login
-login(token="")
+HF_TOKEN = os.getenv("HF_TOKEN")
+login(token=HF_TOKEN)
 from datasets import get_dataset_split_names, load_dataset
 
-from config import LANGS, SRC_COLUMN, TGT_COLUMN, TGT_LANGS
+# from config import LANGS, SRC_COLUMN, TGT_COLUMN, TGT_LANGS
+SRC_LANG = "eng"
+SRC_COLUMN = "source"
+TGT_COLUMN = "target"
+TGT_LANGS = ["hin", "tel", "guj", "tam", "ben", "urd", "kan"]
+
+LANGS = {
+    "eng": {"flores": "eng_Latn"},
+    "hin": {"flores": "hin_Deva"},
+    "tel": {"flores": "tel_Telu"},
+    "guj": {"flores": "guj_Gujr"},
+    "tam": {"flores": "tam_Taml"},
+    "ben": {"flores": "ben_Beng"},
+    "urd": {"flores": "urd_Arab"},
+    "kan": {"flores": "kan_Knda"},
+}
+
+DATA_TEMPLATE = "data/{split}/eng-{tgt}.tsv"
 
 # Gated dataset: accept the terms on https://huggingface.co/datasets/ai4bharat/BPCC and run `huggingface-cli login` first
 BPCC_REPO = "ai4bharat/BPCC"
-OUT_DIR = "bpcc_data/train"
+OUT_DIR = "/home/priyanka/Pruning/EXP/Data/bpcc_data/train"
 
 # BPCC-Human subsets (~100-300K pairs per language). Mined subsets ("samanantar++", "nllb-filtered",
 # "samanantar-filtered", "comparable") add millions of pairs per language; cap them with MAX_PAIRS_PER_SUBSET.
@@ -16,7 +36,7 @@ MAX_PAIRS_PER_SUBSET = None
 MAX_PAIRS_PER_LANG = None
 
 # Pairs whose source or target also appears in these files are dropped, so token selection never sees test sentences
-EXCLUDE_TEMPLATE = "data/test/eng-{tgt}.tsv"
+EXCLUDE_TEMPLATE = "/home/priyanka/Pruning/EXP/Data/bpcc_data/test/eng-{tgt}.tsv"
 
 
 def clean(text):

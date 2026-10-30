@@ -2,3 +2,4 @@ EXP/Experiments
 .ipynb_checkpoints
 =0.46.1
 vocab_pruning/outputs*
+.env
