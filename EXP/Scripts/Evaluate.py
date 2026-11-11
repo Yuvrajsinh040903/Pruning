@@ -6,8 +6,8 @@ from metrics import get_metrics
 
 def process_file(path, metrics):
     df = pd.read_csv(path, sep="\t")
-    srcs = df["src"].astype(str).tolist()
-    refs = df["tgt"].astype(str).tolist()
+    srcs = df["source"].astype(str).tolist()
+    refs = df["target"].astype(str).tolist()
     mts = df["mt"].astype(str).tolist()
 
     corpus_scores = {}

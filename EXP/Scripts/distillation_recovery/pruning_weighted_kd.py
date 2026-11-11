@@ -1,6 +1,8 @@
 import os
 os.environ["HF_HOME"] = "/scratch/yuvraj.bodana"
 os.environ["HF_DATASETS_CACHE"] = "/scratch/yuvraj.bodana"
+from huggingface_hub import login
+login("")
 import gc
 import time
 import pandas as pd
@@ -29,14 +31,14 @@ LANGS = {
     "kan": {"flores": "kan_Knda"},
 }
 
-DATA_TEMPLATE = "/home/priyanka/Pruning/EXP/Data/flores_data/{split}/eng-{tgt}.tsv"
+DATA_TEMPLATE = "/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/flores_data/{split}/eng-{tgt}.tsv"
 
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 calib_per_lang = 10
-bpcc_dir = "bpcc_data/train"
+bpcc_dir = "/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/bpcc_data/train"
 num_iterations = 8
-strategy_name = "cosine"
-strategy = {**STRATEGIES[strategy_name], "weight": 0.5}
+strategy_name = "cka"
+strategy = {**STRATEGIES[strategy_name]}#, "weight": 0.5}
 
 recovery_cfg = RecoveryConfig(use_kl=False, train_per_lang=4000, eval_per_lang=50)
 

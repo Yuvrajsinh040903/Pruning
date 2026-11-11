@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import pandas as pd
 from contextlib import contextmanager
-from datasets import load_dataset
+from datasets import Dataset
 from torch.cuda import empty_cache
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -52,10 +52,12 @@ def center_gram(gram, debiased):
 
 
 def linear_cka(x, y, debiased=DEBIASED_CKA):
-    x, y = x.float(), y.float()
-    gx = center_gram(x @ x.T, debiased)
-    gy = center_gram(y @ y.T, debiased)
-    return ((gx * gy).sum() / (gx.norm() * gy.norm())).item()
+    # fp16 autocast would overflow the Gram matrix
+    with torch.autocast(x.device.type, enabled=False):
+        x, y = x.float(), y.float()
+        gx = center_gram(x @ x.T, debiased)
+        gy = center_gram(y @ y.T, debiased)
+        return ((gx * gy).sum() / (gx.norm() * gy.norm())).item()
 
 
 METRICS = {"cosine": cosine_sim, "cka": linear_cka}
@@ -94,10 +96,25 @@ def load_model(model_name):
     )
 
 
+def read_tsv(path):
+    with open(path, encoding="utf-8") as f:
+        header = f.readline().rstrip("\n").split("\t")
+        rows, bad = [], []
+        for line_no, line in enumerate(f, start=2):
+            fields = line.rstrip("\n").split("\t")
+            if len(fields) == len(header):
+                rows.append(fields)
+            else:
+                bad.append(line_no)
+    if bad:
+        print(f"{path}: dropped {len(bad)} malformed lines, first at {bad[:5]}")
+    return Dataset.from_dict({col: [r[i] for r in rows] for i, col in enumerate(header)})
+
+
 def build_multilingual_inputs(tokenizer, sources, src_col, num_samples):
     messages = []
     for path, lang in sources:
-        ds = load_dataset("csv", data_files=path, delimiter="\t", split="train").select(range(num_samples))
+        ds = read_tsv(path).select(range(num_samples))
         messages += [[{"role": "user", "content": PROMPT.format(lang=lang, text=s)}] for s in ds[src_col]]
     return tokenizer.apply_chat_template(
         messages, add_generation_prompt=True, tokenize=True,

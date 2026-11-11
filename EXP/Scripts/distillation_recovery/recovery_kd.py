@@ -1,5 +1,4 @@
 import copy
-import csv
 import math
 import time
 import torch
@@ -8,9 +7,9 @@ import torch.nn.functional as F
 import pandas as pd
 from contextlib import contextmanager
 from dataclasses import dataclass
-from datasets import concatenate_datasets, load_dataset
+from datasets import concatenate_datasets
 from transformers import Trainer, TrainerCallback, TrainingArguments
-from pruning_core import PROMPT, reindex_layers
+from pruning_core import PROMPT, read_tsv, reindex_layers
 
 
 @dataclass
@@ -87,7 +86,7 @@ def encode_pair(row, tokenizer, lang, src_col, tgt_col, max_len):
 def build_recovery_data(tokenizer, sources, src_col, tgt_col, cfg):
     train_parts, eval_parts = [], []
     for path, lang in sources:
-        ds = load_dataset("csv", data_files=path, delimiter="\t", quoting=csv.QUOTE_NONE, split="train")
+        ds = read_tsv(path)
         ds = ds.shuffle(seed=cfg.seed).select(range(min(len(ds), cfg.train_per_lang + cfg.eval_per_lang)))
         ds = ds.map(
             encode_pair, remove_columns=ds.column_names,
