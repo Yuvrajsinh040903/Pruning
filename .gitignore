@@ -3,3 +3,4 @@ EXP/Experiments
 =0.46.1
 vocab_pruning/outputs*
 .env
+EXP/Scripts/bhashaverse_pruning/outputs

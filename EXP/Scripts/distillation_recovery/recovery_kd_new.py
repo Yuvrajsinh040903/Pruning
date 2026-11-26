@@ -12,12 +12,13 @@ from torch.utils.data import DataLoader
 from transformers import Trainer, TrainerCallback, TrainingArguments
 from pruning_core import PROMPT, read_tsv
 
-TERMS = ("mse", "kl", "ce")
+TERMS = ("mse", "cos", "kl", "ce")
 
 
 @dataclass
 class RecoveryConfig:
     mse_weight: float = 1.0
+    cos_weight: float = 0.0
     kl_weight: float = 0.0
     ce_weight: float = 0.0
     balance_terms: bool = True
@@ -61,12 +62,17 @@ def make_target(active_ids, removed_idx, num_base_layers):
 
 @contextmanager
 def truncated(model, n):
-    layers, count = model.model.layers, model.config.num_hidden_layers
-    model.model.layers, model.config.num_hidden_layers = layers[:n], n
+    cfg = model.config
+    layers, count, types = model.model.layers, cfg.num_hidden_layers, getattr(cfg, "layer_types", None)
+    model.model.layers, cfg.num_hidden_layers = layers[:n], n
+    if types is not None:
+        cfg.layer_types = types[:n]
     try:
         yield
     finally:
-        model.model.layers, model.config.num_hidden_layers = layers, count
+        model.model.layers, cfg.num_hidden_layers = layers, count
+        if types is not None:
+            cfg.layer_types = types
 
 
 def encode_pair(row, tokenizer, lang, src_col, tgt_col, max_len):
@@ -171,6 +177,12 @@ class PruneRecoveryTrainer(Trainer):
             per_token = diff.mean(-1)
         return per_token[mask].mean()
 
+    def _hidden_cos(self, mask):
+        student = self._cap["student"].float()
+        teacher = self._cap["teacher"].to(student.device).float()
+        # 1 - cosine per token: matches direction, ignores scale
+        return (1 - F.cosine_similarity(student, teacher, dim=-1))[mask].mean()
+
     def _kl(self, student_logits, teacher_logits, labels, mask):
         if self.cfg.kl_on_response_only:
             pos = labels[:, 1:] != -100
@@ -211,7 +223,7 @@ class PruneRecoveryTrainer(Trainer):
                 with truncated(student, t + 1):
                     student.model(**batch, use_cache=False)
 
-        terms = {"mse": self._hidden_mse(mask)}
+        terms = {"mse": self._hidden_mse(mask), "cos": self._hidden_cos(mask)}
         if self.cfg.kl_weight > 0:
             terms["kl"] = self._kl(logits, teacher_logits, labels, mask)
         if self.cfg.ce_weight > 0:
@@ -302,12 +314,18 @@ def heal_pruned_model_kd(model, teacher, tokenizer, iteration, p, target, train_
     trainer.accelerator.unwrap_model(model, keep_fp32_wrapper=False)
     layer.to(dtype).requires_grad_(False)
     model.eval()
+    with torch.no_grad():
+        probe = {k: v.to(model.device) for k, v in make_collator(tokenizer.pad_token_id)([eval_ds[i] for i in range(min(4, len(eval_ds)))]).items()}
+        finite = bool(torch.isfinite(model(**probe, use_cache=False).logits).all())
+    if not finite:
+        print(f"WARNING: model gives non-finite logits after recovering layer {target.trainable_orig}")
 
     first, best = callback.history[0], callback.best
     row = {
         "iteration": iteration,
         "trainable_layer": target.trainable_orig,
         "base_target_layer": target.base_idx,
+        "finite": finite,
         "eval_loss_before": first["eval_loss"],
         "eval_loss_best": best["eval_loss"],
     }

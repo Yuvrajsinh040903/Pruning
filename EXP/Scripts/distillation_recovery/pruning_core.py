@@ -20,6 +20,8 @@ MAX_ROWS = 4000
 DEBIASED_CKA = True
 NORMALIZER = "zscore"
 SCOPES = {"cosine": "all", "cka": "all"}
+# torch.bfloat16 has fp32 range, so recovered layers cannot overflow; keep one dtype across compared runs
+LOAD_DTYPE = torch.float16
 
 # global: pruned vs current model (last layer), local: layer input vs output
 # weight applies to the global term; local gets 1 - weight
@@ -90,9 +92,9 @@ def load_tokenizer(model_name):
     return tokenizer
 
 
-def load_model(model_name):
+def load_model(model_name, dtype=LOAD_DTYPE):
     return AutoModelForCausalLM.from_pretrained(
-        model_name, device_map="auto", dtype=torch.float16, attn_implementation="eager"
+        model_name, device_map="auto", dtype=dtype, attn_implementation="eager"
     )
 
 
@@ -133,6 +135,16 @@ def reindex_layers(model):
         if hasattr(layer, "layer_idx"):
             layer.layer_idx = idx
     model.config.num_hidden_layers = len(model.model.layers)
+    if getattr(model.config, "layer_types", None) is not None:
+        # models like Qwen3/Gemma3 read the attention type of layer i from config.layer_types[i]
+        model.config.layer_types = [layer_type(layer) for layer in model.model.layers]
+
+
+def layer_type(layer):
+    t = getattr(layer, "attention_type", None) or getattr(getattr(layer, "self_attn", None), "layer_type", None)
+    if t is None:
+        raise ValueError(f"cannot find the attention type of {type(layer).__name__}")
+    return t
 
 
 @contextmanager
@@ -214,8 +226,13 @@ def combined_score(table, strategy, normalizer=NORMALIZER):
 def select_layer(model, calib, active_ids, strategy, normalizer=NORMALIZER, scopes=SCOPES):
     table = candidate_table(model, calib, active_ids, scopes)
     table["score"] = combined_score(table, strategy, normalizer)
-    assert not table["score"].isna().any(), "NaN in layer scores"
-    best = int(table["score"].values.argmax())
+    bad = table["score"].isna()
+    if bad.all():
+        raise RuntimeError("all layer scores are NaN: the current model already gives non-finite hidden states")
+    if bad.any():
+        # removing these layers makes the model overflow, so they are never chosen
+        print(f"NaN score when removing layers {table.loc[bad, 'layer_id'].tolist()}; skipped")
+    best = int(table["score"].fillna(-float("inf")).values.argmax())
     table["selected"] = table.index == best
     return best, table
 

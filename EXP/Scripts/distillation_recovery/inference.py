@@ -13,14 +13,14 @@ from vllm import LLM, SamplingParams
 # ----------------------------------------------------------------------------
 # Config
 # ----------------------------------------------------------------------------
-DATA_ROOT = Path("/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/flores_data/test")
+DATA_ROOT = Path("/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/IN22_Gen/pruning")
 SPLIT = "test"              # "test" = FLORES devtest, "dev" = FLORES dev (as saved by the download script)
 SRC_COLUMN = "source"
 TGT_COLUMN = "target"
 
-MODEL_PATH = "/home/extra_storage_dipti/yuvrajsinh.bodana/Pruning_Experiments/EXP_cka_cos_kd_base_mse_kl_ce_Sat_Nov__7_15-13-08_2026/Pruned_Model_28_to_20_cka_cos_mse_kl_ce"
-OUT_DIR = Path(MODEL_PATH) / "flores_inference"
-#OUT_DIR = Path("/home/extra_storage_dipti/yuvrajsinh.bodana/Pruning_Experiments/Base/flores_inference")
+MODEL_PATH = "Qwen/Qwen3-4B-Instruct-2507"
+# OUT_DIR = Path(MODEL_PATH) / "in22_gen_inference"
+OUT_DIR = Path("/home/extra_storage_dipti/yuvrajsinh.bodana/Pruning_Experiments/Base/Qwen_3_4B_INST/in22_gen_inference")
 PAIRS = None                # None = every eng-*.tsv in the split folder; or e.g. ["eng-hin", "eng-tam"]
 PROMPT_STYLE = "chat"       # "chat" (Qwen/Llama-style) or "tgemma" (TranslateGemma template)
 SKIP_EXISTING = True        # don't redo pairs whose output TSV already exists

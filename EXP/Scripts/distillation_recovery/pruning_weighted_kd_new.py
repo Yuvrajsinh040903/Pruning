@@ -12,6 +12,9 @@ from pruning_core import (
     load_model, load_tokenizer, select_layer,
 )
 from recovery_kd_new import RecoveryConfig, build_recovery_data, heal_pruned_model_kd, make_target
+from huggingface_hub import login
+
+login(token="")
 SRC_LANG = "eng"
 SRC_COLUMN = "source"
 TGT_COLUMN = "target"
@@ -30,23 +33,26 @@ LANGS = {
 
 DATA_TEMPLATE = "/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/flores_data/{split}/eng-{tgt}.tsv"
 
-model_name = "sarvamai/sarvam-translate"
+model_name = "Qwen/Qwen3-4B-Instruct-2507"
 calib_per_lang = 10
 bpcc_dir = "/home/yuvrajsinh.bodana/pruning_git/Pruning/EXP/Data/bpcc_data/train"
 num_iterations = 8
-strategy_name = "cka_cos"
+strategy_name = "cosine"
 strategy = STRATEGIES[strategy_name]
 
 # set to a list of original layer ids to skip selection and remove exactly these, e.g. [23, 9, 3, 10, 6, 11, 21, 19]
 forced_removals = None
 
-variants = {
-    "mse": dict(mse_weight=1.0),
-    "mse_kl": dict(mse_weight=1.0, kl_weight=1.0),
-    "mse_kl_ce": dict(mse_weight=1.0, kl_weight=1.0, ce_weight=0.5),
-}
-variant = "mse_kl_ce"
-recovery_cfg = RecoveryConfig(**variants[variant], train_per_lang=4000, eval_per_lang=50, lr=1e-4)
+# variant name lists the loss terms joined by "_", in any combination: mse, cos, kl, ce
+# e.g. "cos", "mse_cos", "cos_ce", "cos_kl_ce", "mse_cos_kl_ce"
+term_weights = {"mse": 1.0, "cos": 1.0, "kl": 5.0, "ce": 2.0}
+variant = "mse"
+lr = 1e-3
+
+terms = variant.split("_")
+assert set(terms) <= set(term_weights), f"unknown loss term in {variant}"
+weights = {f"{t}_weight": (w if t in terms else 0.0) for t, w in term_weights.items()}
+recovery_cfg = RecoveryConfig(**weights, lr=lr, train_per_lang=4000, eval_per_lang=50)
 
 lang_names = {tgt: LANG_NAMES[LANGS[tgt]["flores"]] for tgt in TGT_LANGS}
 calib_sources = [(DATA_TEMPLATE.format(split="dev", tgt=tgt), lang_names[tgt]) for tgt in TGT_LANGS]
@@ -55,7 +61,7 @@ recovery_sources = [(f"{bpcc_dir}/eng-{tgt}.tsv", lang_names[tgt]) for tgt in TG
 order_tag = "forced" if forced_removals else strategy_name
 cur_time = time.asctime().replace(" ", "_").replace(":", "-")
 save_root = Path("/home/extra_storage_dipti/yuvrajsinh.bodana/Pruning_Experiments")
-p = save_root / f"EXP_{order_tag}_kd_base_{variant}_{cur_time}_{model_name}"
+p = save_root / f"EXP_{order_tag}_kd_base_{variant}_lr{lr:g}_{cur_time}"
 p.mkdir(parents=True, exist_ok=True)
 
 tokenizer = load_tokenizer(model_name)

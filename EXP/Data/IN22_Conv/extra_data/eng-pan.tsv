@@ -1,0 +1,1504 @@
+	source	target
+0	Mom, let's go for a movie tomorrow.	ਮਾਂ , ਚਲੋ ਕੱਲ੍ਹ ਫ਼ਿਲਮ ਦੇਖਣ ਚਲਦੇ ਹਾਂ |
+1	I don't have to go to school.	ਮੈਂ ਕੱਲ੍ਹ ਸਕੂਲ ਨਹੀਂ ਜਾਣਾ |
+2	It is a holiday.	ਛੁੱਟੀ ਹੈ|
+3	Oh, tomorrow is the 14th of April right?	ਅੱਛਾ, ਕੱਲ੍ਹ 14 ਅਪ੍ਰੈਲ ਹੈ ਹੈਂ ਨਾਂ?
+4	Your dad will also have the day off from work.	ਤੇਰੇ ਡੈਡੀ ਦੀ ਵੀ ਕੰਮ ਤੋਂ ਛੁੱਟੀ ਹੋਵੇਗੀ|
+5	We can make a movie plan!	ਆਪਾਂ ਫ਼ਿਲਮ ਦੇਖਣ ਦੀ ਯੋਜਨਾ ਬਣਾ ਸਕਦੇ ਹਾਂ!
+6	That's a good news!	ਇਹ ਚੰਗੀ ਖਬਰ ਹੈ!
+7	Why is it a holiday though?	ਪਰ ਇਹ ਛੁੱਟੀ ਕਿਉਂ ਹੈ?
+8	Are all schools, colleges and offices closed tomorrow?	ਕਿ ਕੱਲ੍ਹ ਸਾਰੇ ਸਕੂਲ, ਕਾਲਜ ਅਤੇ ਦਫ਼ਤਰ ਬੰਦ ਨੇ?
+9	It is Ambedkar Jayanti tomorrow!	ਕੱਲ੍ਹ ਅੰਬੇਦਕਰ ਜਯੰਤੀ ਹੈ!
+10	This day is celebrated annually to mark the birth of Dr. B. R Ambedkar.	ਇਹ ਦਿਨ ਹਰ ਸਾਲ ਡਾ. ਬੀ ਆਰ ਅੰਬੇਦਕਰ ਦੇ ਜਨਮ ਦਿਹਾੜੇ ਵਜੋਂ ਮਨਾਇਆ ਜਾਂਦਾ ਹੈ|
+11	Have you heard of him?	ਕਿ ਤੂੰ ਉਹਨਾਂ ਬਾਰੇ ਸੁਣਿਆ ਹੈ?
+12	I think I have seen him in my History and Civics book.	ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਆਪਣੀ ਇਤਿਹਾਸ ਅਤੇ ਨਾਗਰਿਕ ਸ਼ਾਸਤਰ ਦੀ ਕਿਤਾਬ ਵਿੱਚ ਵੇਖਿਆ ਹੈ|
+13	Is he related to our Constitution?	ਕਿ ਉਹ ਆਪਣੇ ਸੰਵਿਧਾਨ ਨਾਲ ਸਬੰਧਤ ਨੇ?
+14	Absolutely! He is known as the father of the Indian Constitution.	ਬਿਲਕੁੱਲ ਠੀਕ! ਉਹ ਭਾਰਤੀ ਸੰਵਿਧਾਨ ਦੇ ਪਿਤਾਮਾ ਵਜੋਂ ਜਾਣੇ ਜਾਂਦੇ ਹਨ|
+15	He was a civil rights activist who played a major role in formulating the Constitution.	ਉਹ ਇੱਕ ਨਾਗਰਿਕ ਅਧਿਕਾਰ ਕਾਰਕੁਨ ਸੀ ਜਿਨ੍ਹਾਂ ਨੇ ਸੰਵਿਧਾਨ ਨੂੰ ਤਿਆਰ ਕਰਨ ਵਿੱਚ ਇੱਕ ਅਹਿਮ ਭੂਮਿਕਾ ਨਿਭਾਈ|
+16	He played a crucial part in shaping the vibrant democratic structure that India prides itself upon.	ਓਨ੍ਹਾਂ ਨੇ ਜੀਵੰਤ ਜਮਹੂਰੀ ਢਾਂਚੇ ਨੂੰ ਰੂਪ ਦੇਂ ਵਿੱਚ ਇੱਕ ਮਹੱਤਵਪੂਰਨ ਭੂਮਿਕਾ ਨਿਭਾਈ ਜਿਸ 'ਤੇ ਭਾਰਤ ਨੂੰ ਮਾਣ ਹੈ|
+17	I remember now!	ਹੁਣ ਮੈਨੂੰ ਯਾਦ ਆ ਗਿਆ!
+18	We were discussing about him in our Civics class the other day.	ਅਸੀਂ ਦੂਜੇ ਦਿਨ ਆਪਣੀ ਨਾਗਰਿਕ ਸ਼ਾਸਤਰ ਦੀ ਕਲਾਸ ਵਿੱਚ ਉਸ ਬਾਰੇ ਚਰਚਾ ਕਰ ਰਹੇ ਸੀ|
+19	Ma'am said that she will tell us more about him when we do the chapter on the Indian Constitution	ਮੈਡਮ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਸਾਨੂੰ ਉਨ੍ਹਾਂ ਬਾਰੇ ਹੋਰ ਦੱਸਣਗੇ ਜਦੋਂ ਅਸੀਂ ਭਾਰਤ ਦੇ ਸੰਵਿਧਾਨ ਵਾਲਾ ਪਾਠ ਪੜਾਂਗੇ |
+20	He fought to remove the class distinction that prevailed in the society, right?	ਉਹ ਸਮਾਜ ਵਿੱਚ ਪ੍ਰਚਲਿਤ ਜਮਾਤੀ ਭੇਦ-ਭਾਵ ਨੂੰ ਦੂਰ ਕਰਨ ਲਈ ਲੜੇ ਸਨ, ਹੈਂ ਨਾ?
+21	Yes. Being a Dalit himself, he realised how hard is it to deal with the evil of untouchability.	ਹਾਂ, ਇੱਕ ਦਲਿਤ ਹੋਣ ਦੇ ਨਾਂਤੇ ਓਨ੍ਹਾਂ ਨੂੰ ਅਹਿਸਾਸ ਹੋਇਆ ਕਿ ਛੂਤ-ਛਾਤ ਦੀ ਬੁਰਾਈ ਨਾਲ ਨਜਿੱਠਣਾ ਕਿੰਨਾ ਔਖਾ ਹੈ|
+22	Thus, he fought for the rights of the lower class.	ਪਰ , ਉਹ ਨੀਵੀਂ ਜਮਾਤ ਦੇ ਹੱਕਾਂ ਲਈ ਲੜੇ |
+23	He extensively campaigned against the discrimination and came out victorious.	ਓਨ੍ਹਾਂ ਨੇ ਵਿਤਕਰੇ ਵਿਰੁੱਧ ਵਿਆਪਕ ਮੁਹਿੰਮ ਚਲਾਈ ਅਤੇ ਜਿੱਤ ਪ੍ਰਾਪਤ ਕੀਤੀ|
+24	Wow, what a strong personality!	ਵਾਹ, ਕਿੰਨੀ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਸਖਸ਼ੀਅਤ ਹੈ!
+25	That is why the day is also commemorated as Equality Day all across the subcontinent.	ਇਹੀ ਕਾਰਣ ਹੈ ਕਿ ਇਸ ਦਿਨ ਨੂੰ ਸਾਰੇ ਉਪ-ਮਹਾਂਦੀਪ ਵਿੱਚ ਸਮਾਨਤਾ ਦਿਵਸ ਵਜੋਂ ਵੀ ਮਨਾਇਆ ਜਾਂਦਾ ਹੈ|
+26	I am sure you are going to love reading about this man when you study the chapter in school.	ਮੈਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਜਦੋਂ ਤੂੰ ਸਕੂਲ ਵਿੱਚ ਤੂੰ ਇਹ ਪਾਠ ਪੜ੍ਹੇਂਗਾ ਤਾਂ ਤੂੰ ਇਸ ਬੰਦੇ ਬਾਰੇ ਪੜ੍ਹਨਾ ਪਸੰਦ ਕਰੇਂਗਾ|
+27	Yes mom, I can't wait for it.	ਹਾਂ ਮਾਂ, ਮੈਂ ਇਸਦਾ ਇੰਤਜ਼ਾਰ ਨਹੀਂ ਕਰ ਸਕਦਾ|
+28	I am really intrigued.	ਮੈਂ ਸੱਚੀ ਦਿਲਚਸਪ ਹਾਂ|
+29	Okay, now tell me what movie do you want to go for?	ਚੰਗਾ, ਹੁਣ ਦੱਸ ਤੂੰ ਕਿਹੜੀ ਫ਼ਿਲਮ ਦੇਖਣ ਜਾਣਾ ਚਾਹੁੰਦਾ ਹੈਂ?
+30	Do you want to watch the new Marvel movie?	ਕੀ ਤੂੰ ਨਵੀਂ ਮਾਰਵੇਲ ਫ਼ਿਲਮ ਵੇਖਣਾ ਚਾਹੁੰਦਾ ਹੈ?
+31	You mean Doctor Strange and the Multiverse of Madness?	ਤੁਹਾਡਾ ਮਤਲਬ ਡਾਕਟਰ ਸਟ੍ਰੇਂਜ ਅਤੇ ਮਲਟੀਵਰਸ ਆਫ਼ ਮੈਡਨੈਸ?
+32	I am dying to watch it.	ਮੈਂ ਇਸਨੂੰ ਵੇਖਣ ਲਈ ਮਰ ਰਿਹਾ ਹਾਂ|
+33	Can you book the tickets?	ਕੀ ਤੁਸੀਂ ਟਿਕਟਾਂ ਬੁੱਕ ਕਰਵਾ ਸਕਦੇ ਹੋ?
+34	Let me talk to Dad.	ਮੈਨੂੰ ਡੈਡ ਨਾਲ ਗੱਲ ਕਰਨ ਦਿਓ|
+35	Hey, you are pursuing.a course in web designing, aren't you?	ਹੇ , ਤੁਸੀਂ ਵੈੱਬ ਡਿਜ਼ਾਈਨਿੰਗ ਵਿੱਚ ਕੋਰਸ ਕਰ ਰਹੇ ਹੋ, ਨਹੀਂ?
+36	One of my friends is thinking of doing the same so, I told her I'd get some information from you about it.	ਮੇਰੀ ਇੱਕ ਦੋਸਤ ਅਜਿਹਾ ਕਰਨ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ, ਮੈਂ ਉਸਨੂੰ ਕਿਹਾ ਕਿ ਮੈਂ ਇਸ ਬਾਰੇ ਤੁਹਾਡੇ ਤੋਂ ਕੁੱਝ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਾਂਗਾ|
+37	Yeah, I am in my second year.	ਹਾਂ , ਮੈਂ ਦੂਜੇ ਸਾਲ 'ਚ ਹਾਂ|
+38	That's great, so what does she want to know?	ਬਹੁਤ ਵਧੀਆ, ਤਾਂ ਉਹ ਕਿਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ?
+39	Which are the colleges that offer a diploma course in web designing?	ਉਹ ਕਿਹੜੇ ਕਾਲਜ ਹਨ, ਜੋ ਵੈੱਬ ਡਿਜ਼ਾਇਨਿੰਗ ਵਿੱਚ ਡਿਪਲੋਮਾ ਕੋਰਸ ਕਰਵਾਉਂਦੇ ਹਨ?
+40	She is not very sure of her choice, so she just wants to try it out at this point.	ਉਸਨੂੰ ਆਪਣੀ ਪਸੰਦ 'ਤੇ ਬਹੁਤਾ ਯਕੀਨ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਉਹ ਇਸ ਵੇਲੇ ਇਸਨੂੰ ਅਜ਼ਮਾਉਣਾ ਚਾਹੁੰਦੀ ਹੈ|
+41	Ok, I get that.	ਠੀਕ ਹੈ, ਮੈਂ ਸਮਝਦਾ ਹਾਂ|
+42	It is available at a lot of colleges like the School of Fashion Technology, Pune; Stella Maris College, Chennai and Loyola College, Chennai among numerous others.	ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਾਲਜਾਂ ਵਿੱਚ ਜਿਵੇਂ ਕਿ ਸਕੂਲ ਆਫ਼ ਫੈਸ਼ਨ ਤਕਨਾਲੋਜੀ ਪੁਣੇ ਵਿੱਚ ਉਪਲੱਬਧ ਹੈ; ਸਟੈਲਾ ਮਾਰਿਸ ਕਾਲਜ, ਚੇਨਈ ਅਤੇ ਲੋਯੋਲਾ ਕਾਲਜ, ਚੇਨਈ ਅਮੰਗ ਕਈ ਹੋਰ|
+43	You went to Loyola College, right?	ਤੁਸੀਂ ਲੋਯੋਲਾ ਕਾਲਜ ਗਏ ਸੀ, ਹੈ ਨਾ?
+44	Yeah, I studied there.	ਹਾਂ, ਮੈਂ ਉੱਥੇ ਪੜ੍ਹੀ ਹਾਂ |
+45	These colleges that you mentioned are pretty well known.	ਜਿਨ੍ਹਾਂ ਕਾਲਜਾਂ ਦਾ ਤੁਸੀਂ ਜ਼ਿਕਰ ਕੀਤਾ ਹੈ ਉਹ ਬਹੁਤ ਮਸ਼ਹੂਰ ਹਨ|
+46	What is the entrance process?	ਉਨ੍ਹਾਂ ਦੀ ਦਾਖਲਾ ਪ੍ਰਕਿਰਿਆ ਕੀ ਹੈ?
+47	Yeah, some colleges conduct their own entrance exams.	ਹਾਂ, ਕੁੱਝ ਕਾਲਜ ਆਪਣਾ ਏਂਟ੍ਰੰਸ ਏਕਜਾਮ ਲੈਂਦੇ ਹਨ|
+48	They look at the 10th and 12th standard grades as well.	ਉਹ 10 ਵੀਂ ਅਤੇ 12 ਵੀਂ ਦੇ ਗ੍ਰੇਡ ਵੀ ਦੇਖਦੇ ਹਨ|
+49	There are national tests like the NID Entrance Exam, too.	ਉੱਥੇ ਨੈਸ਼ਨਲ ਟੈਸਟ ਐਨ ਆਈ ਡੀ ਵਰਗੇ ਏਂਟ੍ਰੰਸ ਏਕਜਾਮ ਵੀ ਹੁੰਦੇ ਹਨ|
+50	My friend did really well for her boards, so she can ace any merit-based entrance.	ਮੇਰੀ ਦੋਸਤ ਨੇ ਉਸਦੇ ਬੋਰਡਾਂ ਲਈ ਸੱਚਮੁੱਚ ਵਧੀਆ ਪ੍ਰਦਰਸ਼ਨ ਕੀਤਾ, ਇਸ ਲਈ ਉਸ ਕਿਸੇ ਵੀ ਮੈਰਿਟ ਬੇਸਡ ਏਂਟ੍ਰੰਸ ਦੇ ਸਕਦੀ ਹੈ|
+51	She is not so confident in her creative skills.	ਉਸ ਨੂੰ ਆਪਣੇ ਰਚਨਾਤਮਕ ਹੁਨਰਾਂ ਵਿੱਚ ਭਰੋਸਾ ਨਹੀਂ ਹੈ |
+52	How long is the diploma course in these universities?	ਇਨ੍ਹਾਂ ਯੂਨੀਵਰਸਿਟੀਆਂ ਵਿੱਚ ਡਿਪਲੋਮਾ ਕੋਰਸ ਕਿੰਨੇ ਸਮੇਂ ਦਾ ਹੈ?
+53	It usually lasts between a year or two.	ਇਹ ਆਮ ਤੌਰ 'ਤੇ ਇੱਕ ਜਾਂ ਦੋ ਸਾਲ ਦਾ ਹੁੰਦਾ ਹੈ|
+54	It actually depends on the college you take admission at.	ਇਹ ਅਸਲ ਵਿੱਚ ਉਸ ਕਾਲਜ 'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ ਦਾਖਲਾ ਲਿਆ ਹੈ|
+55	Are the career options good?	ਕੀ ਕਰੀਅਰ ਦੇ ਵਿਕਲਪ ਚੰਗੇ ਹਨ?
+56	Yeah, the job prospects in this field are promising.	ਹਾਂ , ਇਸ ਫੀਲਡ ਵਿੱਚ ਨੌਕਰੀ ਦੀ ਸੰਭਾਵਨਾਵਾਂ ਵੱਧ ਹਨ|
+57	This is especially considering the world becoming increasingly digital.	ਇਹ ਖਾਸ ਤੌਰ 'ਤੇ ਹੈ ਕਿਉਂਕਿ ਵਿਸ਼ਵ ਵੱਧ ਤੋਂ ਵੱਧ ਡਿਜੀਟਲ ਬਣ ਰਿਹਾ ਹੈ I
+58	Hmm.. I see what you mean.	ਹਾਂ.. ਮੈਂ ਸਮਝ ਰਿਹਾ ਹੈ ਤੁਹਾਡਾ ਮਤਲਬ I
+59	Do you know anyone who has taken this course before?	ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਨੂੰ ਜਾਣਦੇ ਹੋ ਜਿਸ ਨੇ ਪਹਿਲਾਂ ਇਹ ਕੋਰਸ ਕੀਤਾ ਹੋਵੇ?
+60	Yeah, one of my friends did a diploma in web designing some five years back.	ਹਾ, ਮੇਰੇ ਇੱਕ ਦੋਸਤ ਨੇ ਕੁੱਝ ਸਾਲ ਪਹਿਲਾਂ ਵੈੱਬ ਡਿਜ਼ਾਇਨਿੰਗ ਵਿੱਚ ਡਿਪਲੋਮਾ ਕੀਤਾ ਸੀ|
+61	He is a successful web designer today.	ਉਹ ਅੱਜ ਇੱਕ ਸਫਲ ਵੈੱਬ ਡਿਜਾਈਨਰ ਹੈ|
+62	Can I have his contact information, if you don't mind?	ਜੇ ਤੁਹਾਨੂੰ ਬੁਰਾ ਨਾ ਲੱਗੇ, ਤਾਂ ਕੀ ਮੈਂ ਉਹਨਾਂ ਦਾ ਨੰਬਰ ਲੈ ਸਕਦੀ ਹਾਂ?
+63	Its so that I can give it to my friend so she can talk to someone in detail about the course.	ਇਹ ਮੇਰੇ ਦੋਸਤ ਲਈ ਹੈ ਤਾਂ ਜੋ ਉਹ ਕੋਰਸ ਦੇ ਵੇਰਵੇ ਲਈ ਕਿਸੇ ਨਾਲ ਗੱਲ ਕਰ ਸਕੇ|
+64	Of course, I shall send you the contact on WhatsApp.	ਬਿਲਕੁੱਲ, ਮੈਂ ਤੁਹਾਨੂੰ ਨੰਬਰ ਵ੍ਹਾਟਸਾਅਪ 'ਤੇ ਸੈਂਡ ਕਰ ਦੁਆਂਗਾ I
+65	Am I too late?	ਕੀ ਮੈਂ ਬਹੁਤ ਲੇਟ ਹਾਂ?
+66	Did the parade start?	ਕੀ ਪਰੇਡ ਸ਼ੁਰੂ ਹੋਈ?
+67	I don't know why I overslept.	ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ ਕਿ ਮੈਂ ਜ਼ਿਆਦਾ ਕਿਉਂ ਸੌਂ ਗਿਆ|
+68	Don't worry, you are right on time.	ਚਿੰਤਾ ਨਾ ਕਰੋ , ਤੁਸੀਂ ਸਹੀ ਸਮੇਂ 'ਤੇ ਹੋ|
+69	It has just been 5 minutes.	ਇਸ ਨੂੰ ਸਿਰਫ਼ 5 ਮਿੰਟ ਹੋਏ ਹਨ|
+70	Come and have a seat.	ਆਓ ਅਤੇ ਬੈਠੋ|
+71	What did I miss?	ਕੀ ਕੁੱਝ ਲੰਘ ਗਿਆ?
+72	Nothing much! Just the unfurling of the national flag by the President.	ਬਹੁਤ ਕੁੱਝ ਨਹੀਂ! ਸਿਰਫ਼ ਰਾਸ਼ਟਰਪਤੀ ਦੁਆਰਾ ਝੰਡੇ ਨੂੰ ਲਹਿਰਾਉਣਾ|
+73	And the booming 21-gun salute to the president.	ਅਤੇ ਰਾਸ਼ਟਰਪਤੀ ਨੂੰ 21 ਤੋਪਾਂ ਦੀ ਸਲਾਮੀ|
+74	At present, the different regiments of the Army, Navy, and Air Force, along with their bands are marching from the Rashtrapati Bhawan along the Rajpath.	ਇਸ ਵੇਲੇ, ਫੌਜ ਦੀਆਂ ਵੱਖ-ਵੱਖ ਰੈਜ਼ੀਮੈਟਾਂ ਆਰਮੀ, ਜਲ ਸੈਨਾ ਅਤੇ ਹਵਾਈ ਸੈਨਾ, ਆਪਣੇ ਬੈਡਾਂ ਨਾਲ ਰਾਜਪਥ 'ਤੇ ਰਾਸ਼ਟਰਪਤੀ ਭਵਨ ਤੋਂ ਮਾਰਚ ਕਰ ਰਹੇ ਹਨ|
+75	Where are they heading to?	ਉਹ ਕਿੱਥੇ ਜਾ ਰਹੇ ਹਨ?
+76	To the India Gate and finally to the Red fort.	ਇੰਡੀਆ ਗੇਟ ਵੱਲ ਅਤੇ ਅੰਤ ਵਿੱਚ ਲਾਲ ਕਿਲ੍ਹੇ 'ਤੇ|
+77	As each of them go by, they pay homage to the President.	ਉਹਨਾਂ ਵਿੱਚੋਂ ਹਰ ਇੱਕ, ਰਾਸ਼ਟਰਪਤੀ ਕੋਲ ਜਾ ਕੇ ਸ਼ਰਧਾਂਜਲੀ ਭੇਂਟ ਕਰਕੇ ਆਉਂਦੇ ਹਨ|
+78	And look how he in turn is standing up and encouraging them as they march forward.	ਅਤੇ ਦੇਖੋ ਕਿ ਉਹ ਬਦਲੇ ਵਿੱਚ ਕਿਵੇਂ ਖੜ੍ਹੇ ਹਨ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਮਾਰਚ ਕਰਦੇ ਹੋਏ ਉਤਸਾਹਿਤ ਕਰਦੇ ਹਨ|
+79	I wish to see all of it in person someday.	ਮੇਰੀ ਇੱਛਾ ਹੈ ਕਿ ਕਿਸੇ ਦਿਨ ਇਹ ਸਭ ਵਿਅਕਤੀਗਤ ਤੌਰ ਤੇ ਦੇਖਾਂ |
+80	What about the representation of different states?	ਵੱਖ ਵੱਖ ਰਾਜਾਂ ਦੀ ਪ੍ਰਤੀਨਿਧਤਾ ਬਾਰੇ ਕੀ ਹੈ?
+81	Will it be after the army marches past?	ਕੀ ਇਹ ਸੈਨਾ ਦੀ ਮਾਰਚ ਤੋਂ ਬਾਅਦ ਹੋਣਗੀਆਂ?
+82	Yes, once all the regiments march away, they will arrive.	ਹਾਂ, ਇੱਕ ਵਾਰ ਜਦੋਂ ਸਾਰੀਆਂ ਰੈਜ਼ੀਮੈਂਟ ਮਾਰਚ ਕਰ ਹੱਟੀਆਂ, ਫਿਰ ਉਹ ਆਉਣਗੇ|
+83	Each state is represented by a tableaux.	ਹਰ ਰਾਜ ਆਪਣੀ ਝਾਂਕੀਂ ਵਿਖਾਵੇਗਾ|
+84	They showcase the history, culture, heritage, dvelopment programmes and environment of their respective states.	ਉਹ ਆਪਣੇ ਆਪਣੇ ਰਾਜਾਂ ਦਾ ਇਤਿਹਾਸ, ਸੱਭਿਆਚਾਰ ,ਵਿਰਾਸਤ, ਵਿਕਸਿਤ ਪ੍ਰੋਗਰਾਮ ਅਤੇ ਵਾਤਾਵਰਣ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਦੇ ਹਨ|
+85	They carry some animations and sound along with them.	ਉਹ ਆਪਣੇ ਨਾਲ ਐਨਿਮੇਸ਼ਨ ਅਤੇ ਧੁਨੀ ਲੈ ਕੇ ਤੁਰਦੇ ਹਨ|
+86	It is a very colorful display.	ਇਹ ਇੱਕ ਬਹੁਤ ਰੰਗੀਨ ਝਾਕੀ ਹੁੰਦੀ ਹੈ|
+87	Yeah, and my favourite part of the entire parade too.	ਹਾਂ, ਅਤੇ ਇਹ ਸਾਰੀ ਪਰੇਡ 'ਚੋਂ ਮੇਰਾ ਪਸੰਦੀਦਾ ਹਿੱਸਾ ਹੈ|
+88	I still remember how the tableaux of West Bengal was decorated last time.	ਮੈਨੂੰ ਅਜੇ ਵੀ ਯਾਦ ਹੈ ਕਿ ਪਿਛਲੀ ਵਾਰ ਪੱਛਮੀ ਬੰਗਾਲ ਦੀ ਝਾਕੀ ਕਿਵੇਂ ਸਜੀ ਹੋਈ ਸੀ|
+89	And also the dancers on it, exhibiting the folk dance form of rural bengal.	ਅਤੇ ਉਸ ਤੇ ਨੱਚਣ ਵਾਲੇ ਵੀ, ਬੰਗਾਲ ਦੇ ਪੇਂਡੂ ਲੋਕ ਨਾਚ ਨੂੰ ਦਰਸ਼ਾ ਰਹੇ ਸਨ|
+90	I wonder what they have in store this year.	ਮੈਂ ਹੈਰਾਨ ਹਾਂ ਕਿ ਉਹਨਾਂ ਕੋਲ ਇਸ ਸਾਲ ਸਟੋਰ 'ਚ ਕੀ ਹੋਏਗਾ|
+91	Let us wait and watch.	ਚਲੋ ਉਡੀਕਦੇ ਹਾਂ ਅਤੇ ਦੇਖਦੇ ਹਾਂ |
+92	But do not forget, you have your sit and draw competition today at around 12 noon.	ਪਰ ਇਹ ਨਾ ਭੁੱਲ, ਅੱਜ ਦੁਪਹਿਰ 12 ਵਜੇ ਤੇਰਾ ਸਿਟ ਅਤੇ ਡ੍ਰਾਅ ਮੁਕਾਬਲਾ ਹੈ|
+93	Are you prepared for that?	ਕੀ ਤੂੰ ਉਸ ਲਈ ਤਿਆਰ ਹੈ?
+94	I have practised my sketches already.	ਮੈਂ ਆਪਣੇ ਸਕੈਚਾਂ ਦਾ ਅਭਿਆਸ ਕੀਤਾ ਹੈ|
+95	I am drawing a glimpse of the Republic Day parade itself.	ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਗਣਤੰਤਰ ਦਿਵਸ ਦੀ ਪਰੇਡ ਦੀ ਇੱਕ ਝਲਕ ਬਣਾ ਰਿਹਾ ਹਾਂ|
+96	I hope I can bag a prize.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਮੈਂ ਇੱਕ ਈਨਾਮ ਲੈ ਸਕਦਾ ਹਾਂ|
+97	Do not bother about the prizes.	ਇਨਾਮਾਂ ਦੀ ਚਿੰਤਾ ਨਾ ਕਰੋ|
+98	Just enjoy yourself out there.	ਬਸ ਉੱਥੇ ਆਪਣਾ ਅਨੰਦ ਮਾਣੋ|
+99	I wish you all the best.	ਮੇਰੀ ਸ਼ੁੱਭ ਇੱਛਾਵਾਂ ਤੇਰੇ ਨਾਲ ਨੇ|
+100	Thank you so much, Dad.	ਧੰਨਵਾਦ, ਡੈਡ |
+101	But make sure you watch the part of the parade I will be missing due to the competition.	ਪਰ , ਇਹ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਪਰੇਡ ਦਾ ਉਹ ਹਿੱਸਾ ਦੇਖੋਗੇ ਜੋ ਮੈਂ ਮੁਕਾਬਲੇ ਕਾਰਨ ਨਹੀਂ ਦੇਖ ਸਕਾਂਗਾ|
+102	I will hear about it at bedtime.	ਮੈਂ ਸੌਣ ਵੇਲੇ ਇਸ ਬਾਰੇ ਸੁਣਾਂਗਾ|
+103	Hello, is this Samadhan helpline?	ਹੈਲੋ, ਕੀ ਇਹ ਸਮਾਧਾਨ ਹੈਲਪਲਾਈਨ ਹੈ?
+104	Yes, how can I help you?	ਹਾਂ, ਮੈਂ ਤੁਹਾਡੀ ਕਿਵੇਂ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ?
+105	I'm Harish, and I'm calling on behalf of Swami Vivekanand Educational Institute.	ਮੈਂ ਹਰੀਸ਼ ਹਾਂ, ਅਤੇ ਸਵਾਮੀ ਵਿਵੇਕਨੰਦ ਐਜੂਕੇਸ਼ਨਲ ਇੰਸਟੀਚਿਊਟ ਵੱਲੋਂ ਕਾੱਲ ਕਰ ਰਿਹਾ ਹਾਂ|
+106	I'd like to learn more about the Merit-cum-Means Scholarship Programme.	ਮੈਂ ਮੈਰਿਟ-ਕਮ-ਮੀਨਜ਼ ਸਕਾਲਰਸ਼ਿਪ ਪ੍ਰੋਗਰਾਮ ਬਾਰੇ ਹੋਰ ਜਾਣਨਾ ਚਾਹਾਂਗਾ|
+107	So that I can inform our students about this programme.	ਤਾਂ ਜੋ ਮੈਂ ਆਪਣੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਇਸ ਵਜ਼ੀਫੇ ਬਾਰੇ ਦੱਸ ਸਕਾਂ|
+108	Alright! The Scheme's principal goal is to provide financial help to underprivileged and deserving students from minority populations.	ਠੀਕ ਹੈ! ਸਕੀਮ ਦਾ ਮੁੱਖ ਟੀਚਾ ੳਲਪ ਸੰਖਿਆ ਵਾਲੇ ਵੰਚਿਤ ਤੇ ਲਾਇਕ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਪ੍ਰਦਾਨ ਕਰਨਾ ਹੈ |
+109	And with this scholarship, they will be able to pursue professional and technical education.	ਅਤੇ ਇਸ ਵਜ਼ੀਫੇ ਨਾਲ, ਉਹ ਆਪਣੀ ਪੇਸ਼ੇਵਰ ਅਤੇ ਤਕਨੀਕੀ ਸਿੱਖਿਆ ਨੂੰ ਅੱਗੇ ਵਧਾਉਣ ਦੇ ਯੋਗ ਹੋਣਗੇ|
+110	This scheme is initiated by the Ministry of Minority Affairs.	ਇਸ ਸਕੀਮ ਦੀ ਸ਼ੁਰੂਆਤ ੳਲਪ ਸੰਖਿਆ ਮੰਤਰਾਲੇ ਵੱਲੋਂ ਕੀਤੀ ਗਈ ਹੈ|
+111	Yes, sir.	ਹਾਂ, ਸਰ
+112	Is it correct that the scholarship is for studies in India, sir?	ਕੀ ਇਹ ਸਹੀ ਹੈ ਕਿ ਇਹ ਵਜੀਫ਼ਾ ਭਾਰਤ ਵਿੱਚ ਪੜ੍ਹਾਈ ਲਈ ਹੈ, ਸਰ?
+113	Yes. The scholarship will only be given to students studying in a government or private university in India.	ਹਾਂ, ਇਹ ਵਜੀਫ਼ਾ ਸਿਰਫ਼ ਭਾਰਤ ਦੇ ਸਰਕਾਰੀ ਜਾਂ ਗੈਰ-ਸਰਕਾਰੀ ਯੂਨੀਵਰਸਿਟੀ ਵਿੱਚ ਪੜ੍ਹ ਰਹੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਹੀ ਦਿੱਤਾ ਜਾਵੇਗਾ|
+114	Is this scholarship only for undergraduate students?	ਕੀ ਇਹ ਸਕਾਲਰਸ਼ਿਪ ਅੰਡਰਗਰੈਜੂਏਟ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਹੈ?
+115	No, it will cover technical and professional courses at undergraduate and post graduate level.	ਨਹੀਂ, ਇਹ ਅੰਡਰਗਰੈਜੂਏਟ ਅਤੇ ਪੋਸਟ ਗ੍ਰੈਜੂਏਟ ਪੱਧਰ ਤੇ ਤਕਨੀਕੀ ਅਤੇ ਪੇਸ਼ੇਵਰ ਕੋਰਸਾਂ ਨੂੰ ਕਵਰ ਕਰੇਗਾ|
+116	What are the criteria for applying for this scholarship?	ਇਸ ਵਜੀਫ਼ੇ ਲਈ ਅਰਜ਼ੀ ਦੇਂ ਦੇ ਮਾਪ-ਦੰਡ ਕੀ ਹਨ?
+117	Students who received at least 50% or an equivalent grade in their previous final examination will be eligible for a scholarship.	ਜਿਨ੍ਹਾਂ ਵਿਦਿਆਰਥੀਆਂ ਨੇ ਪਿਛਲੀ ਅੰਤਿਮ ਪ੍ਰੀਖਿਆ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 50% ਜਾਂ ਬਰਾਬਰ ਦਾ ਗ੍ਰੇਡ ਪ੍ਰਾਪਤ ਕੀਤਾ ਸੀ, ਉਹ ਸਕਾਲਰਸ਼ਿਪ ਲਈ ਯੋਗ ਹੋਣਗੇ|
+118	Also, if their parents' or guardians' annual income from all sources does not exceed Rs. 2.50 lakh.	ਨਾਲ ਹੀ , ਜੇਕਰ ਉਹਨਾਂ ਦੇ ਮਾਪਿਆਂ ਜਾਂ ਸਰਪ੍ਰਸਤਾਂ ਦੀ ਸਾਰੇ ਸਰੋਤਾਂ ਤੋਂ ਸਾਲਾਨਾ ਆਮਦਨ 2.50 ਲੱਖ ਰੁਪਏ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੈ|
+119	Sir, how many students will be awarded with the MCM?	ਸਰ, ਐਮ ਸੀ ਐਮ ਨਾਲ ਕਿੰਨੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਸਨਮਾਨਿਤ ਕੀਤਾ ਜਾਵੇਗਾ?
+120	A total of 60,000 scholarships are targeted to be distributed as Fresh Scholarships, besides renewal scholarships.	ਕੁੱਲ 60,000 ਵਜੀਫ਼ਿਆਂ ਨੂੰ ਤਾਜ਼ਾ ਵਜ਼ੀਫੇ ਵੰਡੇ ਜਾਣ ਦਾ ਟੀਚਾ ਹੈ, ਇਸ ਤੋਂ ਇਲਾਵਾ ਬਹਾਲੀ ਵਾਲੇ ਵਜ਼ੀਫੇ ਹਨ|
+121	That's a large number, and it will be beneficial to students who are in need.	ਇਹ ਇੱਕ ਵੱਡੀ ਗਿਣਤੀ ਹੈ ਅਤੇ ਇਹ ਲੋੜਵੰਦ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਲਾਹੇਵੰਦ ਹੋਵੇਗਾ|
+122	These scholarships are also a source of motivation for other students.	ਇਹ ਵਜ਼ੀਫੇ ਦੂਜੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵੀ ਪ੍ਰੇਰਨਾ ਦਾ ਸਰੋਤ ਹਨ|
+123	Yes, you are right.	ਹਾਂ, ਤੁਸੀਂ ਸਹੀ ਹੋ|
+124	There is one reservation policy, that is 30% scholarship is earmarked for girls students of each minority community in a State/UT.	ਇੱਥੇ ਇੱਕ ਰਿਜ਼ਰਵੇਸ਼ਨ ਨੀਤੀ ਹੈ, ਉਹ 30% ਵਜ਼ੀਫੇ ਇੱਕ ਰਾਜ/ ਯੂ ਟੀ ਵਿੱਚ ਹਰੇਕ ਘੱਟ-ਗਿਣਤੀ ਜਮਾਤ ਦੀਆਂ ਲੜਕੀਆਂ ਲਈ ਰੱਖੀ ਗਈ ਹੈ|
+125	Oh, that's excellent.	ਓਹ, ਇਹ ਸ਼ਾਨਦਾਰ ਹੈ|
+126	How long will this scholarship last?	ਇਹ ਵਜ਼ੀਫਾ ਕਦੋਂ ਤੱਕ ਚਲੇਗਾ?
+127	Scholarship will be provided for the entire academic year/course.	ਪੂਰੇ ਅਕਾਦਮਿਕ ਸਾਲ/ਕੋਰਸ ਲਈ ਵਜ਼ੀਫਾ ਪ੍ਰਦਾਨ ਕੀਤਾ ਜਾਵੇਗਾ|
+128	And the maintenance allowance will be given as fixed lump sum amount for an academic year of Rs. 10,000/- for hostellers and Rs. 5,000/- for day scholars.	ਅਤੇ ਰੱਖ-ਰੱਖਆ ਭੱਤਾ ਅਕਾਦਮਿਕ ਸਾਲ ਵਿੱਚ ਇਕਮੁਸ਼ਤ ਰਕਮ ਵਜੋਂ ਦਿੱਤਾ ਜਾਵੇਗਾ 10,000/- ਰੁਪਏ ਹੋਸਟਲਰਾਂ ਨੂੰ ਅਤੇ 5,000/- ਰੁਪਏ ਡੇਅ-ਸਕਾਰਲਾਂ ਨੂੰ|
+129	Great! How to apply for the scholarship?	ਬਹੁਤ ਵਧੀਆ! ਵਜ਼ੀਫੇ ਲਈ ਅਰਜ਼ੀ ਕਿਵੇਂ ਦੇਣੀ ਹੈ?
+130	The scheme is implemented through the National Scholarship Portal (NSP).	ਇਹ ਸਕੀਮ ਨੈਸ਼ਨਲ ਸਕਾਰਸ਼ਿਪ ਪੋਰਟਲ (ਐਨ ਐਸ ਪੀ) ਦੁਆਰਾ ਲਾਗੂ ਕੀਤੀ ਗਈ ਹੈ|
+131	It is mandatory for all students to apply online on the website i.e. www.scholarships.gov.in.	ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵੈੱਬਸਾਈਟ 'ਤੇ ਆਨ-ਲਾਈਨ ਅਪਲਾਈ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ ਜੋ www.scholarships.gov.in. ਹੈ|
+132	It will be useful for them.	ਇਹ ਉਹਨਾਂ ਲਈ ਲਾਹੇਵੰਦ ਹੋਵੇਗਾ|
+133	You can download more details from the National Scholarship Portal.	ਤੁਸੀਂ ਨੈਸ਼ਨਲ ਸਕਾਲਰਸ਼ਿਪ ਪੋਰਟਲ ਤੋਂ ਹੋਰ ਜਾਣਕਾਰੀ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ|
+134	Sure, sir. Thank you so much!	ਬਿਲਕੁੱਲ, ਸਰ| ਬਹੁਤ ਧੰਨਵਾਦ!
+135	You are welcome.	ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ|
+136	Hello, I am getting married in the coming month.	ਹੈਲੋ! ਮੇਰਾ ਅਗਲੇ ਮਹਿਨੇ ਵਿਆਹ ਹੋਣ ਵਾਲਾ ਹੈ I
+137	Could you please guide me on the legal procedure?	ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਨਿਯਮਤ ਪ੍ਰਕਿਰਿਆ ਬਾਰੇ ਦੱਸ ਸਕਦੇ ਹੋ ?
+138	How can I make my marriage a valid legal entity?	ਮੈਂ ਆਪਣੇ ਵਿਆਹ ਨੂੰ ਵੈਧ ਕਾਨੂੰਨੀ ਹੋਂਦ ਕਿਵੇਂ ਬਣਾ ਸਕਦਾ ਹਾਂ?
+139	A marriage must be registered for it to be acknowledged legally.	ਵਿਆਹ ਨੂੰ ਕਾਨੂੰਨੀ ਤੌਰ ਤੇ ਮਾਨਤਾ ਪ੍ਰਾਪਤ ਕਰਵਾਉਣ ਲਈ ਉਸ ਦੀ ਰਜਿਸਟਰੀ ਹੋਣੀ ਲਾਜ਼ਮੀ ਹੈ।
+140	The process of registration of a marriage ends with the bride and the groom obtaining a marriage certificate.	ਰਜਿਸਟਰੀ ਦੀ ਪ੍ਰਤਿਕਰਿਆ ਲਾੜਾ ਅਤੇ ਲਾੜੀ ਨੂੰ ਵਿਆਹ ਦਾ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਮਿਲਣ ਤੋਂ ਬਾਅਦ ਸਮਾਪਤ ਹੁੰਦੀ ਹੈ I
+141	How can I obtain a marriage certificate?	ਮੈਨੂੰ ਵਿਆਹ ਦਾ ਮਾਣ-ਪੱਤਰ ਕਿਵੇਂ ਮਿਲ ਸਕਦਾ ਹੈ ?
+142	You are required to submit an affidavit requesting the registration of your marriage.	ਤੁਹਾਨੂੰ ਇੱਕ ਹਲਫ਼ਨਾਮਾ ਜਮਾ ਕਰਵਾਉਣਾ ਪੇਏਗਾ ਜਿਸ ਦੇ ਜ਼ਰੀਏ ਤੁਸੀਂ ਆਪਣੇ ਵਿਆਹ ਦੀ ਰਜਿਸਟਰੀ ਲਈ ਬੇਨਤੀ ਕਰੋਂਗੇ I
+143	A couple can submit a joint affidavit for their marriage, or they can choose to submit an individual affidavit.	ਕੋਈ ਵੀ ਜੋੜਾ ਆਪਣੇ ਵਿਆਹ ਲਈ ਇੱਕ ਸੰਯੁਕਤ ਹਲਫ਼ਨਾਮਾ ਜਮ੍ਹਾਂ ਕਰ ਸਕਦਾ ਹੈ, ਜਾਂ ਉਹ ਇੱਕ ਵਿਅਕਤੀਗਤ ਹਲਫ਼ਨਾਮਾ ਜਮ੍ਹਾਂ ਕਰਵਾਉਣ ਦੀ ਚੋਣ ਕਰ ਸਕਦਾ ਹੈ।
+144	Is there any difference between the two?	ਕਿ ਇਨ੍ਹਾਂ ਦੋਨ੍ਹਾਂ ਵਿੱਚ ਕੋਈ ਫ਼ਰਕ ਹੈ?
+145	Not significantly as much, but some states mandate a joint affidavit submission.	ਜ਼ਿਆਦਾ ਨਹੀਂ ਹੈ, ਪਰ ਕੁੱਛ ਰਾਜ ਸੰਯੁਕਤ ਹਲਫ਼ਨਾਮਾ ਦਾਇਰ ਕਰਣ ਦੀ ਮੰਗ ਕਰਦੇ ਹਨ I
+146	Okay, what are the steps in filing a joint affidavit for registration of marriage?	ਠੀਕ ਹੈ, ਵਿਆਹ ਦੀ ਰਜਿਸਟਰੀ ਲਈ ਸੰਯੁਕਤ ਹਲਫ਼ਨਾਮਾ ਦਾਇਰ ਕਰਣ ਦੀ ਕਿ ਪ੍ਰਕਰਿਆ ਹੈ?
+147	Marriages can be registered under two acts in India, the Special Marriage Act of 1954 and the Hindu Marriage Act of 1955.	ਭਾਰਤ ਵਿੱਚ ਵਿਆਹ ਦੋ ਅਧਿਨਿਯਮ ਹੇਠ ਰਜਿਸਟ ਹੁੰਦੇ ਹਨ, 1954 ਦਾ ਸਪੈਸ਼ਲ ਮੈਰਿਜ ਐਕਟ ਅਤੇ 1955 ਦਾ ਹਿੰਦੂ ਮੈਰਿਜ ਐਕਟ I
+148	The former is applicable to everyone regardless of their faith or religion, and it includes Indian nationals living in foreign countries.	ਪਹਿਲਾਂ ਐਕਟ ਸਾਰੇ ਲੋਕਾਂ ਤੇ, ਓਨ੍ਹਾਂ ਦੇ ਵਿਸ਼ਵਾਸ ਜਾਂ ਧਰਮ ਦੀ ਪਰਵਾਹ ਕੀਤੇ ਬਿਨਾਂ,ਲਾਗੂ ਹੁੰਦਾ ਹੈ, ਅਤੇ ਇਸ ਵਿੱਚ ਵਿਦੇਸ਼ਾਂ ਵਿੱਚ ਰਹਿਣ ਵਾਲੇ ਭਾਰਤੀ ਨਾਗਰਿਕ ਵੀ ਸ਼ਾਮਲ ਹਨ।
+149	Interfaith marriages are to be registered under that act too.	ਅੰਤਰਜਾਤੀ ਵਿਆਹ ਵੀ ਇਸ ਐਕਟ ਤਹਿਤ ਰਜਿਸਟਰ ਕਿਤੇ ਜਾਂਦੇ ਹਨ।
+150	The latter is an act for two Hindus, extending to Jains, Buddhists and Sikhs.	ਦੂਜਾ ਐਕਟ ਹਿੰਦੂਆਂ ਲਈ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਜੈਨ, ਬੋਧੀ ਅਤੇ ਸਿੱਖ ਵੀ ਆਉਂਦੇ ਹਨ I
+151	What steps are to be followed to submit a joint affidavit under the Special Marriage Act?	ਸਪੈਸ਼ਲ ਮੈਰਿਜ ਐਕਟ ਦੇ ਅਧੀਨ ਸੰਯੁਕਤ ਹਲਫ਼ਨਾਮਾ ਦਾਇਰ ਕਰਣ ਲਈ ਕਿਹੜੇ ਜਤਨ ਕਰਨੇ ਪੈਨਦੇ ਹਨ ?
+152	First, a notice of intended marriage has to be filed to the Marriage Registrar of your district.	ਸਭ ਤੋਂ ਪਹਿਲਾਂ,ਆਪਣੇ ਜ਼ਿਲ੍ਹੇ ਦੇ ਵਿਆਹ ਰਜਿਸਟਰਾਰ ਨੂੰ ਵਿਆਹ ਕਰਨ ਦੇ ਇਰਾਦੇ ਬਾਰੇ ਇਤਲਾਹ ਕਰਨਾ ਪੇਏਗਾ I
+153	It can only be filed from a place where either parties have resided for a minimum of thirty days.	ਇਹ ਸਿਰਫ਼ ਉਸੀ ਥਾਂ ਤੋਂ ਭਰੀਆ ਜਾ ਸਕਦਾ ਹੈ ਜਿੱਥੇ ਦੋਵੇਂ ਪੱਖ ਘੱਟੋ-ਘੱਟ ਤੀਹ ਦਿਨਾਂ ਲਈ ਰਹੇ ਹਨ।
+154	This notice is then displayed on the notice board at the Registrar's office allowing any person who objects to the alliance to come forward.	ਇਹ ਸੂਚਨਾ ਫੇਰ ਰਜਿਸਟਰਾਰ ਦੇ ਦਫ਼ਤਰ ਦੇ ਬਾਹਰ ਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ਜਿਸ ਨਾਲ ਜੋ ਕਿਸੇ ਨੂੰ ਵੀ ਇਸ ਮੇਲ ਤੋਂ ਤਕਲੀਫ਼ ਹੈ ਉਸ ਨੂੰ ਅਗੇ ਆਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ I
+155	If no one objects to the alliance within 30 days, is the marriage solemnised?	ਜੇ 30 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਕੋਈ ਵੀ ਇਸ ਗਠਜੋੜ ਤੇ ਇਤਰਾਜ਼ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਤਾਂ ਕੀ ਵਿਆਹ ਨੂੰ ਸੰਪੂਰਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ?
+156	Yes, the bride and the groom are called to the office to solemnise their marriage in the presence of 3 witnesses from either side.	ਹਾਂਜੀ, ਲਾੜਾ ਅਤੇ ਲਾੜੇ ਨੂੰ ਦੋਵਾਂ ਪਾਸਿਆਂ ਤੋਂ 3 ਗਵਾਹਾਂ ਦੀ ਮੌਜੂਦਗੀ ਵਿੱਚ ਆਪਣੇ ਵਿਆਹ ਦੀ ਰਸਮ ਅਦਾ ਕਰਨ ਲਈ ਦਫ਼ਤਰ ਬੁਲਾਇਆ ਜਾਂਦਾ ਹੈ I
+157	Each of these six witnesses have to sign in the register.	ਇਨ੍ਹਾਂ ਛੇਹੋ ਗਵਾਹਾਂ ਨੂੰ ਰਜਿਸਟਰ ਵਿੱਚ ਦਸਤਖਤ ਕਰਨੇ ਪੈਂਦੇ ਹਨ।
+158	How is the process different for the Hindu Marriage Act?	ਇਸ ਪ੍ਰਕਿਰਿਆ ਹਿੰਦੂ ਮੈਰਿਜ ਐਕਟ ਲਈ ਕਿਦਾਂ ਅਲੱਗ ਹੈ?
+159	The couple has to fill an application form and submit it along with two photographs of their wedding ceremony and an invitation card for the same.	ਜੋੜੇ ਨੂੰ ਇੱਕ ਬਿਨੈ-ਪੱਤਰ ਭਰਨਾ ਪੈਂਦਾ ਹੈ ਅਤੇ ਇਸ ਦੇ ਨਾਲ ਓਨ੍ਹਾਂ ਨੂੰ ਆਪਣੇ ਵਿਆਹ ਸਮਾਰੋਹ ਦੀ ਦੋ ਤਸਵੀਰਾਂ ਅਤੇ ਇੱਕ ਸੱਦਾ ਪੱਤਰ ਜਮ੍ਹਾ ਕਰਨਾ ਹੁੰਦਾ ਹੈ।
+160	Both parties must submit proofs of their identity, age and address.	ਦੋਨੋਂ ਪੱਖਾਂ ਨੂੰ ਆਪਣੀ ਪਛਾਣ, ਉਮਰ ਅਤੇ ਪਤੇ ਦੇ ਸਬੂਤ ਜਮ੍ਹਾਂ ਕਰਾਉਣੇ ਪੈਣਗੇ I
+161	Separate affidavits declaring that they do not have any living spouses at the time of the marriage must be notarised beforehand and submitted.	ਦੋਨੋਂ ਪੱਖਾਂ ਨੂੰ ਵੱਖਰੇ ਹਲਫ਼ਨਾਮੇ ਜਮ੍ਹਾਂ ਕਰਾਉਣੇ ਪੇਂਦੇ ਹਨ ਜੋ ਇਹ ਘੋਸ਼ਣਾ ਕਰਦੇ ਹਨ ਕਿ ਵਿਆਹ ਦੇ ਸਮੇਂ ਉਨ੍ਹਾਂ ਦਾ ਕੋਈ ਜੀਵਿਤ ਜੀਵਨ ਸਾਥੀ ਨਹੀਂ ਹੈ, ਇਹ ਪਹਿਲਾਂ ਤੋਂ ਨੋਟਰਾਈਜ਼ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ I
+162	Is there any time duration within which one must have their marriage registered?	ਕੀ ਸਮਾਂ ਸਿਮੀਤ ਹੁੰਦਾ ਹੈ ਜਿਸ ਦੇ ਅੰਦਰ ਆਪਣਾ ਵਿਆਹ ਰਜਿਸਟਰ ਕਰਾਉਣਾ ਚਾਹੀਦਾ ਹੈ?
+163	Who can be a witness to the registration of the marriage?	ਵਿਆਹ ਦੀ ਰਜਿਸਟਰੀ ਦੌਰਾਨ ਕੋਣ ਗਵਾਹੀ ਦੇ ਸਕਦਾ ਹੈ?
+164	Under the Hindu Marriage Act, you need to register your marriage within one month of the wedding ceremony.	ਹਿੰਦੂ ਮੈਰਿਜ ਐਕਟ ਦੇ ਤਹਿਤ , ਤੁਹਾਨੂੰ ਆਪਣੇ ਵਿਆਹ ਹੋਣ ਦੇ ਇੱਕ ਮਹਿਨੇ ਅੰਦਰ ਅੰਦਰ ਹੀ ਉਸ ਨੂੰ ਅੰਦਰਾਜ ਕਰਨਾ ਪਏਗਾ I
+165	Both the bride and the groom sign the registers in the presence of three witnesses.	ਦੋਨੋਂ ਲਾੜੇ ਤੇ ਲਾੜੀ ਤਿੰਨ ਗਵਾਹਾਂ ਦੀ ਮੋਜੁਦਗੀ ਵਿੱਚ ਰਜਿਸਟਰ ਵਿੱਚ ਆਪਣੇ ਹਸਤਾਖਰ ਕਰਦੇ ਹਨ I
+166	Parents or guardians of each party should be present during the registration.	ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੌਰਾਨ ਦੋਨੋਂ ਪਾਰਟੀਆ ਦੇ ਮਾਪੇ ਜਾਂ ਸਰਪ੍ਰਸਤ ਮੌਜੂਦ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।
+167	Which documents will be required for the affidavit?	ਹਲਫ਼ਨਾਮੇ ਲਈ ਕਿਹਦੇ ਦਸਤਾਵੇਜ਼ਾ ਦੀ ਲੋੜ ਹੈ?
+168	The application form, ID proof, proof of address, proof of birth date, two passport photos of the bride and the groom are compulsorily needed.	ਲਾੜੇ ਤੇ ਲਾੜੀ ਦਾ ਅਰਜ਼ੀ ਫਾਰਮ, ਪਛਾਣ ਪੱਤਰ, ਪਤੇ ਦਾ ਸਬੂਤ, ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ, ਅਤੇ ਓਨ੍ਹਾਂ ਦੀਆਂ ਦੋ ਪਾਸਪੋਰਟ ਫੋਟੋਆਂ ਜ਼ਰੂਰ ਲਗਣਗੀਆ I
+169	In case of a divorcee or a widow/widower, the divorce decree or the death certificate of the previous spouse is required.	ਤਲਾਕ ਲੈਣ ਜਾਂ ਰੰਡਾ/ਵਿਧਵਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ, ਤਲਾਕ ਦਾ ਫ਼ਰਮਾਨ ਜਾਂ ਪਿਹਲੇ ਜੀਵਨ ਸਾਥੀ ਦੇ ਮੌਤ ਦੇ ਸਰਟੀਫਿਕੇਟ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।
+170	Hello, this is my first time applying for an e-visa.	ਹੈਲੋ! ਮੈਂ ਪਹਿਲੀ ਵਾਰ ਈ-ਵੀਜ਼ਾ ਲਈ ਅਰਜ਼ੀ ਦੇ ਰਹੀ ਹਾਂ।.
+171	I was hoping you could tell me what documents I need to apply.	ਮੈਂ ਉਮੀਦ ਕਰ ਰਹੀ ਸੀ ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਦੱਸ ਸਕੋਂਗੇ ਕਿ ਕਿਹੜੇ ਦਸਤਾਵੇਜ਼ਾ ਦੀ ਲੋੜ ਪਏਗੀ I
+172	Of course, I am glad you called me.	ਜ਼ਰੂਰ! ਮੈਨੂੰ ਖੁਸ਼ੀ ਹੈ ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਫੋਨ ਕਿਤਾ I
+173	May I ask which country you need a visa for?	ਕਿ ਮੈਂ ਜਾਣ ਸਕਦਾ ਹਾਂ ਕਿ ਤੁਹਾਨੂੰ ਕਿਹੜੇ ਦੇਸ਼ ਲਈ ਵੀਜ਼ਾ ਚਾਹੀਦਾ ਹੈ?
+174	I need a tourist visa for India.	ਮੈਨੂੰ ਭਾਰਤ ਲਈ ਸੈਲਾਨੀ ਵੀਜ਼ਾ ਚਾਹੀਦਾ ਹੈ I
+175	I'll be visiting for a week.	ਮੈਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੀ ਹਾਂ I
+176	Ok, the most important document you need is a passport.	ਠੀਕ ਹੈ, ਤੁਹਾਨੂੰ ਸਭ ਤੋਂ ਜ਼ਰੂਰੀ ਦਸਤਾਵੇਜ਼ ਜਿਹੜਾ ਲਗੇਗਾ ਓਹ ਹੈ ਪਾਸਪੋਰਟ I
+177	You need to ensure that the passport is valid for at least six months on the expected date of arrival in India.	ਤੁਹਾਨੂੰ ਇਸ ਗੱਲ ਹੈ ਧਿਆਨ ਰੱਖਣਾ ਪਏਗਾ ਕਿ ਤੁਹਾਡਾ ਪਾਸਪੋਰਟ ਘਟੋ-ਘੱਟ 6 ਮਹਿਨੀਆਂ ਲਈ ਤੁਹਾਡੀ ਭਾਰਤ ਵਿੱਚ ਆਣ ਦੀ ਮਿਤੀ ਤੋਂ ਜਾਇਜ ਹੈ I
+178	We get a lot of cases that are rejected just for this reason.	ਸਾਡੇ ਕੋਲ ਬਹੂਤ ਸਾਰੇ ਕੈਸ ਅਜਿਹੇ ਆਉਂਦੇ ਹਨ ਜਿਥੇ ਪਾਸਪੋਰਟ ਸਿਰਫ਼ ਇਸੀ ਕਾਰਣ ਰੱਦ ਹੋ ਜਾਂਦੇ ਹਨ I
+179	Yes, I already checked my passport validity, and it complies with what you just said.	ਹਾਂ, ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਆਪਣੇ ਪਾਸਪੋਰਟ ਦੀ ਵੈਧਤਾ ਦੀ ਜਾਂਚ ਕਰ ਲਈ ਹਾਂ, ਅਤੇ ਇਹ ਜੋ ਤੁਸੀਂ ਹਜੇ ਕਿਹਾ ਹੈ ਉਸ ਦੀ ਪਾਲਣਾ ਕਰਦੀ ਹੈ I
+180	Is there anything else I need?	ਕਿ ਮੈਨੂੰ ਕਿਸੀ ਹੋਰ ਚੀਜ਼ ਦੀ ਲੋੜ ਹੈ?
+181	Ok, that's good then.	ਠੀਕ ਹੈ, ਫੇਰ ਵਧੀਆ ਹੈ I
+182	The next thing you need is a valid email ID.	ਤੁਹਾਨੂੰ ਅਗਲੀ ਚੀਜ਼ ਜੋ ਚਾਹੀਦੀ ਹੈ ਓਹ ਹੈ ਇੱਕ ਜਾਈਜ਼ ਇ-ਮੇਲ ਆਇ.ਡਿ I
+183	Please be careful about this too, as when an Indian visa has been processed and approved, it will be sent directly to the email address given on the application.	ਕ੍ਰਿਪਾ ਕਰ ਕੇ ਇਸ ਬਾਰੇ ਵੀ ਧਿਆਨ ਰੱਖੋ, ਕਿਉਂਕਿ ਜਦੋਂ ਭਾਰਤੀ ਵਿਜ਼ਾ ਪ੍ਰੋਸੈਸਡ ਅਤੇ ਪ੍ਰਵਾਨਿਤ ਹੋਣ ਤੋਂ ਬਾਅਦ, ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਤੇ ਦਿੱਤੇ ਗਏ ਈ-ਮੇਲ ਪਤੇ ਤੇ ਸਿੱਧਾ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ।
+184	Is it okay if I use an official ID and not a personal one?	ਕੀ ਇਹ ਠੀਕ ਹੈ ਜੇਕਰ ਮੈਂ ਇੱਕ ਇੱਕ ਨਿੱਜੀ ਆਈ.ਡੀ ਦੀ ਥਾਂ ਇੱਕ ਅਧਿਕਾਰਤ ਆਈ.ਡੀ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹਾਂ ?
+185	I don't check the mails on my personal ID very often.	ਮੈਂ ਆਪਣੀ ਨਿੱਜੀ ਆਈ.ਡੀ ਤੇ ਈ.ਮੇਲ ਦੀ ਵਰਤੋਂ ਜਿਆਦਾ ਨਹੀਂ ਕਰਦੀ I
+186	That does not matter.	ਉਸ ਨਾਲ ਕੋਈ ਫਰਕ ਨਹੀਂ ਪੈਂਦਾ ਹੈ I
+187	The e-mail address needs to be active, that's all.	ਈ.ਮੇਲ ਪਤਾ ਬਸ ਚਲਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ I
+188	Are these the only things that I require?	ਕਿ ਮੈਨੂੰ ਇਨ੍ਹਾਂ ਚੀਜ਼ਾਂ ਦੀ ਹੀ ਲੋੜ ਹੈ ?
+189	There are also e-visa India evidence requirements that are needed to obtain the authorization to travel to India.	ਕਈ ਈ-ਵੀਜ਼ਾ ਭਾਰਤੀ ਸਬੂਤ ਦੀ ਲੋੜ ਵੀ ਹੈ ਜਾਂ ਜੋ ਭਾਰਤ ਜਾਣ ਲਈ ਅਧਿਕਾਰ ਮਿਲ ਸਕੇ I
+190	Applicants are required to submit a scanned color copy of the first page or the biographical page of their valid passport.	ਬਿਨੈਕਾਰਾ ਨੂੰ ਆਪਣੇ ਵੈਧ ਪਾਸਪੋਰਟ ਦੇ ਪਹਿਲੇ ਪੰਨੇ ਜਾਂ ਜੀਵਨੀ ਪੰਨੇ ਦੀ ਸਕੈਨ ਕਾਪੀ ਜਮਾਂ ਕਰਾਨੀ ਪੇਏਗੀ I
+191	Each applicant must also submit a recent passport-style, color photo	ਹਰੇਕ ਬਿਨੈਕਾਰ ਨੂੰ ਆਪਣੀ ਇੱਕ ਹਾਲ ਹੀ ਦੀ ਪਾਸਪੋਰਟ-ਸ਼ੈਲੀ, ਰੰਗੀਨ ਫੋਟੋ ਵੀ ਜਮ੍ਹਾਂ ਕਰਨੀ ਪੇਏਗੀ I
+192	That is quite a lot of specifications.	ਇਹ ਤਾਂ ਬਹੁਤ ਸਾਰੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਹਨ I
+193	I'll note it down so I don't forget.	ਮੈਂ ਇਸ ਨੂੰ ਲਿੱਖ ਲੈਣੀ ਹੈ ਤਾਂ ਜੋ ਮੈਂ ਭੂਲ ਨਾ ਜਾਵਾਂ I
+194	That's a good idea.	ਇਹ ਵਧੀਆ ਖਿਆਲ ਹੈ I
+195	You also need a debit or credit card.	ਤੁਹਾਨੂੰ ਡੈਬਿਟ ਜਾਂ ਕ੍ਰੇਡਿਟ ਕਾਰਡ ਦੀ ਲੋੜ ਪਵੇਗੀ I
+196	Ok, I have one in my possession.	ਠੀਕ ਹੈ, ਮੇਰੇ ਕੋਲ ਇੱਕ ਹੈ I
+197	Is it okay if I call again in case I have other doubts?	ਜੇਕਰ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ ਤਾਂ ਮੈਂ ਤੁਹਾਨੂੰ ਕਾਲ ਕਰ ਸਕਦਾ ਹਾਂ?
+198	Of course, feel free to contact us in case of any queries.	ਜ਼ਰੂਰ, ਕਿਸੇ ਵੀ ਸੰਬੰਧਿਤ ਸਵਾਲਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਵਿੱਚ ਝਿਜਕ ਨਾ ਮਹਿਸੂਸ ਕਰਨਾ I
+199	I have to take a Foreign language from this year.	ਮੈਂ ਇਸ ਸਾਲ ਤੋਂ ਵਿਦੇਸ਼ੀ ਭਾਸ਼ਾ ਦਾ ਪਾਠਕ੍ਰਮ ਚੁਣਨਾ ਹੈ I
+200	I'm not sure which one to take.	ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਆ ਰਿਹਾ ਕਿਹੜਾ ਲਵਾਂ
+201	There are too many options.	ਬਹੁਤ ਸਾਰੇ ਵਿਕਲਪ ਹਨ
+202	Frankly, I am confused.	ਸੱਚ ਦੱਸਾਂ ਤਾਂ, ਮੈਂ ਉਲਝਿਆ ਹੋਇਆ ਹਾਂ
+203	Which language do you think I should take?	ਤੁਹਾਡੇ ਅਨੁਸਾਰ ਮੈਨੂੰ ਕਿਹੜਾਂ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ ?
+204	I would suggest picking one that you like.	ਮੈਂ ਸੁਝਾਅ ਦਵਾਂਗਾ ਕਿ ਓਹ ਚੁਣੋ ਜਿਹੜਾ ਤੁਹਾਨੂੰ ਪਸੰਦ ਹੈ
+205	That way, you will have an interest in learning it.	ਇਸ ਤਰ੍ਹਾਂ, ਤੁਹਾਨੂੰ ਉਸ ਨੂੰ ਯਾਦ ਕਰਨ ਵਿੱਚ ਦਿਲਚਸਪੀ ਆਵੇਗੀ I
+206	Also, you won't feel like feeling forced learning it.	ਅਤੇ, ਤੁਹਾਨੂੰ ਇੰਝ ਨਹੀਂ ਲਗੇਗਾ ਜਿਵੇਂ ਤੁਸੀਂ ਉਸ ਨੂੰ ਜਬਰਸਦਤੀ ਯਾਦ ਕਰ ਰਹੇ ਹੋ
+207	That is the problem.	ਇਹੀ ਤਾਂ ਸਮਸਿਆ ਹੈ
+208	I think I like every language.	ਮੈਨੂੰ ਲਗਦਾ ਹੈ ਕਿ ਮੈਨੂੰ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਪਸੰਦ ਹਨ
+209	If I had an option, I would have taken them all.	ਜੇ ਮੇਰੇ ਕੋਲ ਕੋਈ ਅਹਿਜਾ ਵਿਕਲਪ ਹੁੰਦਾ ਤਾਂ, ਮੈਂ ਸਾਰੀਆਂ ਹੀ ਲੈ ਲੈਂਦੀ
+210	For next year, I can only take one.	ਅਗਲੇ ਸਾਲ ਲਈ, ਮੈਂ ਸਿਰਫ਼ ਇੱਕ ਹੀ ਲੈ ਸਕਦੀ ਹਾਂ
+211	Then I would suggest taking a language most beneficial for you.	ਫੇਰ ਮੈਂ ਦੇਵਾਂਗਾ ਕਿ ਓਹ ਭਾਸ਼ਾ ਚੁਣੋ ਜੋ ਤੁਹਾਡੇ ਲਈ ਸੱਭ ਤੋਂ ਜ਼ਿਆਦਾ ਫੇਡੇਮਂਡ ਹੈ
+212	One that will be of help in the future.	ਓਹ ਜਿਹੜੀ ਭ੍ਹਵਿਖ ਵਿੱਚ ਮਦਦਗਾਰ ਸਾਬੂਤ ਹੋਵੇਗੀ
+213	Have you decided what you want to be in the future?	ਤੁਸੀਂ ਸੋਚ ਲਿਆ ਹੈ ਕਿ ਤੁੱਸੀ ਭਵਿੱਖ ਵਿੱਚ ਕਿ ਬਣਨਾ ਹੈ?
+214	I haven't decided anything of that sort.	ਮੈਂ ਅਹਿਜਾ ਕੁੱਛ ਨਹੀਂ ਸੋਚੀਆਂ
+215	Can you tell me which language is beneficial for which fields?	ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿਹੜੀ ਭਾਸ਼ਾ ਕਿਹੜੇ ਖੇਤਰ ਲਈ ਲਾਭਦਾਇਕ ਹੈ ?
+216	It will be really helpful for me to choose later.	ਇਹ ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਚੁੱਣਨ ਲਈ ਮਦਦਗਾਰ ਹੋਵੇਗਾ
+217	If you want to take up literature, French would be the best for that.	ਜੇ ਤੁਸੀਂ ਸਾਹਿਤ ਲੈਣਾ ਹੈ ਤਾਂ ਉਸ ਲਈ ਫਰਾਂਸੀਸੀ ਲਭਦਾਈਕ ਹੋਵੇਗੀ I
+218	There are lots of literature works that you can read.	ਬਹੁਤ ਸਾਰੀਆਂ ਸਾਹਿਤਕ ਰਚਨਾਵਾਂ ਹਨ ਜੋ ਤੁਸੀਂ ਪੜ੍ਹ ਸਕਦੇ ਹੋ।
+219	If you want to step into entertainment field, Korean is gonna help.	ਜੇਕਰ ਤੁਸੀਂ ਮਨੋਰੰਜਨ ਖੇਤਰ ਵਿੱਚ ਜਾਣਾ ਹੈ, ਤਾਂ ਕੋਰੀਅਨ ਮਦਦ ਕਰੇਗੀ
+220	K-pop and K-dramas are gaining a lot of popularity these days.	ਕੇ-ਪੋਪ ਅਤੇ ਕੇ-ਡ੍ਰਾਮਾ ਅੱਜ ਕੱਲ ਬਹੁਤ ਪ੍ਰਸਿੱਧੀ ਵਿੱਚ ਹਨ
+221	Spanish would be really useful for tourism.	ਸੈਰ-ਸਪਾਟੇ ਲਈ ਸਪੇਨੀ ਲਾਭਦਾਇਕ ਹੈ
+222	These all sound wonderful.	ਇਹ ਸਭ ਸ਼ਾਨਦਾਰ ਵਿਕਲਪ ਹਨ
+223	I think I would be taking science for my further studies.	ਮੈਨੂੰ ਲਗਦਾ ਹੈ ਕਿ ਮੈਂ ਆਪਣੀ ਅਗੇ ਦੀ ਪੜ੍ਹਾਈ ਲਈ ਵਿਗਿਆਨ ਲੂੰਗੀ
+224	Which all languages are best for scientific studies?	ਵਿਗਿਆਨਕ ਅਧਿਐਨਾਂ ਲਈ ਕਿਹੜੀਆਂ ਭਾਸ਼ਾਵਾਂ ਉੱਤਮ ਹਨ?
+225	German would be the best language for you.	ਜਰਮਨ ਤੁਹਾਡੇ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਰਹੇਗੀ
+226	As most of the early scientific documents were written in German, it will be really helpful.	ਕਿਉਂਕਿ ਜਿਆਦਾਤਰ ਪੁਰਾਣੇ ਵਿਗਿਆਨਕ ਦਸਤਾਵੇਜ਼ ਜਰਮਨ ਵਿੱਚ ਹੀ ਲਿਖੇ ਹੋਏ ਹਨ
+227	Moreover, there are a lot of further studies opportunities in Germany.	ਇਸ ਤੋਂ ਇਲਾਵਾ, ਜਰਮਨੀ ਵਿਚ ਹੋਰ ਬਹੁਤ ਸਾਰੇ ਅਗੇ ਪੜ੍ਹਨ ਦੇ ਮੌਕੇ ਹਨ.
+228	But, if you want to go into technologies, I think it would be better to take up Chinese.	ਪਰ ਜੇਕਰ ਤੁਸੀਂ ਤਕਨਾਲੋਜੀ ਵਿੱਚ ਜਾਣਾ ਹੈ, ਉਸ ਦੇ ਲਈ ਮੇਰੇ ਅਨੁਸਾਰ ਚੀਨੀ ਭਾਸ਼ਾ ਜਿਆਦਾ ਲਾਭਦਾਇਕ ਲੱਗ ਰਹੀ ਹੈ
+229	You will need it to catch up with the pace they are inventing technologies.	ਜਿਸ ਰਫ਼ਤਾਰ ਨਾਲ ਉਹ ਤਕਨੀਕਾਂ ਦੀ ਖੋਜ ਕਰ ਰਹੇ ਹਨ, ਤੁਹਾਨੂੰ ਇਸ ਦੀ ਲੋੜ ਪਵੇਗੀ।
+230	I am sure this will be helpful for me to choose in the future.	ਮੈਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਇਹ ਭਵਿੱਖ ਵਿੱਚ ਚੋਣ ਕਰਨ ਲਈ ਮੇਰੇ ਲਈ ਕਾਫ਼ੀ ਮਦਦਗਾਰ ਹੋਵੇਗਾ।
+231	Good morning to all my dear students.	ਮੇਰੇ ਸਾਰੇ ਪਿਆਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਸ਼ੁੱਭ ਸਵੇਰ
+232	Hope you all are doing fine.	ਉਮੀਦ ਹੈ ਕਿ ਤੁਸੀਂ ਸਾਰੇ ਠੀਕ ਹੋਵੋਂਗੇ|
+233	Do you remember how we started talking about rivers in our last class?	ਕੀ ਤੁਹਾਨੂੰ ਯਾਦ ਹੈ ਕਿ ਆਪਾਂ ਆਪਣੀ ਆਖਰੀ ਕਲਾਸ ਵਿੱਚ ਕਿਵੇਂ ਨਦੀਆਂ ਬਾਰੇ ਗੱਲ ਸ਼ੁਰੂ ਕੀਤੀ ਸੀ?
+234	Can you tell me what you know about some of the well known rivers of our country, with some unique features?	ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਸਾਡੇ ਦੇਸ਼ ਦੀਆਂ ਨਦੀਆਂ ਬਾਰੇ ਕੀ ਜਾਣਦੇ ਹੋ, ਕੁੱਝ ਵਿਲੱਖਣ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੇ ਨਾਲ?
+235	Good Morning, miss Lea!	ਸ਼ੁੱਭ ਸਵੇਰ, ਮਿਸ ਲੀ !
+236	I remember a few rivers from the last class.	ਮੈਨੂੰ ਪਿਛਲੀ ਕਲਾਸ ਤੋਂ ਕੁੱਝ ਨਦੀਆਂ ਦੇ ਨਾਮ ਯਾਦ ਹਨ|
+237	We started with the river Ganga, also called Ganges, which is the longest river of India, it has a lot of religious significance, but at the same time, it is also one of the highly polluted rivers.	ਅਸੀਂ ਗੰਗਾ ਨਦੀ ਨਾਲ ਸ਼ੁਰੂਆਤ ਕੀਤੀ ਸੀ, ਜਿਸ ਨੂੰ ਗਣਗੇਜ਼ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ, ਜੋ ਕਿ ਭਾਰਤ ਦੀ ਸਭ ਤੋਂ ਲੰਬੀ ਨਦੀ ਹੈ, ਇਸ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਧਾਰਮਿਕ ਸੰਕੇਤ ਹਨ, ਪਰ ਨਾਲ ਹੀ, ਇਹ ਗੰਗੋਤਰੀ ਤੋਂ ਪੈਦਾ ਹੋਣ ਵਾਲੀਆਂ ਬਹੁਤ ਜਿਆਦਾਂ ਪ੍ਰਦੂਸ਼ਿਤ ਨਦੀਆਂ ਵਿੱਚੋਂ ਇੱਕ ਵੀ ਹੈ|
+238	It originates from Gangotri in Himachal Pradesh, and has a length of around 2525 km, flowing through more than 15 major Indian cities.	ਇਹ ਗੰਗੋਤਰੀ, ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼ ਚੋਂ ਨਿਕਲਦੀ ਹੈ, ਅਤੇ ਲਗਭਗ 2525 ਕਿਲੋਮੀਟਰ ਲੰਬੀ ਹੈ, 15 ਤੋਂ ਵੱਧ ਪ੍ਰਮੁੱਖ ਭਾਰਤੀ ਸ਼ਹਿਰਾਂ ਵਿੱਚੋਂ ਲੰਘਦੀ ਹੈ|
+239	And yes, it has also created the largest Deltas in the world: the Sundarbans in West Bengal.	ਅਤੇ ਹਾਂ, ਇਹ ਪੱਛਮੀ ਬੰਗਾਲ ਵਿੱਚ :ਸੁੰਦਰਬਨ ਦੁਨਿਆ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਡੈਲਟਾ ਵੀ ਬਣਾਉਂਦੀ ਹੈ|
+240	You remember about Indus?	ਤੁਹਾਨੂੰ ਇੰਡਸ ਬਾਰੇ ਯਾਦ ਹੈ?
+241	This river gave rise to the largest ancient human civilisations, Indus valley civilisation and holds a great historical value.	ਇਸ ਨਦੀ ਨੇ ਸਭ ਤੋਂ ਵੱਡੀ ਪ੍ਰਾਚੀਨ ਮਨੁੱਖੀ ਸਭਿਅਤਾਵਾਂ ਨੂੰ ਉਭਾਰ ਦਿੱਤਾ ਹੈ, ਜੋ ਇੰਡਸ ਘਾਟੀ ਦੀ ਸੱਭਿਅਤਾ ਹੈ ਅਤੇ ਇੱਕ ਮਹਾਨ ਇਤਿਹਾਸਕ ਮੁੱਲ ਰੱਖਦੀ ਹੈ|
+242	Yes, you said it is also called the Sindhu.	ਹਾਂ, ਤੁਸੀਂ ਕਿਹਾ ਸੀ ਇਸਨੂੰ ਸਿੰਧੂ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ|
+243	It flows through China, Pakistan, as well as India.	ਇਹ ਚੀਨ, ਪਾਕਿਸਤਾਨ ਵਿੱਚੋਂ ਲੰਘੜੀ ਹੈ ਅਤੇ ਨਾਲ ਹੀ ਭਾਰਤ ਵਿੱਚੋਂ ਵੀ|
+244	India has only five per cent share of it, yet it is one of the most important rivers in terms of civilization, as well as economy.	ਭਾਰਤ ਵਿੱਚ ਇਸਦਾ ਸਿਰਫ਼ 5% ਹਿੱਸਾ ਹੈ, ਫਿਰ ਵੀ ਇਹ ਸੱਭਿਅਤਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਣ ਨਦੀਆਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ, ਅਤੇ ਨਾਲ ਹੀ ਆਰਥਿਕਤਾ ਪੱਖੋਂ ਵੀ|
+245	Ma'am, you also mentioned something about the relevance of the words India and Indus; could you please repeat that part?	ਮੈਡਮ, ਤੁਸੀਂ ਇਸ ਦੀ ਸਾਰਥਕਤਾ ਬਾਰੇ ਵੀ ਕੁੱਝ ਜ਼ਿਕਰ ਕੀਤਾ ਹੈ; ਭਾਰਤ ਅਤੇ ਸਿੰਧ ਸ਼ਬਦਾਂ ਬਾਰੇ, ਕੀ ਕਿਰਪਾ ਕਰਕੇ ਤੁਸੀਂ ਉਸ ਹਿੱਸੇ ਨੂੰ ਦੁਹਰਾ ਸਕਦੇ ਹੋ?
+246	The Indus Waterway going through northwest India into Pakistan got its name from the Sanskrit expression Sindhu.	ਉੱਤਰ-ਪੱਛਮੀ ਭਾਰਤ ਤੋਂ ਪਾਕਿਸਤਾਨ ਵਿੱਚ ਜਾਣ ਵਾਲੇ ਸਿੰਧ ਮਾਰਗ ਦਾ ਨਾਮ ਸੰਸਕ੍ਰਿਤ ਸਮੀਕਰਨ ਸਿੰਧੂ ਤੋਂ ਮਿਲਿਆ ਹੈ|
+247	The Persians assigned the land around the Indus Waterway as Hindu, an error of the Sanskrit Sindhu and hence the name India is derived from Indus.	ਫ਼ਾਰਸੀ ਲੋਕਾਂ ਨੇ ਇੰਡਸ ਦੇ ਆਲੇ-ਦੁਆਲੇ ਦੀ ਜ਼ਮੀਨ ਨੂੰ ਹਿੰਦੂ ਵਜੋਂ ਸੌਂਪਿਆ ਹੈ, ਸੰਸਕ੍ਰਿਤ ਦੀ ਇੱਕ ਗਲਤੀ ਸਿੰਧੂ ਅਤੇ ਇਸ ਲਈ ਇੰਡੀਆ ਦਾ ਨਾਮ ਸਿੰਧ ਤੋਂ ਲਿਆ ਗਿਆ ਹੈ|
+248	Oh, right, you did teach us all this, thank you.	ਓਹ, ਹਾਂ, ਤੁਸੀਂ ਸਾਨੂੰ ਸਭ ਕੁੱਝ ਸਿਖਾਇਆ ਸੀ, ਧੰਨਵਾਦ|
+249	Do you remember about the facts we were discussing about the largest river of India, Brahmaputra sometime back?	ਕੀ ਤੁਹਾਨੂੰ ਉਹਨਾਂ ਤੱਥਾਂ ਬਾਰੇ ਯਾਦ ਹੈ ਜਿਨ੍ਹਾਂ ਬਾਰੇ ਅਸੀਂ ਕੁੱਝ ਸਮਾਂ ਪਹਿਲਾਂ ਭਾਰਤ ਦੀ ਸਭ ਤੋਂ ਵੱਡੀ ਨਦੀ, ਬ੍ਰਹਮਪੁਤਰਾ ਬਾਰੇ ਚਰਚਾ ਕਰ ਰਹੇ ਸੀ?
+250	From where it originates and how it is having a different name there?	ਇਹ ਕਿਥੋਂ ਨਿਕਲਦੀ ਹੈ ਅਤੇ ਉੱਥੋਂ ਇਸਦਾ ਨਾਮ ਵੱਖਰਾ ਕਿਵੇਂ ਹੁੰਦਾ ਹੈ?
+251	It originates from Angsi Glacier near Mount Kailash, and it is also called Yarlung Tsangpo.	ਇਹ ਕੈਲਾਸ਼ ਪਰਬਤ ਦੇ ਨੇੜੇ ਅੰਗਸੀ ਗਲੇਸ਼ੀਅਰ ਤੋਂ ਉਤਪੰਨ ਹੁੰਦਾ ਹੈ ਅਤੇ ਇਸਨੂੰ ਯਾਰਲੂੰਗ ਸਾਂਗਪੋ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ|
+252	It's delta is home to 130 million people and 6, 00, 000 people living on the riverine islands.	ਇਸਦਾ ਡੈਲਟਾ 130 ਮਿਲੀਅਨ ਲੋਕਾਂ ਦਾ ਘਰ ਹੈ ਅਤੇ 6000 ਲੋਕ ਰਿਵਰਾਈਨ ਆਈਲੈਂਡਜ਼ 'ਤੇ ਰਹਿੰਦੇ ਹਨ|
+253	But ma'am, how can both Ganga and Brahmaputra be the largest Indian rivers?	ਪਰ ਮੈਡਮ, ਗੰਗਾ ਅਤੇ ਬ੍ਰਹਮਪੁਤਰਾ ਦੋਵੇਂ ਭਾਰਤ ਦੀਆਂ ਸਭ ਤੋਂ ਵੱਡੀਆਂ ਨਦੀਆਂ ਕਿਵੇਂ ਹੋ ਸਕਦੀਆਂ ਹਨ?
+254	Brahmaputra is clearly longer than Ganga.	ਬ੍ਰਹਮਪੁਤਰਾ ਗੰਗਾ ਨਾਲੋਂ ਸਪਸ਼ਟ ਤੌਰ 'ਤੇ ਲੰਬੀ ਹੈ|
+255	Ganga is longest whereas Brahmaputra is the largest in terms of it's waterflow.	ਗੰਗਾ ਸਭ ਤੋਂ ਲੰਬੀ ਹੈ ਜਦੋਂ ਕਿ ਬ੍ਰਹਮਪੁਤਰ ਆਪਣੇ ਪਾਣੀ ਦੇ ਵਹਾਅ ਦੇ ਲਿਹਾਜ਼ ਨਾਲ ਸਭ ਤੋਂ ਵੱਡੀ ਹੈ|
+256	Godavari is the second longest after Ganga, and the longest river in Southern India also known as 'Dakshina Ganga'.	ਗੋਦਾਵਰੀ ਗੰਗਾ ਤੋਂ ਬਾਅਦ ਦੂਜੀ ਸਭ ਤੋਂ ਲੰਬੀ ਨਦੀ ਹੈ ਅਤੇ ਦੱਖਣੀ ਭਾਰਤ ਦੀ ਸਭ ਤੋਂ ਲੰਮੀ ਨਦੀ ਜੋ 'ਦਰਸ਼ੀਨਾ ਗੰਗਾ' ਦੇ ਨਾਂ ਨਾਲ ਜਾਣੀ ਜਾਂਦੀ ਹੈ|
+257	The river has been revered in Hindu scriptures for many millennia and continues to harbour and nourish a rich cultural heritage.	ਇਸ ਨਦੀ ਨੂੰ ਕਈ ਹਜ਼ਾਰ ਸਾਲਾਂ ਤੋਂ ਹਿੰਦੂ ਗ੍ਰੰਥਾਂ ਵਿੱਚ ਵਾਪਿਸ ਲਿਆ ਗਿਆ ਹੈ ਅਤੇ ਇੱਕ ਅਮੀਰ ਸੱਭਿਆਚਾਰਕ ਵਿਰਾਸਤ ਨੂੰ ਬੰਦਰਗਾਹ ਅਤੇ ਪੋਸ਼ਣ ਦਿੰਦਾ ਹੈ|
+258	And the Krishna- Godavari Basin is one of the main nesting sites of the endangered Olive Ridley Turtles.	ਅਤੇ ਕ੍ਰਿਸ਼ਨਾ-ਗੋਦਾਵਰੀ ਬੇਸਿਨ ਖਤਰੇ ਵਿੱਚ ਪੈ ਰਹੇ ਓਲੀਵ ਰਿਡਲੇ ਟਰਟਲਜ਼ ਦੀ ਇੱਕ ਸਭ ਤੋਂ ਮੁੱਖ ਆਲ੍ਹਣੇ ਬਣਾਉਣ ਦੇ ਸਥਾਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ|
+259	Indeed it is.	ਅਸਲ 'ਚ ਇਹ ਹੈ|
+260	I am really impressed to see that you have a good idea of rivers in details.	ਮੈਂ ਸੱਚਮੁੱਚ ਇਹ ਦੇਖ ਕੇ ਪ੍ਰਭਾਵਿਤ ਹੋਇਆ ਹਾਂ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਵੇਰਵੇ ਵਿੱਚ ਨਦੀਆਂ ਦੀ ਚੰਗੀ ਯੋਜਨਾ ਹੈ|
+261	Thank you, ma'am, you taught us most of it in the previous class.	ਧੰਨਵਾਦ, ਮੈਡਮ, ਤੁਸੀਂ ਸਾਨੂੰ ਪਿਛਲੀ ਕਲਾਸ ਵਿੱਚ ਇਸਦਾ ਜਿਆਦਾਂਤਰ ਹਿੱਸਾ ਕਰਵਾਇਆ ਸੀ|
+262	And we'll learn more in the next one.	ਅਤੇ ਅਸੀਂ ਅਗਲੀ ਵਿੱਚ ਹੋਰ ਸਿੱਖਾਂਗੇ|
+263	It's time! See you all tomorrow, kids!	ਸਮਾਂ ਹੋ ਗਿਆ! ਕੱਲ੍ਹ ਮਿਲਦੇ ਹਾਂ, ਬੱਚਿਓ |
+264	Hello, you seem worried, what's going on?	ਹੈਲੋ, ਤੁਸੀਂ ਚਿੰਤਾ ਵਿੱਚ ਦਿੱਖ ਰਹੇ ਹੋ I
+265	Yeah, I have been watching updates on the Odisha cyclone for hours.	ਹਾਂ, ਕਈ ਘੰਟੀਆਂ ਤੋਂ ਓਡੀਸ਼ਾ ਚੱਕਰਵਾਤ ਸੰਬੰਧਿਤ ਖ਼ਬਰਾਂ ਦੇਖ ਰਹੀ ਹਾਂ I
+266	It's the second day of the cyclone, and the whole city is in a mess.	ਅੱਜ ਚੱਕਰਵਾਤ ਦਾ ਦੂਜਾ ਦਿਨ ਹੈ ਅਤੇ ਪੂਰਾ ਸ਼ਹਿਰ ਵਿੱਚ ਤਬਾਹੀ ਮੱਚੀ ਹੋਈ ਹੈ I
+267	It is difficult to go outside even for basic amenties.	ਮੌਲਿਕ ਸਹੂਲਤਾਂ ਲਈ ਬਾਹਰ ਜਾਣਾ ਵੀ ਔਖਾ ਹੋਈਆਂ ਪਿਆ ਹੈ।
+268	Thankfully our locality is still having electricity till now, most of the areas are out of electricity.	ਸ਼ੁਕਰ ਹੈ ਕਿ ਸਾਡੇ ਇਲਾਕੇ ਵਿੱਚ ਅਜੇ ਵੀ ਬਿਜਲੀ ਹੈ, ਬਹੁਤੇ ਇਲਾਕੀਆ ਵਿੱਚ ਬਿਜਲੀ ਗੋਲ ਹੈ I
+269	I am so sorry to hear that, I hope your family and you are safe.	ਮੈਨੂੰ ਇਹ ਸੁਣ ਕੇ ਬਹੁਤ ਦੁੱਖ ਹੋਈਆਂ, ਮੈਂ ਉਮੀਦ ਕਰਦੀ ਹਾਂ ਕਿ ਤੁਸੀਂ ਤੇ ਪਰਿਵਾਰ ਸੁਰੱਖਿਅਤ ਹੈ I
+270	Do you have any idea on how long it might go on for?	ਕੀ ਤੁਹਾਨੂੰ ਇਸ ਬਾਰੇ ਕੋਈ ਸੰਕਲਪ ਹੈ ਕਿ ਇਹ ਹੋਰ ਕਿੰਨੀ ਦੇਰ ਤੱਕ ਚੱਲੇਗਾ ?
+271	According to the predicted weather forecast and the latest one, it will be on for 3 days approximately.	ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ ਅਨੁਸਾਰ ਅਤੇ ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਵਾਲੇ ਦੇ ਅਨੁਸਾਰ ਇਹ ਤਿੰਨ ਦਿਨ ਹੋਰ ਚਲੇਗਾ I
+272	But I am more worried about the consequences though.	ਪਰ ਮੈਂ ਇਸਦੇ ਨਤੀਜਿਆਂ ਬਾਰੇ ਵਧੇਰੇ ਚਿੰਤਤ ਹਾਂ I
+273	The last cyclone happened in the year 2020, went on for 2 days and it took almost 15 days in some of the areas to get the electricity back.	ਆਖਰੀ ਚੱਕਰਵਾਤ ਸਾਲ 2020 ਵਿੱਚ ਆਇਆ ਸੀ, 2 ਦਿਨ ਤੱਕ ਚੱਲਿਆ ਸੀ ਅਤੇ ਕੁਝ ਖੇਤਰਾਂ ਵਿੱਚ ਬਿਜਲੀ ਵਾਪਸ ਆਉਣ ਵਿੱਚ ਲਗਭਗ 15 ਦਿਨ ਲੱਗ ਗਏ ਸਨ।
+274	Odisha is very prone to this kind of damages whenever some or the other natural disaster took place.	ਜਦੋਂ ਵੀ ਕੋਈ ਕੁਦਰਤੀ ਆਫ਼ਤ ਆਉਂਦੀ ਹੈ ਤਾਂ ਓਡੀਸ਼ਾ ਨੂੰ ਇਸ ਤਰਾਹ ਦੇ ਖ਼ਤਰਾ ਕਾਰਣ ਬਹੁਤ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ I
+275	You did come to Odisha in the year 2020, were you present during the cyclone?	ਤੁਸੀਂ ਓਡੀਸ਼ਾ ਆਏ ਸੀ 2020 ਦੇ ਵਿੱਚ, ਕਿ ਤੁਸੀਂ ਚੱਕਰਵਾਤ ਆਉਣ ਦੇ ਸਮੇਂ ਮੋਜਦੂਦ ਸਨ?
+276	No, thankfully I had left just a week before the cyclone.	ਨਹੀਂ, ਸ਼ੁਕਰ ਹੈ ਕਿ ਮੈਂ ਚੱਕਰਵਾਤ ਤੋਂ ਇੱਕ ਹਫ਼ਤਾ ਪਹਿਲਾਂ ਹੀ ਰਵਾਨਾ ਹੋ ਗਈ ਸੀ।
+277	I wonder what it's like for the people living there, it's such a vulnerable thing!	ਮੈਂ ਹੈਰਾਨ ਹਾਂ ਕਿ ਉੱਥੇ ਰਹਿਣ ਵਾਲੇ ਲੋਕਾਂ ਲਈ ਇਹ ਕਹਿਜਾ ਹੋਵੇਗਾ, ਇਹ ਅਜਿਹੀ ਕਮਜ਼ੋਰ ਚੀਜ਼ ਹੈ!
+278	Especially the masses near the coasts.	ਖਾਸ ਕਰ ਕੇ ਓਨ੍ਹਾਂ ਲਈ ਜੋ ਤੱਟ ਦੇ ਨੇੜੇ ਰਿਹੰਦੇ ਹਨ I
+279	Does the government help these people rebuild their homes and livelihood?	ਕਿ ਸਰਕਾਰ ਇਨ੍ਹਾਂ ਲੋਕਾਂ ਨੂੰ ਘਰ ਬਣਾਉਣ ਤੇ ਗੁਜ਼ਾਰਾ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ?
+280	It must be terrible losing years of effort within a day or two.	ਇਨ੍ਹੇ ਸਾਲਾਂ ਦੀ ਮਿਹਨਤ ਇੱਕ ਦੋ ਦਿਨ ਵਿੱਚ ਖ਼ਤਮ ਹੋ ਜਾਣਾ ਕਿੰਨਾ ਭਿਆਨਕ ਹੌਗਾ I
+281	Government does help as much as possible, especially in the rural areas, where people are mostly left on their own.	ਸਰਕਾਰ ਜਿਨ੍ਹਾਂ ਹੋ ਸਕੇ ਓਨ੍ਹੀਂ ਮਦਦ ਕਰਦੀ ਹੈ, ਖਾਸ ਕਰ ਕੇ ਪੇਂਡੂ ਖੇਤਰਾ ਵਿੱਚ ਜਿੱਥੇ ਲੋਕ ਜ਼ਿਆਦਾਤਰ ਆਪਣੇ ਆਪ ਤੇ ਹੀ ਹਨ I
+282	Last time workers were brought from different states so that the work could be fastracked.	ਪਿਛਲੀ ਵਾਰ ਦੂਜੇ ਰਾਜਾਂ ਵਿਚੋਂ ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਬੁਲਾਈਆਂ ਗਿਆ ਸੀ ਤਾਕਿ ਕਾਮ ਤੇਜ਼ੀ ਨਾਲ ਹੋ ਸਕੇ I
+283	Even the municipal corporation people also worked round the clock so that they can get the electricity back on time as there were kids and senior citizens present who were facing a lot of difficulties.	ਇੱਥੋਂ ਤੱਕ ਕਿ ਨਗਰ ਨਿਗਮ ਦੇ ਲੋਕਾਂ ਨੇ ਵੀ ਦਿਨ-ਰਾਤ ਕੰਮ ਕੀਤਾ ਤਾਂ ਜੋ ਉਨ੍ਹਾਂ ਨੂੰ ਸਮੇਂ ਸਿਰ ਬਿਜਲੀ ਮਿਲ ਸਕੇ ਕਿਉਂਕਿ ਉੱਥੇ ਮੌਜੂਦ ਬੱਚੇ ਅਤੇ ਬਜ਼ੁਰਗਾਂ ਨੂੰ ਕਾਫੀ ਮੁਸ਼ਕਿਲਾਂ ਦਾ ਸਾਹਮਣਾ ਕਰਨਾ ਪੈ ਰਿਹਾ ਸੀ।
+284	Odisha is one the places, faces extreme weather conditions during these times.	ਓਦਿਸ਼ਾ ਇੱਕ ਅਹਿਜੀ ਥਾਂ ਹੈ ਜਿੱਥੇ ਇਹਨਾਂ ਸਮਿਆਂ ਦੌਰਾਨ ਬਹੁਤ ਭਿਆਨਕ ਮੌਸਮੀ ਸਥਿਤੀਆਂ ਪੈਦਾ ਹੁੰਦੀਆਂ ਹਨ I
+285	It's good to know that citizens get timely aid.	ਇਹ ਸੁੱਣ ਕੇ ਅੱਛਾ ਲਗੀਆਂ ਕਿ ਨਾਗਰਿਕਾਂ ਨੂੰ ਸਮੇਂ ਸਿਰ ਮਦਦ ਮਿਲੀ I
+286	Still unfortunate to see how dreadful things get because of such extreme weather conditions.	ਫ਼ਿਰ ਵੀ ਦੁੱਖਦਾਇਕ ਕਿ ਇਨ੍ਹਾਂ ਭਿਆਨਕ ਮੌਸਮੀ ਸਥਿਤੀਆਂ ਕਾਰਣ ਚੀਜ਼ਾਂ ਕਿੰਨੀ ਖ਼ਰਾਬ ਹੋ ਜਾਂਦੀਆਂ ਹਨ I
+287	How long have you been living there?	ਤੁਸੀਂ ਕਿੰਨੀ ਦੇਰ ਤੋਂ ਉੱਥੇ ਰਿਹ ਰਹੇ ਹੋ?
+288	Has the nature of climate ever motivated you to leave the state?	ਕਿ ਮੌਸਮ ਕਾਰਣ ਤੁਹਾਡਾ ਕਦੇ ਜੀ ਕਰਿਆ ਇਸ ਰਾਜ ਨੂੰ ਛੱਡਣ ਦਾ ?
+289	It's been 5 years now that I have been living here.	ਮੈਨੂੰ ਇੱਥੇ ਰਹਿੰਦੇ ਹੋਏ 5 ਸਾਲ ਹੋ ਗਏ ਹਨ I
+290	The weather is fine, though the summers are quite hot and humid, but the other factors are fine so it never occured to me to leave the place.	ਮੌਸਮ ਠੀਕ ਹੈ, ਹਾਲਾਂਕਿ ਗਰਮੀਆਂ ਕਾਫ਼ੀ ਗਰਮ ਤੇ ਸਿੱਲ੍ਹੀ ਹੁੰਦੀਆਂ ਹਨ, ਪਰ ਬਾਕੀ ਚੀਜ਼ਾਂ ਠੀਕ ਹਨ ਇਸ ਲਈ ਇਸ ਜਗਾਹ ਨੂੰ ਛੱਡਣ ਦਾ ਖਿਆਲ ਕਦੇ ਨਹੀਂ ਆਈਆਂ I
+291	The monsoons seem to be a bit difficult but it has become manageable over the years now.	ਮੋਨਸੂਨ ਥੋੜ੍ਹਾ ਮੁਸਕਿਲ ਹੁੰਦਾ ਹੈ ਪਰ ਇਨ੍ਹੇ ਸਾਲਾਂ ਵਿੱਚ ਹੁਣ ਸੰਭਾਲਣਯੋਗ ਹੈ I
+292	I see, that does sound manageable; I just hope things get better soon.	ਅੱਛਾ, ਇਹ ਸੰਭਾਲਣਯੋਗ ਲੱਗ ਰਿਹਾ ਹੈ; ਮੈਂ ਉਮੀਦ ਕਰਦਾ ਹਾਂ ਕਿ ਚੀਜ਼ਾਂ ਜਲਦੀ ਠੀਕ ਹੋ ਜਾਣ I
+293	I am sorry, I have to leave, could you maybe give a quick update on the cyclone?	ਮੈਨੂੰ ਮਾਫ਼ ਕਰਨਾ, ਮੈਂ ਜਾਣਾ ਹੈ, ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਚੱਕਰਵਾਤ ਬਾਰੇ ਛੋਟੀ ਅਪਡੇਟ ਦੇ ਸਕਦੇ ਹੋ?
+294	How things currently are and how are people coping with it right now.	ਹੁਣ ਚੀਜ਼ਾਂ ਕਿਵੇਂ ਹਨ ਅਤੇ ਲੋਕ ਇਸ ਨਾਲ ਕਿਵੇਂ ਨਿਭ ਰਹੇ ਹਨ।
+295	There are a lot of organisations here which are catering help to the people, in terms of groceries, medical facilties and medicines and all the necessary items as and when it is needed.	ਇੱਥੇ ਕਈ ਸਾਰੀਆਂ ਸੰਸਥਾਵਾਂ ਹਨ ਜੋ ਕਰਿਆਨੇ, ਮੈਡੀਕਲ ਸਹੂਲਤਾਂ ਅਤੇ ਦਵਾਈਆਂ ਅਤੇ ਹੋਰ ਜ਼ਰੂਰੀ ਚੀਜ਼ਾਂ ਦੀ ਲੋੜ ਪੈਣ ਤੇ ਲੋਕਾਂ ਦੀ ਮਦਦ ਕਰ ਰਹੀਆਂ ਹਨ I
+296	In most the areas even teams are formed which can work in providing any kind of help if need be.	ਜਿਆਦਾਤਰ ਇਕਾਕੀਆ ਵਿੱਚ ਟੀਮਾ ਬਣਾਈ ਗਈਆਂ ਹਨ ਜੋ ਕਿਸੇ ਵੀ ਤਰਹ ਦੇ ਕੰਮ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ I
+297	Well there is not much we can do as well, apart from having patience and helping each other.	ਖੈਰ, ਧੀਰਜ ਰੱਖਣ ਅਤੇ ਇੱਕ ਦੂਜੇ ਦੀ ਮਦਦ ਕਰਨ ਤੋਂ ਇਲਾਵਾ, ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ।
+298	Yes, that's right!	ਹਾਂ, ਓਹ ਠੀਕ ਹੈ I
+299	You all please take care of yourselves and each other.	ਤੁਸੀਂ ਆਪਣੀ ਅਤੇ ਇੱਕ ਦੂਜੇ ਦਾ ਧਿਆਨ ਰੱਖਣਾ I
+300	I hope this gets well soon; do let me know if there's anything we can do from here.	ਮੈਂ ਉਮੀਦ ਕਰਦਾ ਹਾਂ ਕਿ ਇਹ ਜਲਦੀ ਠੀਕ ਹੋ ਜਾਏ; ਮੈਂਨੂੰ ਦੱਸਨਾ ਜੇ ਅਸੀਂ ਇੱਥੋਂ ਕੁੱਛ ਕਰ ਸਕਦੇ ਹਾਂ I
+301	Sure I will definitely let you know.	ਜ਼ਰੂਰ ਮੈਂ ਤੁਹਾਨੂੰ ਪੱਕਾ ਦਸਾਂਗਾ I
+302	Finally, the unlock has started.	ਅਖੀਰਕਾਰ, ਲਾਕਡਾਉਨ ਖੁੱਲ੍ਹਨਾ ਸ਼ੁਰੂ ਹੋ ਗਿਆ ਹੈ I
+303	No more heavy restrictions.	ਹੁਣ ਕੋਈ ਭਾਰੀ ਪਾਬੰਦੀਆਂ ਨਹੀਂ ਹੋਣਗੀਆ
+304	I would have turned into a lunatic, if I were to stay one more week indoors.	ਜੇ ਮੈਨੂੰ ਇੱਕ ਹੋਰ ਹਫ਼ਤੇ ਅੰਦਰ ਰਿਹਣਾ ਪੈ ਜਾਂਦਾ ਤਾਂ ਮੈਂ ਤਾਂ ਪਾਗਲ ਹੀ ਹੋ ਜਾਣਾ ਸੀ I
+305	Who said you aren't one?	ਕਿੰਨੇ ਕਿਹਾ ਕਿ ਤੁਸੀਂ ਹੋ ਨਹੀਂ?
+306	Jokes apart, the initiation of unlock doesn't mean you can do anything you want.	ਪਰ ਮਜ਼ਾਕ ਆਪਣੀ ਜਗਾਹ, ਲਾਕਡਾਉਨ ਸ਼ੁਰੂ ਹੋਣ ਦਾ ਮਤਲਬ ਇਹ ਨਹੀਂ ਕਿ ਤੁਸੀਂ ਜੋ ਮਰਜ਼ੀ ਕਰ ਸਕਦੇ ਹੋ I
+307	The night curfews will still be on.	ਰਾਤ ਦਾ ਕਰਫ਼ਿਊ ਜਾਰੀ ਰਹੇਗਾ I
+308	The mask mandate and social distancing norms will still be applicable.	ਮਾਸਕ ਲਗਾਉਣ ਦਾ ਆਦੇਸ਼ ਅਤੇ ਸਮਾਜਿਕ ਦੂਰੀ ਦੇ ਨਿਯਮ ਹਜੇ ਵੀ ਲਾਗੂ ਰਹਿਣਗੇ।
+309	And most importantly, taking the vaccine should be our immediate concern.	ਅਤੇ ਸਭ ਤੋਂ ਜ਼ਰੂਰੀ, ਟੀਕਾ ਲਗਵਾਉਣਾ ਸਾਡੀ ਮੁੱਖ ਚਿੰਤਾ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ I
+310	Oh, is it mandatory to get vaccinated?	ਓਹ! ਕਿ ਟੀਕਾ ਲਗਵਾਉਣਾ ਜ਼ਰੂਰੀ ਹੈ?
+311	Doesn't a person become immune once he or she has been affected by Covid previously?	ਇੱਕ ਵਾਰ ਕੋਵਿਡ ਹੋਣ ਨਾਲ ਕਿ ਵਿਅਕਤੀ ਉਸ ਤੋਂ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੋ ਜਾਂਦਾ ?
+312	Oh god! Where do you get all these wrong notions from?	ਹੇ ਭਗਵਾਨ! ਤੁਹਾਨੂੰ ਇਹ ਸਭ ਗਲਤ ਖਿਆਲ ਕਿਥੋਂ ਆਏ?
+313	No, one doesn't become immune to Covid once they have been affected in the past.	ਨਹੀਂ, ਇੱਕ ਵਾਰ ਕੋਵਿਡ ਹੋਣ ਨਾਲ ਕੋਈ ਵੀ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੋ ਜਾਂਦਾ ਹੈ I
+314	Infact there is no relation between the two.	ਦਰਅਸਲ ਦੋਨਾਂ ਵਿੱਚ ਕੋਈ ਸਬੰਧ ਨਹੀਂ ਹੈ।
+315	And most importantly, the vaccination is absolutely compulsory.	ਅਤੇ ਸਭ ਤੋਂ ਜ਼ਰੂਰੀ, ਟੀਕਾ ਲਗਵਾਉਣਾ ਬਿਲਕੁਲ ਲਾਜ਼ਮੀ ਹੈ।
+316	Everyone has to take either of the two verified vaccines namely Covishield and Covaxin.	ਸਾਰੀਆਂ ਨੂੰ ਦੋ ਪ੍ਰਮਾਣਿਤ ਟੀਕੀਆ ਯਾਨੀ ਕੋਵੀਸ਼ੀਲਡ ਅਤੇ ਕੋਵਾਕਸੀਨ ਲਗਵਾਉਣਾ ਜ਼ਰੂਰੀ ਹੈ I
+317	So you mean to say I need to go and take the vaccine first and then think of the things I would like to do during the unlock.	ਸੋ, ਤੁਹਾਡੇ ਕਹਿਣ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਮੈਨੂੰ ਪਹੀਲਾਂ ਟੀਕਾ ਲੱਗਵਾਂਉਣਾ ਪੇਏਗਾ ਅਤੇ ਫੇਰ ਮੈਂ ਸੋਚ ਸਕਦਾ ਹਾਂ ਕਿ ਮੈਂ ਲੋਕਡਾਉਨ ਵਿੱਚ ਕਿ ਕਰਨਾ ਹੈ I
+318	Not one, but two doses of the same vaccine.	ਇੱਕ ਨਹੀਂ, ਪਰ ਇੱਕ ਟੀਕੇ ਦੀ ਹੀ ਦੋ ਖੁਰਾਕਾਂ I
+319	You will be asked to show your vaccine certificates before entering a mall or travelling by trains or flights.	ਤੁਹਾਨੂੰ ਮਾਲ ਵਿੱਚ ਪ੍ਰਵੇਸ਼ ਦੇਣ ਤੋਂ ਪਹਿਲਾ ਜਾਂ ਰੇਲਗਡੀਆਂ ਜਾਂ ਹਵਾਈ ਜਹਾਜ਼ ਵਿੱਚ ਸਫ਼ਰ ਕਰਨ ਦੇ ਦੋਰਾਨ ਆਪਣਾ ਟੀਕਾਕਰਨ ਪ੍ਰਮਾਣ-ਪੱਤਰ ਦਿਖਾਉਣਾ ਪਵੇਗਾ I
+320	Really? They do? How can I be so unware of this.	ਸੱਚੀ? ਓਹ ਇਹ ਕੰਮ ਕਰਦੇ ਹਨ ? ਮੈਂ ਇਸ ਬਾਰੇ ਇੰਨਾ ਅਣਜਾਣ ਕਿਵੇਂ ਹੋ ਸਕਦਾ ਹਾਂ।
+321	Infact I was planning a vacation with my family this summer.	ਉਪਰੋਂ ਮੈਂ ਆਪਣੇ ਟਬਰ ਨਾਲ ਇਸ ਗਰਮੀਆਂ ਵਿੱਚ ਛੁੱਟੀ ਮਨਾਣ ਦੀ ਯੋਗਣਾ ਬਣਾ ਰਿਹਾ ਸੀ I
+322	For that, everyone of you will have to be vaccinated with atleast the first dose of COVID-19 vaccination.	ਉਸ ਦੇ ਲਈ, ਤੁਹਾਨੂੰ ਸਾਰਿਆ ਨੂੰ ਘਟੋ-ਘੱਟ ਕੋਵਿਡ-19 ਦੀ ਪਹਿਲੀ ਖ਼ੁਰਾਕ ਲਗੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ I
+323	They will ask you for your vaccination certificates, at the entrances.	ਉਹ ਪ੍ਰਵੇਸ਼ ਦੁਆਰ ਤੇ ਤੁਹਾਡੇ ਟੀਕਾਕਰਨ ਸਰਟੀਫਿਕੇਟਾਂ ਬਾਰੇ ਪੁੱਛਣਗੇ Iਕਿਰਪਾ ਕਰਕੇ ਇਸ ਤੋਂ ਸੰਬੰਧਿਤ ਖ਼ਬਰਾਂ ਬਾਰੇ ਸਾਵਧਾਨ ਰਹੋ।
+324	Please be careful about the news updates.	ਕ੍ਰਿਪਾ ਕਰਕੇ ਖ਼ਬਰਾਂ ਦੇ ਅੱਪਡੇਟ ਬਾਰੇ ਸਾਵਧਾਨ ਰਹੋ I
+325	Yeah thank you, all this while I had been thinking otherwise.	ਹਾਂ ਧੰਨਵਾਦ, ਇਹ ਸਾਰੇ ਸਮੇਂ ਮੈਂ ਕੁੱਛ ਹੋਰ ਹੀ ਸੋਚ ਰਿਹਾ ਸੀ I
+326	I will get my jab as soon as possible.	ਮੈਂ ਟੀਕਾ ਜਲਦ ਤੋਂ ਜਲਦ ਲਗਵਾ ਲਉਗਾ I
+327	Yes please, we should not forget that the pandemic isn't gone yet.	ਹਾਂ, ਜ਼ਰੂਰ, ਸਾਨੂੰ ਇਹ ਨਹੀਂ ਭੂਲਣਾ ਚਾਹੀਦਾ ਕਿ ਇਹ ਮਹਾਮਾਰੀ ਅਜੇ ਖਤਮ ਨਹੀਂ ਹੋਈ ਹੈ I
+328	I hope you have registered yourself on the CoWIN website.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਕੋਵਿਨ ਦੀ ਵੇਬਸਾਇਟ ਤੇ ਅੰਦਰਾਜ ਕਿਤਾ ਹੋਈਆਂ ਹੈ I
+329	Yes I am registered.	ਹਾਂ, ਮੇਰਾ ਨਾਂ ਅੰਦਰਾਜ ਹਾਂ।
+330	Then please check out a suitable date for the vaccine and get it scheduled.	ਫੇਰ, ਕ੍ਰਿਪਾ ਕਰਕੇ ਟੀਕਾ ਲਗਵਾਣ ਲਈ ਇੱਕ ਤਾਰੀਖ਼ ਦੇਖ ਕੇ ਉਸ ਨੂੰ ਪੱਕਾ ਕਰ ਲੋ I
+331	It's high time you should get your vaccine	ਤੁਹਾਨੂੰ ਟੀਕਾ ਲਗਵਾ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ I
+332	I will do it today itself.	ਮੈਂ ਇਸ ਨੂੰ ਅੱਜ ਹੀ ਕਰੂੰਗਾ I
+333	Thanks for clearing my misconception.	ਮੇਰੇ ਭਰਮ ਦੂਰ ਕਰਨ ਲਈ ਧੰਨਵਾਦ।
+334	Hello, sir, where can I register a complaint?	ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਜਨਾਬ, ਮੈਂ ਸ਼ਿਕਾਇਤ ਕਿੱਥੇ ਰਜਿਸਟਰ ਸਕਦਾ ਹਾਂ?
+335	What kind of complaint do you have?	ਕਿਸ ਤਰ੍ਹਾਂ ਦੀ ਸ਼ਿਕਾਇਤ ਹੈ ਤੁਹਾਡੀ?
+336	Sir, our village is not getting clean drinking water.	ਜਨਾਬ, ਸਾਡੇ ਪਿੰਡ ਨੂੰ ਪੀਣ ਵਾਲਾ ਸਾਫ਼ ਪਾਣੀ ਨਹੀਂ ਮਿਲ ਰਿਹਾ|
+337	The government has promised us clean water, but we are not getting it in our village.	ਸਰਕਾਰ ਨੇ ਸਾਨੂੰ ਸਾਫ਼ ਪਾਣੀ ਦੇਣ ਦਾ ਵਾਅਦਾ ਕੀਤਾ ਸੀ, ਪਰ ਸਾਨੂੰ ਆਪਣੇ ਪਿੰਡ ਵਿੱਚ ਇਹ ਨਹੀਂ ਮਿਲ ਰਿਹਾ|
+338	No inspection happened in your village till now?	ਤੁਹਾਡੇ ਪਿੰਡ ਵਿੱਚ ਅਜੇ ਤੱਕ ਕੋਈ ਜਾਂਚ ਨਹੀਂ ਹੋਈ?
+339	No, sir, he has not visited our village for months.	ਨਹੀਂ, ਜਨਾਬ, ਉਹ ਸਾਡੇ ਪਿੰਡ ਕਈ ਮਹੀਨਿਆਂ ਤੋਂ ਨਹੀਂ ਆਏ|
+340	Which village are you from?	ਕਿਸ ਪਿੰਡ ਤੋਂ ਹੋ ਤੁਸੀਂ?
+341	Sir, I am from Mahuvariya village.	ਜਨਾਬ, ਮੈਂ ਮਹੁਵਾਰਿਆ ਪਿੰਡ ਤੋਂ ਹਾਂ|
+342	And who is your village head there?	ਅਤੇ ਉੱਥੇ ਤੁਹਾਡੇ ਪਿੰਡ ਦਾ ਸਰਪੰਚ ਕੌਣ ਹੈ?
+343	Sir, I am the village head there.	ਜਨਾਬ, ਮੈਂ ਉੱਥੇ ਦਾ ਸਰਪੰਚ ਹਾਂ|
+344	Ok, sir, please tell me about your complaint in detail.	ਅੱਛਾ, ਜਨਾਬ, ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਆਪਣੀ ਸ਼ਿਕਾਇਤ ਬਾਰੇ ਵਿਸਥਾਰ 'ਚ ਦੱਸੋ|
+345	I will forward it to the supervisor of the water supply department.	ਮੈਂ ਉਸਨੂੰ ਅੱਗੇ ਜਲ ਸਪਲਾਈ ਵਿਭਾਗ ਦੇ ਮੁਖੀ ਨੂੰ ਭੇਜਾਂਗਾ|
+346	Sir, first of all, we got the water supply after a lot of hassle.	ਜਨਾਬ, ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਤਾਂ ਸਾਨੂੰ ਇਸ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਬਹੁਤ ਜਿਆਦਾਂ ਪਰੇਸ਼ਾਨੀ ਤੋਂ ਬਾਅਦ ਮਿਲੀ |
+347	We had to come to this office regularly for that.	ਇਸ ਲਈ ਸਾਨੂੰ ਇਸ ਦਫ਼ਤਰ ਵਿੱਚ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਆਉਣਾ ਪੈਂਦਾ ਸੀ|
+348	We even had to stage a protest in front of this office demanding a proper water supply in our network.	ਸਾਨੂੰ ਇਸ ਦਫ਼ਤਰ ਦੇ ਸਾਹਮਣੇ ਆਪਣੇ ਨੈੱਟਵਰਕ ਵਿੱਚ ਸਹੀ ਪਾਣੀ ਦੀ ਸਪਲਾਈ ਦੀ ਮੰਗ ਕਰਦੇ ਹੋਏ ਇੱਕ ਵਿਰੋਧ ਪ੍ਰਦਰਸ਼ਨ ਵੀ ਕਰਨ ਪਿਆ |
+349	After much hassle, we got that, but now the water coming from the pipes is very dirty.	ਬਹੁਤ ਪਰੇਸ਼ਾਨੀ ਤੋਂ ਬਾਅਦ, ਸਾਨੂੰ ਉਹ ਮੀਲ ਗਿਆ, ਪਰ ਹੁਣ ਪਾਈਪਾਂ ਤੋਂ ਆਉਣ ਵਾਲਾ ਪਾਣੀ ਬਹੁਤ ਗੰਦਾ ਹੈ|
+350	How dirty it is, can you explain?	ਇਹ ਕਿੰਨਾ ਗੰਦਾ ਹੈ, ਕੀ ਤੁਸੀਂ ਦਸ ਸਕਦੇ ਹੋ?
+351	Is it muddy, or does it have some sort of impurities?	ਕੀ ਇਹ ਚਿੱਕੜ ਵਾਲਾ ਹੈ, ਜਾਂ ਫਿਰ ਇਸ ਵਿੱਚ ਕਿਸੇ ਤਰ੍ਹਾਂ ਦੀਆਂ ਅਸ਼ੁੱਧਤਾ ਹੈ?
+352	It is muddy water, sir.	ਇਹ ਚਿੱਕੜ ਵਾਲਾ ਪਾਣੀ ਹੈ, ਜਨਾਬ|
+353	It also contains impurities.	ਇਸ ਵਿੱਚ ਅਸ਼ੁੱਧੀਆਂ ਵੀ ਹਨ|
+354	Many of the villagers had to suffer from skin allergies after using it.	ਬਹੁਤ ਸਾਰੇ ਪਿੰਡ ਵਾਸੀਆਂ ਨੂੰ ਚਮੜੀ ਦੀ ਐਲਰਜੀ ਤੋਂ ਪੀੜਤ ਹੋਣਾ ਪਿਆ ਉਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਬਾਅਦ I
+355	Oh, that is very serious.	ਓਹ, ਇਹ ਬਹੁਤ ਗੰਭੀਰ ਹੈ|
+356	Yes, sir, it is very serious.	ਹਾਂਜੀ, ਜਨਾਬ, ਇਹ ਬਹੁਤ ਗੰਭੀਰ ਹੈ|
+357	We do not have clean water in our ponds and tube wells.	ਸਾਡੇ ਕੋਲ ਆਪਣੇ ਤਲਾਬਾਂ ਅਤੇ ਟਿਊਬ ਵੈਲਾਂ ਵਿੱਚ ਸਾਫ਼ ਪਾਣੀ ਨਹੀਂ ਹੈ|
+358	The water there contains an exceeding amount of iron.	ਪਾਣੀ ਵਿੱਚ ਲੋਹੇ ਦੀ ਮਾਤਰਾ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹੈ|
+359	But we have no other way than to use the pond and tube wells for now.	ਪਰ ਸਾਡੇ ਕੋਲ ਤਲਾਬਾਂ ਅਤੇ ਟਿਊਬ ਵੈਲਾਂ ਦੇ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਕੋਈ ਚਾਰਾ ਨਹੀਂ ਹੈ|
+360	It is leading to serious health concerns.	ਇਹ ਸਿਹਤ ਲਈ ਗੰਭੀਰ ਸਮੱਸਿਆ ਹੈ|
+361	Did anyone fall sick after drinking the supplied water?	ਕੀ ਸਪਲਾਈ ਕੀਤਾ ਗਿਆ ਪਾਣੀ ਪੀਣ ਤੋਂ ਬਾਅਦ ਕੋਈ ਬੀਮਾਰ ਹੋਇਆ ਹੈ?
+362	No, sir, not yet; because we immediately stopped using it at all.	ਨਹੀਂ, ਜਨਾਬ, ਅਜੇ ਤੱਕ ਨਹੀਂ; ਕਿਉਂ ਕਿ ਅਸੀਂ ਤੁਰੰਤ ਉਹ ਪਾਣੀ ਵਰਤਣਾ ਬੰਦ ਕਰ ਦਿੱਤਾ ਸੀ|
+363	After we saw the skin allergies occurring in many villagers, we stopped using it.	ਪਿੰਡ ਦੇ ਬਹੁਤੇ ਲੋਕਾਂ ਨੂੰ ਚਮੜੀ ਰੋਗ ਹੁੰਦਾ ਵੇਖ , ਅਸੀਂ ਉਸ ਦਾ ਇਸਤੇਮਾਲ ਕਰਨਾ ਬੰਦ ਕਰ ਦਿੱਤਾ|
+364	Otherwise, it could've easily caused us stomach ache and diarrhea-like diseases.	ਨਹੀਂ ਤਾਂ, ਇਸ ਤੋਂ ਸਾਨੂੰ ਅਸਾਨੀ ਨਾਲ ਪੇਟ ਦਾ ਦਰਦ, ਦਸਤ ਵਰਗੀਆਂ ਬੀਮਾਰੀਆਂ ਹੋ ਸਕਦੀਆਂ ਸਨ|
+365	I will forward your complaint to the supervisor immediately.	ਮੈਂ ਹੁਣੇ ਤੁਹਾਡੀ ਸ਼ਿਕਾਇਤ ਮੁਖੀ ਨੂੰ ਭੇਜਾਂਗਾ|
+366	He will send someone to inspect the situation right after that.	ਉਹ ਉਸ ਤੋਂ ਬਾਅਦ ਕਿਸੇ ਨੂੰ ਹਾਲਾਤ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਭੇਜੇਗਾ|
+367	You can go home now.	ਤੁਸੀਂ ਹੁਣ ਘਰ ਜਾ ਸਕਦੇ ਹੋ|
+368	I will do the rest.	ਬਾਕੀ ਮੈਂ ਦੇਖਾਂਗਾ|
+369	Heyy, I didn't see you at the usual spot	ਹੇ, ਮੈਂ ਤੁਹਾਨੂੰ ਆਮ ਥਾਂ 'ਤੇ ਨਹੀਂ ਦੇਖਿਆ |
+370	Where were you today?	ਤੁਸੀਂ ਕਿੱਥੇ ਸੀ ਅੱਜ?
+371	It looks like you're coming back from somewhere	ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕਿਤੋਂ ਵਾਪਿਸ ਆਂ ਰਹੇ ਹੋ?
+372	Where did you go?	ਤੁਸੀਂ ਕਿੱਥੇ ਗਏ ਸੀ?
+373	Long story, give me some time	ਲੰਮੀ ਕਹਾਣੀ ਹੈ, ਮੈਨੂੰ ਕੁੱਝ ਵਕਤ ਦਿਓ|
+374	I just need to change into these	ਮੈਨੂੰ ਬਸ ਇਹਨਾਂ 'ਚ ਬਦਲਣ ਦੀ ਲੋੜ ਹੈ|
+375	Speaking of clothes, yours look ragged and dirty	ਕੱਪੜਿਆਂ ਦੀ ਗੱਲ ਕਰੀਏ, ਤੁਹਾਡੇ ਕਿੰਨੇ ਫਟੇ ਅਤੇ ਗੰਦੀ ਦਿਖਾਈ ਦੇ ਰਹੇ ਹਨ|
+376	Which is exactly why I'm changing it before coming into the village	ਇਸ ਲਈ ਮੈਂ ਇਸਨੂੰ ਪਿੰਡ ਵਿੱਚ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਬਦਲ ਰਿਹਾ ਹਾਂ|
+377	And I can't come to our usual spot anymore	ਅਤੇ ਮੈਂ ਹੁਣ ਆਪਣੀ ਆਮ ਥਾਂ 'ਤੇ ਨਹੀਂ ਆਂ ਸਕਦਾ|
+378	Can't afford to get cigarettes every week	ਹਰ ਹਫ਼ਤੇ ਸਿਗਰਟ ਲੈਣ ਦੀ ਸਮਰੱਥਾ ਨਹੀਂ ਹੈ|
+379	I'm trying to quit smoking	ਮੈਂ ਸਿਗਰਟ ਛੱਡਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ|
+380	Wow, that was unexpected	ਵਾਹ, ਅਚਾਨਕ ਹੀ|
+381	And to answer your earlier question	ਅਤੇ ਤੁਹਾਡੇ ਪਹਿਲੇ ਸਵਾਲ ਦਾ ਜਵਾਬ ਦੇਣ ਲਈ
+382	I just returned from the nearby village	ਮੈਂ ਹੁਣ ਨੇੜਲੇ ਪਿੰਡ ਤੋਂ ਵਾਪਿਸ ਆਇਆ ਹਾਂ|
+383	The recent rains washed away the usable road so I had to hitch hike	ਹਾਲ ਹੀ ਵਿੱਚ ਪਏ ਮੀਂਹ ਨੇ ਵਰਤੋਂ ਯੋਗ ਸੜਕ ਨੂੰ ਧੋ ਦਿੱਤਾ ਇਸ ਲਈ ਮੈਨੂੰ ਤੁਰਨਾ ਪਿਆ|
+384	Why are you going there though?	ਹਲਾਂਕਿ ਤੁਸੀਂ ਉੱਥੇ ਕਿਉਂ ਜਾ ਰਹੇ ਹੋ?
+385	You could've always asked me if you wanted help with something	ਤੁਸੀਂ ਹਮੇਸ਼ਾ ਮੈਨੂੰ ਪੁੱਛ ਸਕਦੇ ਸੀ ਕਿ ਕੀ ਤੁਹਾਨੂੰ ਕਿਸੇ ਚੀਜ਼ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ|
+386	Cannot expect you to help me here	ਇਹ ਉਮੀਦ ਨਹੀਂ ਕਰ ਸਕਦਾ ਕਿ ਤੁਸੀਂ ਇੱਥੇ ਮੇਰੀ ਮਦਦ ਕਰੋਗੇ|
+387	I go there every other morning to play football	ਮੈਂ ਉੱਥੇ ਹਰ ਸਵੇਰ ਫੁੱਟਬਾਲ ਖੇਡਣ ਜਾਂਦਾ ਹਾਂ|
+388	There's a ground with goal posts and nets on the other side of that village	ਪਿੰਡ ਦੇ ਦੂਜੇ ਪਾਸੇ ਇੱਕ ਖੇਡ ਦਾ ਮੈਦਾਨ ਹੈ ਜਿਸ ਵਿੱਚ ਗੋਲ ਪੋਸਟ ਅਤੇ ਜਾਲ ਵੀ ਲੱਗਿਆ ਹੈ|
+389	Since the area is public property, anyone can come and play	ਕਿਉਂਕਿ ਓਹ ਇਲਾਕਾ ਸਮਾਜਿਕ ਸੰਪਤੀ ਹੈ ਕੋਈ ਵੀ ਉੱਥੇ ਆ ਸਕਦਾ ਹੈ ਅਤੇ ਖੇਡ ਸਕਦਾ ਹੈ|
+390	So you go early to get space and time to play, right?	ਇਸ ਲਈ ਤੁਸੀਂ ਜਲਦੀ ਜਾਂਦੇ ਹੋ ਕਿ ਤੁਹਾਨੂੰ ਥਾਂ ਤੇ ਸਮਾਂ ਮਿਲੇ, ਹੈ ਨਾਂ?
+391	Exactly, I have to get there at least by 7:30	ਬਿਲਕੁੱਲ, ਮੈਨੂੰ ਉੱਥੇ ਘੱਟੋ ਘੱਟ 7:30 ਵਜੇ ਪਹੁੰਚਣਾ ਪਵੇਗਾ|
+392	Which means I have to leave home by 5	ਜਿਸਦਾ ਮਤਲਬ ਹੈ ਕਿ ਮੈਨੂੰ 5 ਵਜੇ ਘਰ ਤੋਂ ਨਿਕਲਣਾ ਪਵੇਗਾ|
+393	It's very hectic but what can we do, eh?	ਇਹ ਬਹੁਤ ਵਿਅਸਤ ਹੈ ਪਰ ਅਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹਾਂ, ਹਮ ?
+394	There is literally not a single unused open space in this village	ਇਸ ਪਿੰਡ ਵਿੱਚ ਸੱਚੀ ਇੱਕ ਵੀ ਅਣਵਰਤੀ ਖੁੱਲੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ|
+395	Well I suppose that is true	ਮੈਂ ਮੰਨਦਾ ਹਾਂ ਕਿ ਇਹ ਸੱਚ ਹੈ|
+396	Did you try asking the elders about whether they could clear up a space?	ਕੀ ਤੁਸੀਂ ਬਜ਼ੁਰਗਾਂ ਨੂੰ ਇਹ ਪੁੱਛਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ ਕਿ ਕੀ ਉਹ ਜਗ੍ਹਾ ਸਾਫ਼ ਕਰ ਸਕਦੇ ਹਨ?
+397	No, why would they even bother?	ਨਹੀਂ, ਉਹ ਪਰੇਸ਼ਾਨ ਕਿਉਂ ਹੋਣਗੇ?
+398	They are too caught up in their political and religious ideologies	ਉਹ ਆਪਣੇ ਰਾਜਨੀਤਿਕ ਅਤੇ ਧਾਰਮਿਕ ਵਿਚਾਰਾਂ ਵਿੱਚ ਵੀ ਫ਼ਸ ਗਏ ਹਨ|
+399	Even my own family wants me to stop going to school and start working to earn money	ਇੱਥੋਂ ਤੱਕ ਕਿ ਮੇਰਾ ਪਰਿਵਾਰ ਵੀ ਚਾਹੁੰਦਾ ਹੈ ਕਿ ਮੈਂ ਸਕੂਲ ਜਾਣਾ ਬੰਦ ਕਰਾਂ ਅਤੇ ਪੈਸਾ ਕਮਾਉਣ ਲਈ ਕੰਮ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਾਂ|
+400	Do you think they'll encourage me to pursue football?	ਕੀ ਤੁਸੀ ਸੱਚਮੁਚ ਸੋਚਦੇ ਹੋ ਕਿ ਉਹ ਮੈਨੂੰ ਫੁੱਟਬਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਉਤਸ਼ਾਹਿਤ ਕਰਣਗੇ?
+401	I understand that, it's very sad	ਮੈਂ ਸਮਝ ਸਕਦਾ ਹਾਂ, ਇਹ ਬਹੁਤ ਮਾੜੀ ਗੱਲ ਹੈ|
+402	We don't even have the resources to properly play anything here actually	ਸਾਡੇ ਕੋਲ ਅਸਲ ਵਿੱਚ ਇੱਥੇ ਸਹੀ ਢੰਗ ਨਾਲ ਖੇਡਣ ਕੋਈ ਵੀ ਸਰੋਤ ਨਹੀਂ ਹੈ|
+403	I'm saving up my pocket money to buy some boots	ਕੁੱਝ ਬੂਟ ਖਰੀਦਣ ਲਈ ਮੈਂ ਆਪਣਾ ਜੇਬ ਖਰਚ ਬਚਾਅ ਰਿਹਾ|
+404	Then I'll aim for the try-outs	ਫਿਰ ਮੈਂ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗਾ|
+405	Let's see what happens	ਦੇਖਦੇ ਹਾਂ ਕੀ ਹੁੰਦਾ ਹੈ|
+406	Did you watch this year's Wrestlemania?	ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਲ ਦਾ ਰੈਸਲਮੇਨੀਆ ਵੇਖਿਆ?
+407	It felt different somehow, but with Rhodes's return, it was definitely something enjoyable.	ਰੋਡ ਦੀ ਵਾਪਸੀ ਤੋਂ ਬਾਅਦ, ਕੁੱਛ ਅਲੱਗ ਹੀ ਮਹਿਸੂਸ ਹੋਇਆ, ਮਜ਼ੇਦਾਰ ਸੀ I
+408	I generally don't watch a lot of wrestling but I was looking forward to Wrestlemania this year.	ਆਮ ਤੋਰ ਤੇ ਮੈਂ ਕੁਸ਼ਤੀ ਜਿਆਦਾ ਨਹੀਂ ਵੇਖਦਾ ਪਰ ਮੈਂ ਇਸ ਸਾਲ ਦੇ ਰੈਸਲਮੇਨੀਆ ਨੂੰ ਦੇਖਣ ਲਈ ਉਤਾਵਲਾ ਸੀ
+409	I couldn't watch it however and just saw the highlights later.	ਪਰ ਮੈਂ ਦੇਖ ਨਹੀਂ ਸਕਿਆ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਸਿਰਫ਼ ਹਾਈਲਾਈਟਸ ਵੇਖੀਆ
+410	I didn't know where it was available.	ਮੈਨੂੰ ਪਤਾ ਨਹੀਂ ਸੀ ਕਿ ਓਹ ਕਿੱਥੇ ਚੱਲ ਰਿਹਾ ਸੀ
+411	I thought there was a live stream on Youtube.	ਮੈਨੂੰ ਲਗੀਆਂ ਕਿ ਯੂਟਿਊਬ ਤੇ ਉਸ ਦਾ ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ ਸੀ
+412	But I watched it on Sony Ten 1.	ਪਰ ਮੈਂ ਸੋਨੀ ਟੈਨ 1 ਤੇ ਦੇਖਿਆ ਸੀ
+413	It was also streamed live on the WWE network.	ਡਬਲਯੁ.ਡਬਲਯੁ.ਇ ਦੇ ਨੈੱਟਵਰਕ ਵੀ ਉਸ ਦਾ ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ ਸੀ
+414	Oh, I didn't know it was available on the Sony channel.	ਓਹ! ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ ਸੀ ਕਿ ਓਹ ਸੋਨੀ ਚੈੱਨਲ ਤੇ ਵੀ ਉਪਲੱਬਧ ਹੈ
+415	It was actually the highlight for 2 days and played throughout the day.	ਇਹ ਅਸਲ ਵਿੱਚ 2 ਦਿਨਾਂ ਦੀ ਹਾਈਲਾਈਟ ਸੀ ਅਤੇ ਦਿਨ ਭਰ ਖੇਡੀ ਗਈ ਸੀ।
+416	You can also watch it in Hindi on Sony Ten 3.	ਤੁਸੀਂ ਉਸ ਨੂੰ ਹਿੰਦੀ ਵਿੱਚ ਸੋਨੀ ਟੈਨ 3 ਤੇ ਵੀ ਦੇਖ ਸਕਦੇ ਹੋ I
+417	I missed it then.	ਫੇਰ ਮੈਂ ਉਸ ਨੂੰ ਛੱਡ ਦਿੱਤਾ
+418	I'll try to catch the next one when it comes.	ਮੈਂ ਕੋਸ਼ਿਸ਼ ਕਰੂੰਗਾ ਕਿ ਅਗਲਾ ਦੇਖ ਸਕਾ
+419	I always wanted to try and watch the whole live event but most channels here don't cover it.	ਮੈਂ ਹਮੇਸ਼ਾ ਪੂਰਾ ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ ਦੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ ਪਰ ਜ਼ਿਆਦਾਤਰ ਚੈੱਨਲ ਇੱਥੇ ਉਸ ਨੂੰ ਕਵਰ ਨਹੀਂ ਕਰਦੇ I
+420	Yes, but you don't have to wait for the next Wrestlemania to watch another live event.	ਹਾਂ, ਪਰ ਤੁਹਾਨੂੰ ਅਗਲਾ ਸਿੱਧਾ ਪ੍ਰਸਾਰਣ ਵੇਖਣ ਲਈ ਰੇਸਲਮੇਨੀਆ ਦੀ ਉਡੀਕ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
+421	Wrestlemania Backlash 2022 will take place at 8 PM on May 8th in the USA.	ਰੇਸਲਮੇਨੀਆ ਬੈਕਲੈਸ਼ 2022, ਯੁ.ਐਸ.ਏ ਵਿੱਚ 8 ਮਈ ਨੂੰ 8 ਪਿ.ਐਮ ਤੇ ਹੋਵੇਗਾ
+422	So that will be May 9th in India and the event will start at 5:30 am.	ਏਦਾ ਮਤਲਬ ਕਿ ਭਾਰਤ ਵਿੱਚ ਓਹ ਮਈ 9 ਨੂੰ 5:30 ਏ.ਐਮ ਤੇ ਹੋਵੇਗਾ
+423	I hope I get to watch it.	ਮੈਂ ਉਮੀਦ ਕਰਦਾ ਹਾਂ ਕਿ ਮੈਂ ਇਸ ਨੂੰ ਦੇਖ ਪਾਵਾਂਗਾ
+424	It will be difficult though, May 9th is a monday.	ਪਰ ਇਹ ਮੁਸ਼ਕਿਲ ਹੋ ਸਕਦਾ ਹੈ, ਮਈ 9 ਨੂੰ ਸੋਮਵਾਰ ਹੈ
+425	But it'll take quite long so you may still be able to watch a few hours of the show.	ਪਰ ਇਸ ਵਿੱਚ ਵੀ ਕਾਫ਼ੀ ਸਮੇ ਲੱਗ ਜਾਵੇਗਾ ਤਾਂ ਤੁਸੀਂ ਪ੍ਰੋਗਰਾਮ ਦਾ ਥੋੜਾ ਭਾਗ ਦੇਖ ਸਕਦੇ ਹੋ
+426	What are the main events in the Backlash?	ਬੈਕਲੈਸ਼ ਦੇ ਮੁੱਖ ਸਮਾਗਮ ਕਿਹੜੇ ਹਨ?
+427	The event will feature AJ Styles going against Edge and Seth Rollins battling Cody Rhodes.	ਇਸ ਸਮਾਗਮ ਵਿੱਚ ਏ.ਜੇ ਸਟਾਲਿਸ ਐਜ ਅਤੇ ਸੇਠ ਰੋਲਿਨਸ ਦੇ ਨਾਲ ਕੋਡੀ ਰੋਡਸ ਨਾਲ ਲੜ ਰਹੇ ਹਨ।
+428	It is going to be a big deal after Rhodes's return this year, the fans are excited.	ਰੋਡ ਦੀ ਵਾਪਸੀ ਤੋਂ ਬਾਅਦ ਇਹ ਵਡੀ ਗੱਲ ਹੈ, ਫੈਨ ਜੋਸ਼ ਵਿੱਚ ਹਨ I
+429	Are there any exciting tag matches?	ਕਿ ਕੋਈ ਦਿਲਚਸਪ ਟੈਗ ਮੈਚ ਹੋਣਗੇ?
+430	Actually yes, there will be a six-man tag team match going on in the event.	ਦਰਅਸਲ ਹਾਂ, ਸਮਾਗਮ ਵਿੱਚ ਛੇ ਬੰਦਿਆਂ ਦੀ ਟੀਮ ਦਾ ਮੈਚ ਹੋਈਗਾ I
+431	Roman Reigns and the Usos will be going against Drew McIntyre and RK-Bro.	ਰੋਮਨ ਰੀਨਜ਼ ਅਤੇ ਉਸੋਸ ਦਾ ਮੁਕਾਬਲਾ ਡਰਿਊ ਮੈਕਿੰਟਾਇਰ ਅਤੇ ਆਰਕੇ-ਬ੍ਰੋ ਦੇ ਨਾਲ ਹੋਏਗਾ I
+432	Those people hold a lot of titles.	ਓਨ੍ਹਾਂ ਲੋਕਾਂ ਕੋਲ ਕਈ ਸਿਰਲੇਖ ਹਨ I
+433	Isn't Roman Reigns the WWE Universal Champion?	ਕੀ ਰੋਮਨ ਰੀਨਜ਼ ਡਬਲਯੂ. ਡਬਲਯੂ. ਈ ਯੂਨੀਵਰਸਲ ਦੇ ਚੈਂਪੀਅਨ ਨਹੀਂ ਹਨ?
+434	Yes, and the Usos are Smackdown Tag-team Champions and RK-Bro is the Raw Tag Team Champions.	ਹਾਂ, ਉਸੋਸ ਸਮੈਕਡਾਉਨ ਟੈਗ-ਟੀਮ ਦੇ ਜੇਤੂ ਹਨ ਅਤੇ ਆਰ.ਕੇ ਬਰੋ ਰਾ ਟੈਗ-ਟੀਮ ਦੇ ਜੇਤੂ ਹਨ I
+435	However, this one is not a title match, but the fans are excited.	ਪਰੰਤੂ, ਇਹ ਟਾਇਟਲ ਮੁਕਾਬਲਾ ਨਹੀਂ ਹੈ, ਪਰ ਫੈਨ ਖੁਸ਼ ਹਨ I
+436	Both sides are fan favourites and Randy Ortons v/s Reigns must be something fans are looking forward to.	ਦੋਨੋਂ ਨੂੰ ਲੋਕ ਬਹੁਤ ਪਸੰਦ ਕਰਦੇ ਹਨ ਅਤੇ ਰੈਂਡੀ ਓਰਟੋਨ ਬਨਾਮ ਰਿਨਸ ਦਾ ਲੋਕ ਇੰਤਜ਼ਾਰ ਕਰ ਰਹੇ ਹੋਣਗੇ
+437	Yes, so try it and watch it if possible, but it is somewhat difficult because of the time.	ਹਾਂ, ਸੋ ਓਹਨੂੰ ਦੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੀਓ, ਪਰ ਸਮੇਂ ਕਾਰਣ ਥੋੜਾ ਮੁਸ਼ਕਿਲ ਹੈ
+438	Hi Dimpi! How are you?	ਹਾਂਜੀ ਡਿੰਪੀ ! ਕੀ ਹਾਲ ਹੈ?
+439	It has been a while since we talked last.	ਸਾਨੂੰ ਪਿਛਲੀ ਵਾਰ ਗੱਲ ਕੀਤੇ ਨੂੰ ਕੁੱਝ ਸਮਾਂ ਹੋ ਗਿਆ ਹੈ|
+440	Is everything okay at your end?	ਕੀ ਸਭ ਕੁੱਝ ਠੀਕ ਹੈ?
+441	Hi Devanga! I am good.	ਹਾਂਜੀ ਦੇਵਾਂਗਾ! ਮੈਂ ਠੀਕ ਹਾਂ|
+442	Yes, it has been quite a while.	ਹਾਂ, ਕਾਫ਼ੀ ਸਮਾਂ ਹੋ ਗਿਆ ਹੈ|
+443	Everything is good here except my cousin brother.	ਇੱਥੇ ਸਭ ਕੁੱਝ ਠੀਕ ਹੈ ਮੇਰੇ ਚਾਚੇ ਦੇ ਮੁੰਡੇ ਨੂੰ ਛੱਡ ਕੇ|
+444	Oh! What happened to him?	ਓਹ! ਕੀ ਹੋ ਗਿਆ ਉਸਨੂੰ?
+445	I haven't heard anything from anyone.	ਮੈਂ ਕਿਸੇ ਤੋਂ ਕੁੱਝ ਨਹੀਂ ਸੁਣਿਆ|
+446	Is he okay now?	ਕੀ ਉਹ ਹੁਣ ਠੀਕ ਹੈ?
+447	He met with an accident last fortnight.	ਪੰਦਰਾਂ ਦਿਨ ਪਹਿਲਾਂ ਉਸਦਾ ਐਕਸੀਡੈਂਟ ਹੋ ਗਿਆ ਸੀ|
+448	Now recovering well by God's grace.	ਹੁਣ ਰੱਬ ਦੀ ਕਿਰਪਾ ਨਾਲ ਹੌਲੀ ਹੌਲੀ ਠੀਕ ਹੋ ਰਿਹਾ ਹੈ|
+449	Thank God that the health insurance covered the expenses.	ਰੱਬ ਦਾ ਸ਼ੁੱਕਰ ਹੈ ਕਿ ਸਿਹਤ ਬੀਮੇ ਨੇ ਸਾਰੇ ਖਰਚੇ ਪੂਰੇ ਕਰਤੇ|
+450	Glad to hear that he is recovering.	ਇਹ ਸੁਣਕੇ ਖੁਸ਼ੀ ਹੋਈ ਕਿ ਉਹ ਠੀਕ ਹੋ ਰਹੇ ਹਨ|
+451	What was the health insurance?	ਕੀ ਸਹਿਤ ਬੀਮਾ ਸੀ?
+452	I am also thinking of buying one health insurance.	ਮੈਂ ਵੀ ਸਹਿਤ ਬੀਮਾ ਲੈਣ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹਾਂ|
+453	His health insurance was Star Health Insurance.	ਉਹਨਾਂ ਦਾ ਸਹਿਤ ਬੀਮਾ ਸਟਾਰ ਸਹਿਤ ਬੀਮਾ ਸੀ|
+454	He bought a family floater insurance.	ਉਹਨਾਂ ਨੇ ਪਰਿਵਾਰਕ ਬੀਮਾ ਲਿਆ ਹੋਇਆ ਸੀ|
+455	It covers upto 5 family members.	ਇਹ 5 ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਨੂੰ ਕਵਰ ਕਰਦਾ ਹੈ|
+456	What is the premium amount?	ਇਸਦੀ ਪ੍ਰੀਮੀਅਮ ਰਾਸ਼ੀ ਕਿ ਹੈ?
+457	Do we have to renew it monthly?	ਕੀ ਆਪਾਂ ਨੂੰ ਇਹ ਹਰ ਮਹੀਨੇ ਰਿੰਊ ਕਰਵਾਉਣਾ ਪੈਂਦਾ ਹੈ?
+458	How can we buy that?	ਆਪਾਂ ਇਹ ਕਿਵੇਂ ਲੈ ਸਕਦੇ ਹਾਂ?
+459	Does it offer cashless hospitalization facility?	ਕੀ ਇਹ ਹਸਪਤਾਲ ਵਿੱਚ ਕੈਸ਼ ਲੈਸ ਸੁਵਿਧਾ ਵੀ ਦਿੰਦਾ ਹੈ?
+460	The premium varies based on the plan you opt for.	ਪ੍ਰੀਮੀਅਮ ਰਾਸ਼ੀ ਤੁਹਾਡੀ ਸਕੀਮ 'ਤੇ ਆਧਾਰਿਤ ਹੁੰਦੀ ਹੈ|
+461	You can choose from a number of plans.	ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਯੋਜਨਾਵਾਂ ਵਿੱਚੋਂ ਚੁਣ ਸਕਦੇ ਹੋ|
+462	The details can be found online.	ਉਹਨਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਆਨਲਾਈਨ ਮਿਲਦੀ ਹੈ|
+463	You can pay the premium monthly, quarterly, six-monthly or annually.	ਤੁਸੀਂ ਪ੍ਰੀਮੀਅਮ ਮਹਿਨਾਵਾਰੀ, ਤਿਮਾਹੀ, ਛਮਾਹੀ, ਜਾਂ ਸਲਾਨਾ ਦੇ ਸਕਦੇ ਹੋ|
+464	Yes, this insurance provides cashless hospitalization facility through their network hospitals.	ਹਾਂ, ਇਹ ਬੀਮਾ ਉਹਨਾਂ ਦੇ ਨੈਟਵਰਕ ਹਸਪਤਾਲਾਂ ਰਾਹੀਂ ਨਕਦ ਰਹਿਤ ਹਸਪਤਾਲ ਵਿੱਚ ਭਰਤੀ ਦੀ ਸਹੂਲਤ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ|
+465	They have more than 500 hospitals under their network all over India.	ਉਹਨਾਂ ਕੋਲ ਪੂਰੇ ਭਾਰਤ ਵਿੱਚ ਆਪਣੇ ਨੈਟਵਰਕ ਦੇ ਅਧੀਨ 500 ਤੋਂ ਵੱਧ ਹਸਪਤਾਲ ਹਨ |
+466	That sounds really good!	ਜੋ ਕਿ ਅਸਲ ਵਿੱਚ ਵਧੀਆ ਜਾਪਦਾ ਹੈ|
+467	Cashless hospitalization facility eases the stress at the time of admission to a hospital.	ਨਕਦ ਰਹਿਤ ਹਸਪਤਾਲ ਵਿੱਚ ਭਰਤੀ ਹੋਣ ਦੀ ਸਹੂਲਤ ਹਸਪਤਾਲ ਵਿੱਚ ਦਾਖਲੇ ਦੇ ਸਮੇਂ ਤਣਾਅ ਨੂੰ ਘੱਟ ਕਰਦੀ ਹੈ|
+468	We don't have the cash all the time.	ਸਾਡੇ ਕੋਲ ਹਰ ਸਮੇਂ ਨਕਦ ਨਹੀਂ ਹੁੰਦਾ|
+469	Most importantly, we don't know when and how misfortune knocks at our doors.	ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਣ, ਅਸੀਂ ਨਹੀਂ ਜਾਣਦੇ ਕਿ ਮਾੜੀ ਕਿਸਮਤ ਕਦੋਂ ਅਤੇ ਕਿਵੇਂ ਸਾਡਾ ਦਰਵਾਜ਼ਾ ਖੜਕਾਉਂਦੀ ਹੈ|
+470	Do we need to produce any medical certificate at the time of enrolling?	ਕੀ ਆਪਾਂ ਨੂੰ ਨਾਮਕਰਣ ਵੇਲੇ ਕੋਈ ਮੈਡੀਕਲ ਸਰਟੀਫਿਕੇਟ ਵੀ ਦੇਣਾ ਪਵੇਗਾ?
+471	No medical certificate is needed for applicants whose age is not more than 40.	ਜਿਸਦੀ ਉਮਰ 40 ਸਾਲ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੈ ਉਸਨੂੰ ਕੋਈ ਮੈਡੀਕਲ ਸਰਟੀਫਿਕੇਟ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ|
+472	You will have to declare about your pre-existing diseases if any in the form.	ਤੁਹਾਡੀ ਆਪਣੀ ਬਿਮਾਰੀ ਜੇਕਰ ਕੋਈ ਪਹਿਲਾਂ ਹੈ ਫ਼ਾਰਮ ਵਿੱਚ ਦੱਸਣੀ ਪਵੇਗੀ|
+473	The enrollment process is a easy one.	ਨਾਮਕਰਣ ਪ੍ਰਕਿਰਿਆ ਸੌਖੀ ਹੈ|
+474	Can I buy this insurance online?	ਕੀ ਮੈਂ ਇਹ ਬੀਮਾ ਪਾਲਿਸੀ ਆਨ ਲਾਈਨ ਖਰੀਦ ਸਕਦਾ ਹਾਂ?
+475	When can I expect the policy copy in hand?	ਕਦੋਂ ਤੱਕ ਮੈਨੂੰ ਪਾਲਸੀ ਦੀ ਕਾਪੀ ਹੱਥ ਵੀ ਮਿਲ ਜਾਵੇਗੀ?
+476	Do they send it by post?	ਕੀ ਉਹ ਡਾਕ ਰਾਹੀਂ ਭੇਜਣਗੇ?
+477	Yes, you can buy it online.	ਹਾਂ, ਤੁਸੀਂ ਆਨਲਾਈਨ ਖਰੀਦ ਸਕਦੇ ਹੋ|
+478	After making the payment online, they will send you the soft copy of the policy in your mail.	ਰਾਸ਼ੀ ਦੇ ਭੁਗਤਾਨ ਤੋਂ ਬਾਅਦ, ਉਹ ਤੁਹਾਨੂੰ ਪਾਲਿਸੀ ਦੀ ਸਾਫਟ ਕਾਪੀ ਮੇਲ ਕਰਣਗੇ|
+479	A hard copy of the same will reach you via post.	ਉਸਦੀ ਇੱਕ ਹਾਰਡ ਕਾਪੀ ਤੁਹਾਡੇ ਕੋਲ ਡਾਕ ਰਾਹੀਂ ਆਵੇਗੀ|
+480	Please visit their website for details.	ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਵੈੱਬਸਾਈਟ ਦੇਖੋ|
+481	I am sending you the link.	ਮੈਂ ਲਿੰਕ ਭੇਜ ਰਿਹਾ ਹਾਂ|
+482	It's Goa, baby!!!	ਇਹ ਗੋਆ ਹੈ, ਬੇਬੀ!!!
+483	I can't believe we're finally going.	ਮੈਨੂੰ ਯਕੀਨ ਨਹੀਂ ਹੋ ਰਿਹਾ ਕਿ ਅਸੀਂ ਅਖੀਰਕਾਰ ਜਾ ਰਹੇ ਹਾਂ|
+484	This is like the seventh time we planned.	ਇਹ ਲਗਭਗ ਸੱਤਵੀਂ ਵਾਰ ਸੀ ਜਦੋਂ ਅਸੀਂ ਯੋਜਨਾ ਬਣਾਈ|
+485	This is totally Dil Chahta Hai vibes.	ਇਹ ਬਿਲਕੁੱਲ ਦਿਲ ਚਾਹੁੰਦਾ ਹੈ ਵਰਗਾ ਅਹਿਸਾਸ ਸੀ|
+486	And it is finally happening.	ਅਤੇ ਇਹ ਅਖੀਰ ਹੋ ਰਿਹਾ ਹੈ|
+487	If only it was convertible and also red!	ਜੇ ਸਿਰਫ਼ ਇਹ ਕੰਵਰਟਬਲ ਕਾਰ ਅਤੇ ਲਾਲ ਹੁੰਦੀ|
+488	I know, right?	ਮੈਨੂੰ ਪਤਾ ਹੈ, ਠੀਕ ਹੈ?
+489	It feels super amazing.	ਇਹ ਬਹੁਤ ਸ਼ਾਨਦਾਰ ਮਹਿਸੂਸ ਮਹਿਸੂਸ ਹੋ] ਰਿਹਾ ਹੈ|
+490	So, do we have a plan for the journey?	ਤਾਂ, ਕੀ ਸਾਡੇ ਕੋਲ ਯਾਤਰਾ ਲਈ ਕੋਈ ਯੋਜਨਾ ਹੈ?
+491	Don't judge me, but this is my first ever road trip.	ਮੈਨੂੰ ਆਂਕੋ ਨਾ, ਪਰ ਇਹ ਮੇਰਾ ਪਹਿਲਾ ਰੋਡ ਟ੍ਰਿਪ ਹੈ|
+492	We will listen to the best playlist I made last night.	ਆਪਾਂ ਸਭ ਤੋਂ ਵਧੀਆ ਪਲੇ-ਲਿਸਟ ਸੁਣਾਂਗੇ ਜੋ ਕਿ ਮੈਂ ਬੀਤੀ ਰਾਤ ਬਣਾਈ ਸੀ|
+493	Take turns in driving.	ਵਾਰੀ-ਵਾਰੀ ਡ੍ਰਾਇਵਿੰਗ ਲਵਾਂਗੇ|
+494	And make stops for the most amazing pictures.	ਅਤੇ ਸਭ ਤੋਂ ਉੱਤਮ ਥਾਵਾਂ 'ਤੇ ਫੋਟੋਗ੍ਰਾਫੀ ਲਈ ਰੁਕਾਂਗੇ|
+495	Because the views en route are stunning.	ਕਿਉਂ ਕਿ ਰਸਤੇ ਵਿਚਲੇ ਦ੍ਰਿਸ਼ ਸ਼ਾਨਦਾਰ ਹਨ|
+496	I hope you have all the Bollywood road trip songs.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਸਾਰੇ ਬਾਲੀਵੁਡ ਦੇ ਰੋਡ ਟ੍ਰਿਪ ਗਾਣੇ ਹੋਣਗੇ|
+497	Ain't no road trip without ZNMD and Dil Chahta Hai songs.	ਜੈੱਡ ਐਨ ਐਮ ਡੀ ਅਤੇ ਦਿਲ ਚਾਹਤਾ ਹੈ ਗੀਤਾਂ ਤੋਂ ਬਿਨਾਂ ਕੋਈ ਸੜਕੀ ਯਾਤਰਾ ਨਹੀਂ ਹੈ|
+498	Absolutely!	ਬਿਲਕੁੱਲ!
+499	I think Bollywood spoils us.	ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਬਾਲੀਵੁੱਡ ਸਾਨੂੰ ਵਿਗਾੜਦਾ ਹੈ|
+500	We try to compare every experience with it.	ਅਸੀਂ ਹਰ ਅਨੁਭਵ ਦੀ ਤੁਲਨਾ ਇਸ ਨਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰਦੇ ਹਾਂ|
+501	But it has set some standards too which is good.	ਪਰ ਇਸਨੇ ਕੁੱਝ ਮਾਪਦੰਡ ਵੀ ਬਣਾਏ ਹਨ ਜੋ ਚੰਗੇ ਹਨ|
+502	Here, let's connect this.	ਇੱਥੇ , ਆਓ ਇਸਨੂੰ ਜੋੜੀਏ |
+503	I agree! My entire life revolves around Bollywood.	ਮੈਂ ਸਹਿਮਤ ਹਾਂ! ਮੇਰੀ ਪੂਰੀ ਜ਼ਿੰਦਗੀ ਬਾਲੀਵੁੱਡ ਦੇ ਆਲੇ-ਦੁਆਲੇ ਘੁੰਮਦੀ ਹੈ|
+504	So, how long is the drive?	ਫਿਰ, ਡਰਾਈਵ ਕਿੰਨੀ ਲੰਬੀ ਹੈ?
+505	Is there anything we can do on the way, other than clicking pictures?	ਕੀ ਫੋਟੋਆਂ ਖਿੱਚਣ ਤੋਂ ਅਲਾਵਾ, ਅਸੀਂ ਰਸਤੇ ਵਿੱਚ ਕੁੱਝ ਹੋਰ ਕਰ ਸਕਦੇ ਹਾਂ?
+506	Wait! I just realized that you said it's your first road trip.	ਰੁਕੋ! ਮੈਨੂੰ ਹੁਣੇ ਅਹਿਸਾਸ ਹੋਇਆ ਕਿ ਤੁਸੀਂ ਕਿਹਾ ਕਿ ਇਹ ਤੁਹਾਡੀ ਪਹਿਲੀ ਸੜਕ ਯਾਤਰਾ ਹੈ|
+507	Seriously?	ਸੱਚੀ ?
+508	If so, we have got to make it a memorable one.	ਜੇਕਰ ਅਜਿਹਾ ਹੈ ਤਾਂ ਸਾਨੂੰ ਇਸ ਨੂੰ ਯਾਦਗਾਰ ਬਣਾਉਣਾ ਪਵੇਗਾ|
+509	You have to! I want this experience to be one of a kind.	ਤੁਹਾਨੂੰ ਕਰਨਾ ਪਵੇਗਾ! ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ ਕਿ ਇਹ ਅਨੁਭਵ ਇੱਕ ਕਿਸਮ ਦਾ ਹੋਵੇ|
+510	I don't know when will I get to do this again.	ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ ਕਿ ਮੈਨੂੰ ਇਹ ਫਿਰ ਕਦੋਂ ਕਰਨ ਨੂੰ ਮਿਲੇਗਾ|
+511	I am very used to Trains and Flights.	ਮੈਂ ਰੇਲਾਂ ਅਤੇ ਜਹਾਜਾਂ ਦਾ ਬਹੁਤ ਆਦਿ ਹਾਂ|
+512	Aren't they more convenient?	ਇਹ ਵਧੇਰੇ ਸੁਵਿਦਾਜਨਕ ਨਹੀਂ ਹਨ?
+513	Especially when the trip is shorter.	ਖਾਸ ਤੌਰ 'ਤੇ ਜਦੋਂ ਯਾਤਰਾ ਛੋਟੀ ਹੁੰਦੀ ਹੈ|
+514	I find road trips way more convenient.	ਮੈਨੂੰ ਸੜਕੀ ਯਾਤਰਾਵਾਂ ਵਧੇਰੇ ਸੁਵਿਧਾਜਨਕ ਲੱਗਦੀਆਂ ਹਨ|
+515	And they actually transition you into a holiday.	ਅਤੇ ਉਹ ਅਸਲ ਵਿੱਚ ਤੁਹਾਨੂੰ ਛੁੱਟੀਆਂ ਵਿੱਚ ਤਬਦੀਲ ਕਰ ਦਿੰਦੇ ਹਨ|
+516	So you can feel more relaxed.	ਤਾਂ ਜੋ ਤੁਸੀਂ ਵਧੇਰੇ ਆਰਾਮ ਮਹਿਸੂਸ ਕਰ ਸਕੋ|
+517	With flights..boom..you are there!	ਉਡਾਣਾਂ ਦੇ ਨਾਲ.. ਬੂਮ.. ਤੁਸੀਂ ਉੱਥੇ ਹੋ!
+518	Trains are still better.	ਰੇਲ ਗੱਡੀਆਂ ਅਜੇ ਵੀ ਬਹਿਤਰ ਹਨ|
+519	That's there, but on road trips, half the vacation goes on the road.	ਇਹ ਤਾਂ ਹੈ, ਪਰ ਸੜਕ ਯਾਤਰਾਵਾਂ 'ਤੇ, ਅੱਧੀ ਛੁੱਟੀ ਸੜਕ 'ਤੇ ਹੀ ਲੰਘ ਜਾਂਦੀ ਹੈ |
+520	But I guess both have their own perks.	ਪਰ ਮੇਰਾ ਅੰਦਾਜ਼ਾ ਹੈ ਕਿ ਦੋਵਾਂ ਦੇ ਆਪਣੇ ਫਾਈਦੇ ਹਨ|
+521	Let's see if Goa changes my perception about road trips.	ਚਲੋ ਦੇਖੀਏ ਕਿ ਕੀ ਗੋਆ ਸੜਕ ਯਾਤਰਾਵਾਂ ਬਾਰੇ ਮੇਰੀ ਧਾਰਨਾਵਾਂ ਨੂੰ ਬਦਲਦੀ ਹੈ|
+522	It will convert you.	ਇਹ ਤੁਹਾਨੂੰ ਬਦਲ ਦੇਵੇਗਾ|
+523	But first, we need to make a pit stop.	ਪਰ ਪਹਿਲਾਂ, ਸਾਨੂੰ ਇੱਕ ਥਾਂ ਰੁਕਣ ਦੀ ਲੋੜ ਹੈ|
+524	This is going to be fun.	ਇਹ ਮਜ਼ੇਦਾਰ ਹੋਣ ਜਾ ਰਿਹਾ ਹੈ|
+525	Let me click a few pictures outside while you get it fuelled.	ਜਦੋਂ ਤੱਕ ਇਸ ਵਿੱਚ ਪਟਰੋਲ ਭਰਵਾਉਂਦੇ ਹੋ ਮੈਨੂੰ ਬਾਹਰ ਕੁੱਝ ਤਸਵੀਰਾਂ ਖਿੱਚਣ ਦਿਓ|
+526	Hey, I heard your brother knows the concert organizers of A P Dhillon.	ਹੇ, ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਤੇਰਾ ਭਰਾ ਏ ਪੀ ਢਿਲਣ ਦੇ ਸੰਗੀਤ ਸਮਾਰੋਹ ਦੇ ਪ੍ਰਬੰਧਕਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ|
+527	I'm trying to get some passes for a long time, which I'm not able to yet.	ਮੈਂ ਲੰਬੇ ਸਮੇਂ ਲਈ ਕੁੱਝ ਪਾਸ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ, ਜੋ ਮੈਂਨੂੰ ਅਜੇ ਤੱਕ ਯੋਗ ਨਹੀਂ ਹਾਂ |
+528	Can you help me, please?	ਕੀ ਤੂੰ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ ?
+529	Yes, he is in the team of the organizers as well.	ਹਾਂ, ਉਹ ਪ੍ਰਬੰਧਕਾਂ ਦੀ ਟੀਮ ਵਿੱਚ ਵੀ ਹੈ|
+530	I will ask him if there are any extra tickets available or not.	ਮੈਂ ਉਸਨੂੰ ਪੁੱਛਾਂਗਾ ਕਿ ਕੋਈ ਵਾਧੂ ਟਿਕਟਾਂ ਉਪਲੱਬਧ ਹਨ ਜਾਂ ਨਹੀਂ|
+531	How many tickets do you want?	ਤੈਨੂੰ ਕਿੰਨੀਆਂ ਟਿਕਟਾਂ ਚਾਹੀਦੀਆਂ ਹਨ ?
+532	I want five tickets, for me and my friends.	ਮੈਨੂੰ ਮੇਰੇ ਅਤੇ ਮੇਰੇ ਦੋਸਤਾਂ ਲਈ ਪੰਜ ਟਿਕਟਾਂ ਚਾਹੀਦੀਆਂ ਹਨ|
+533	When we planned it was around 10k for a ticket.	ਜਦੋਂ ਅਸੀਂ ਇਹ ਯੋਜਨਾ ਬਣਾਈ ਸੀ ਤਾਂ ਇੱਕ ਟਿਕਟ ਲਗਭਗ 10 ਹਜ਼ਾਰ ਦੀ ਸੀ|
+534	But now they're selling at 35 to 40k, I heard.	ਪਰ ਹੁਣ ਮੈਂ ਸੁਣਿਆ ਉਹ 35 ਤੋਂ 40 ਹਜ਼ਾਰ ਦੀ ਵੇਚ ਰਹੇ ਨੇ|
+535	Can you just confirm the price as well?	ਕੀ ਤੂੰ ਸਿਰਫ਼ ਰੇਟ ਵੀ ਪਤਾ ਕਰ ਦੇਵੇਗਾ ?
+536	Actually the estimation made by the organizers have gone up to an extent.	ਦਰਅਸਲ ਪ੍ਰਬੰਧਕਾਂ ਵੱਲੋਂ ਕੀਤਾ ਗਿਆ ਅੰਦਾਜ਼ਾ ਇੱਕ ਹੱਦ ਤੱਕ ਵੱਧ ਗਿਆ ਹੈ|
+537	But they are not so costly as you are saying.	ਪਰ ਉਹ ਇਨ੍ਹੇ ਮਹਿੰਗੇ ਨਹੀਂ ਹਨ ਜਿਨ੍ਹੇ ਤੂੰ ਕਹਿ ਰਿਹਾ ਹੈ |
+538	There are some agents who are selling the tickets in black, so you might have heard from them.	ਉੱਥੇ ਕੁੱਝ ਦਲਾਲ ਨੇ ਜੋ ਬਲੈਕ ਵਿੱਚ ਟਿਕਟਾਂ ਵੇਚਦੇ ਨੇ, ਇਸ ਲਈ ਤੂੰ ਉਹਨਾਂ ਤੋਂ ਸੁਣਿਆ ਹੋਵੇਗਾ|
+539	The ticket prices are 8k per head.	ਇੱਕ ਟਿਕਟ ਦੀ ਕੀਮਤ 8 ਹਜ਼ਾਰ ਹੈ|
+540	But I doubt I can arrange for 5 tickets at the moment.	ਪਰ ਮੈਨੂੰ ਸ਼ੱਕ ਹੈ ਕਿ ਮੈਂ 5 ਟਿਕਟਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰ ਸਕਦਾ ਹਾਂ ਇਸ ਵੇਲੇ|
+541	You're absolutely correct that middlemen are the people who raise the prices.	ਤੂੰ ਬਿਲਕੁੱਲ ਠੀਕ ਕਹਿ ਰਿਹਾ ਹੈ ਕਿ ਉਹਨਾਂ ਦਲਾਲਾਂ ਨੇ ਕੀਮਤਾਂ ਵਧਾ ਰੱਖੀਆਂ ਨੇ|
+542	That won't go to the organizers but affects prices so much.	ਉਹ ਪ੍ਰਬੰਧਕਾਂ ਕੋਲ ਨਹੀਂ ਜਾਵੇਗਾ ਪਰ ਕੀਮਤਾਂ ਤੇ ਅਸਰ ਬਹੁਤ ਪਾਵੇਗਾ|
+543	The fans are so crazy that they buy from them anyway.	ਪ੍ਰਸ਼ੰਸਕ ਐਨੇ ਬੋਲੇ ਹੁੰਦੇ ਨੇ ਕਿ ਫਿਰ ਵੀ ਖਰੀਦੀ ਜਾਂਦੇ ਨੇ|
+544	I was about to quit the plan itself because of that, but I remembered you.	ਮੈਂ ਉਸ ਕਰਕੇ ਯੋਜਨਾ ਰੱਦ ਕਰਨ ਲੱਗਿਆ ਸੀ, ਪਰ ਮੈਨੂੰ ਤੇਰੀ ਯਾਦ ਆਈ|
+545	If it is difficult to get 5, can you try 2 at least?	5 ਮਿਲਨੀਆਂ ਔਖੀਆਂ ਨੇ ਤੂੰ 2 ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹੈ?
+546	2 tickets can be arranged.	2 ਟਿਕਟਾਂ ਦਾ ਪ੍ਰਬੰਧ ਹੋ ਸਕਦਾ ਹੈ|
+547	I will ask my brother and get the tickets for you soon.	ਮੈਂ ਆਪਣੇ ਭਰਾ ਨੂੰ ਕਹਿ ਦੇਵਾਂਗਾ ਅਤੇ ਉਹ ਜਲਦੀ ਹੀ ਤੇਰੇ ਲਈ ਟਿਕਟਾਂ ਲੈ ਆਵੇਗਾ|
+548	You can send him the payment directly, that will be easy.	ਤੂੰ ਉਸਨੂੰ ਸਿੱਧਾ ਹੀ ਪੈਸੇ ਭੇਜ ਦੇਵੀ , ਉਹ ਸੌਖਾ ਰਹੇਗਾ|
+549	Thank you yaar, I had promised my girlfriend.	ਧੰਨਵਾਦ ਯਾਰ, ਮੈਂ ਆਪਣੀ ਮਹਿਲਾ ਮਿੱਤਰ ਨਾਲ ਵਾਅਦਾ ਕੀਤਾ ਸੀ|
+550	She would have pestered me till the next concert.	ਉਸਨੇ ਮੈਨੂੰ ਅਗਲੇ ਸੰਗੀਤ ਸਮਾਰੋਹ ਤੱਕ ਤੰਗ ਕਰਕੇ ਰੱਖਣਾ ਹੈ|
+551	By the way, who goes to such concerts for the sake of music yar, it's just a high for me.	ਵੈਸੇ, ਕੌਣ ਅਜਿਹੇ ਸੰਗੀਤ ਸਮਾਰੋਹਾਂ ਵਿੱਚ ਸੰਗੀਤ ਕਰਕੇ ਜਾਂਦਾ ਹੈ ਯਾਰ, ਇਹ ਮੇਰੀ ਸਮਝ ਤੋਂ ਉੱਚੀ ਗੱਲ ਹੈ|
+552	But I can't tell this to her, as I told you, my friend.	ਪਰ ਮੈਂ ਉਸਨੂੰ ਇਹ ਨਹੀਂ ਕਹਿ ਸਕਦਾ, ਜਿਵੇਂ ਮੈਂ ਤੈਨੂੰ ਕਹਿ ਸਕਦਾ ਹਾਂ, ਮੇਰੇ ਦੋਸਤ|
+553	I understand the scenario.	ਮੈਂ ਹਾਲਾਤ ਸਮਝ ਸਕਦਾ ਹਾਂ|
+554	Don't worry 2 tickets can be well arranged of.	ਫਿਕਰ ਨਾਂ ਕਰ ਦੋ ਟਿਕਟਾਂ ਦਾ ਪ੍ਰਬੰਧ ਹੋ ਸਕਦਾ ਹੈ|
+555	I have already informed my brother and he has booked your tickets already.	ਮੈਂ ਪਹਿਲਾਂ ਹੀ ਆਪਣੇ ਭਾਈ ਨੂੰ ਦੱਸ ਦਿੱਤਾ ਹੈ ਅਤੇ ਉਸਨੇ ਤੁਹਾਡੀਆਂ ਟਿਕਟਾਂ ਬੁੱਕ ਵੀ ਕਰਵਾ ਦਿੱਤੀਆਂ ਹਨ|
+556	So now you can be rest assured and collect it from me tomorrow when we will be meeting.	ਇਸ ਲਈ ਤੂੰ ਇਸ ਨੂੰ ਪੱਕਾ ਸਮਝ ਸਕਦਾ ਹੈ ਅਤੇ ਮੇਰੇ ਤੋਂ ਕੱਲ ਜਦੋਂ ਵੀ ਤੂੰ ਮਿਲਨਾ ਹੋਵੇਗਾ ਲੈ ਸਕਦਾ ਹੈ |
+557	Sure dude, thank you.	ਪੱਕਾ ਬਾਈ, ਧੰਨਵਾਦ|
+558	Most welcome, lets catchup soon.	ਸੁਆਗਤ ਹੈ, ਚਲ ਜਲਦੀ ਮਿਲਦੇ ਹਾਂ|
+559	Hello, is this Mrs. Radhika, Arts teacher at Trinity Elementary School?	ਹਾਂਜੀ, ਕੀ ਸ੍ਰੀਮਤੀ ਰਾਧਿਕਾ , ਟ੍ਰਿਨਿਟੀ ਐਲਿਮੈਂਟਰੀ ਸਕੂਲ ਦੇ ਆਰਟਸ ਟੀਚਰ ਗੱਲ ਕਰ ਰਹੇ ਨੇ?
+560	Yes. Who is this?	ਹਾਂ ਜੀ, ਕੌਣ?
+561	My name is John Bernad, and I am Michele's father.	ਮੇਰਾ ਨਾਮ ਜੋਹਨ ਬੇਰਨਡ ਹੈ ਅਤੇ ਮੈਂ ਮਿਸ਼ੇਲ ਦਾ ਪਿਤਾ ਹਾਂ|
+562	Okay sir, how can I help you?	ਠੀਕ ਹੈ ਸਰ, ਮੈਂ ਕੀ ਮਦਦ ਕਰ ਸਕਦੀ ਹਾਂ?
+563	Michel has expressed an interest in learning music.	ਮਿਸ਼ੇਲ ਨੇ ਸੰਗੀਤ ਸਿੱਖਣ ਦੀ ਇੱਛਾ ਜ਼ਾਹਿਰ ਕੀਤੀ ਹੈ||
+564	I am so confused to select a genre.	ਮੈਂ ਇੱਕ ਸ਼ੈਲੀ ਚੁਣਨ ਲਈ ਉਲਝਣ 'ਚ ਹਾਂ|
+565	Could you assist me?	ਕੀ ਤੁਸੀਂ ਮੇਰੀ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋ?
+566	What is the easiest genre of music to learn?	ਸੰਗੀਤ ਸਿੱਖਣ ਦੀ ਸਭ ਤੋਂ ਅਸਾਨ ਸ਼ੈਲੀ ਕਿਹੜੀ ਹੈ?
+567	Sure.	ਜ਼ਰੂਰ
+568	Children should learn classical music, in my opinion.	ਮੇਰੇ ਖਿਆਲ ਨਾਲ, ਬੱਚਿਆਂ ਨੂੰ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਸਿੱਖਣਾ ਚਾਹੀਦਾ ਹੈ|
+569	Is it beneficial for children to study classical music?	ਕੀ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਸਿੱਖਣਾ ਬੱਚਿਆਂ ਲਈ ਲਾਹੇਵੰਦ ਹੁੰਦਾ ਹੈ?
+570	Yes. It's quite difficult but classical music has huge emotional benefits for children.	ਹਾਂ, ਇਹ ਬਹੁਤ ਔਖਾ ਹੈ ਪਰ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਦੇ ਬੱਚਿਆਂ ਲਈ ਬਹੁਤ ਵੱਡੇ ਭਾਵਾਤਮਕ ਲਾਭ ਹਨ|
+571	According to studies, listening to live classical music evokes positive feelings in children.	ਅਧਿਐਨਾ ਦੇ ਅਨੁਸਾਰ, ਲਾਈਵ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਸੁਣਨਾ ਬੱਚਿਆਂ ਵਿੱਚ ਸਕਾਰਾਤਮਕ ਭਾਵਨਾਵਾਂ ਪੈਦਾ ਕਰਦਾ ਹੈ|
+572	It also has an effect on their listening and concentration abilities.	ਇਹ ਉਹਨਾਂ ਦੀ ਸੁਣਨ ਅਤੇ ਇਕਾਗਰਤਾ ਦੀ ਯੋਗਤਾ 'ਤੇ ਅਸਰ ਪਾਉਂਦੀ ਹੈ|
+573	Classical music is beneficial to children's development, that's nice.	ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਬੱਚਿਆਂ ਦੇ ਵਿਕਾਸ ਲਈ ਲਾਹੇਵੰਦ ਹੈ, ਵਧੀਆ ਹੈ|
+574	What other advantages does classical music have?	ਹੋਰ ਕੀ ਲਾਭ ਹਨ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਦੇ?
+575	Classical music necessitates practise and perseverance.	ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਨੂੰ ਅਭਿਆਸ ਅਤੇ ਲਗਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ|
+576	This training will discipline the child's life.	ਇਹ ਅਭਿਆਸ ਬੱਚੇ ਦੀ ਜ਼ਿੰਦਗੀ ਨੂੰ ਅਨੁਸ਼ਾਸਿਤ ਕਰੇਗੀ|
+577	It functions as an antidepressant.	ਇਹ ਇੱਕ ਐਂਟੀ ਡਿਪਰੈਸ਼ਨ ਦੇ ਤੌਰ 'ਤੇ ਕੰਮ ਕਰਦਾ ਹੈ|
+578	It also soothes children's minds.	ਇਹ ਬੱਚਿਆਂ ਦੇ ਮਨਾਂ ਨੂੰ ਵੀ ਸ਼ਾਂਤ ਕਰਦਾ ਹੈ|
+579	Yeah, a calm child is more joyful.	ਹਾਂ, ਇੱਕ ਸ਼ਾਂਤ ਬੱਚਾ ਜ਼ਿਆਦਾਂ ਅਨੰਦਮਈ ਹੁੰਦਾ ਹੈ|
+580	As children learn to listen carefully rather than just hear,	ਜਿਵੇਂ ਕਿ ਬੱਚੇ ਸਿਰਫ਼ ਸੁਣਨ ਦੀ ਬਜਾਏ ਧਿਆਨ ਨਾਲ ਸੁਣਨ ਨਾਲ ਵੱਧ ਸਿੱਖਦੇ ਹੋ|
+581	their memory cells begin to work harder to store notes, tunes, tones, methods, approaches, and so on.	ਉਹਨਾਂ ਦੀ ਯਾਦਾਸ਼ਤ ਸੈੱਲ ਨੋਟਸ, ਧੁਨੀਆਂ, ਟੋਨ, ਢੰਗ, ਪਹੁੰਚ ਨੂੰ ਸਟੋਰ ਕਰਨ ਲਈ ਸਖਤ ਮਹਿਨਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦਿੰਦੇ ਹਨ|
+582	Okay, I'll look for a classical music teacher in the area for Michele.	ਠੀਕ ਹੈ, ਮੈਂ ਮਿਸ਼ੇਲ ਲਈ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਦੇ ਅਧਿਆਪਕ ਦੀ ਭਾਲ ਕਰਾਂਗਾ|
+583	I understand that classical music is India's soul.	ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਕਿ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਭਾਰਤ ਦੀ ਆਤਮਾ ਹੈ|
+584	That's great.	ਇਹ ਬਹੁਤ ਵਧੀਆ ਹੈ|
+585	Please keep in mind that if she is not interested in classical music, you should not force her to learn it.	ਕਿਰਪਾ ਕਰਕੇ ਇਸਦਾ ਖਿਆਲ ਰਖਿਓ ਕਿ ਜੇਕਰ ਇਹ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ ਵਿੱਚ ਦਿਲਚਸਪੀ ਨਹੀਂ ਰੱਖਦੀ ਤਾਂ ਤੁਹਾਨੂੰ ਉਸਨੂੰ ਇਹ ਸਿੱਖਣ ਲਈ ਮਜਬੂਰ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ|
+586	We should encourage them based on their abilities.	ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀਆਂ ਯੋਗਤਾਵਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਉਤਸਾਹਿਤ ਕਰਾਂਗੇ|}
+587	Sure ma'am.	ਪੱਕਾ ਮੈਡਮ |
+588	Thank you so much for your guidance.	ਤੁਹਾਡੇ ਮਾਰਗ ਦਰਸ਼ਨ ਲਈ ਬਹੁਤ ਸ਼ੁਕਰੀਆ |
+589	You are welcome, and please convey my greetings to Michele.	ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ, ਅਤੇ ਕਿਰਪਾ ਮਿਸ਼ੇਲ ਨੂੰ ਮੇਰਾ ਪਿਆਰ ਦੇਇਓ |
+590	Okay, bye!	ਚੰਗਾ ਫਿਰ !
+591	Do you have a holiday tomorrow?	ਕੀ ਤੁਹਾਨੂੰ ਕੱਲ ਛੁੱਟੀ ਹੈ?
+592	Why would I have a holiday on a weekday?	ਮੈਨੂੰ ਹਫ਼ਤੇ ਦੇ ਦਿਨ ਛੁੱਟੀ ਕਿਉਂ ਹੋਵੇਗੀ?
+593	Well, there will be a rally tomorrow.	ਖੈਰ, ਕੱਲ੍ਹ ਇੱਕ ਰੈਲੀ ਹੋਵੇਗੀ|
+594	Our neighbourhood children got a holiday.	ਸਾਡੇ ਆਂਡ ਗੁਆਂਡ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਵੀ ਛੁੱਟੀ ਹੈ|
+595	I thought you will get one too,	ਮੈਂ ਸੋਚਿਆ ਕਿ ਤੁਹਾਨੂੰ ਵੀ ਹੋਵੇਗੀ|
+596	I don't have any holiday.	ਮੈਨੂੰ ਕੋਈ ਛੁੱਟੀ ਨਹੀਂ ਹੈ|
+597	Then I think it'd be better if you take leave for tomorrow.	ਫਿਰ ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਬਹਿਤਰ ਹੋਵੇਗਾ ਜੇਕਰ ਤੁਸੀਂ ਕੱਲ੍ਹ ਲਈ ਛੁੱਟੀ ਲੈ ਲਵੋ|
+598	What is the big deal about this rally?	ਇਸ ਰੈਲੀ ਬਾਰੇ ਕੀ ਵੱਡੀ ਗੱਲ ਹੈ?
+599	A lot of rallies happen all the time.	ਹਰ ਸਮੇਂ ਬਹੁਤ ਸਾਰੀਆਂ ਰੈਲੀਆਂ ਹੁੰਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ|
+600	This one will be huge.	ਇਹ ਬਹੁਤ ਵੱਡੀ ਹੋਵੇਗੀ|
+601	Because all the major parties, Bharatiya Janata Party, Trinamool Congress, and Communist Party, are taking part in it.	ਕਿਉਂ ਕਿ ਸਾਰੀਆਂ ਵੱਡੀਆਂ ਪਾਰਟੀਆਂ, ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ, ਤ੍ਰਿਣਮੂਲ ਕਾਂਗਰਸ ਅਤੇ ਕੌਮਊਨਿਸਟ ਪਾਰਟੀ ਇਸ ਵਿੱਚ ਹਿੱਸਾ ਲੈਣਗੀਆਂ |
+602	All of them?	ਇਹ ਸਭ ?
+603	Yes, and I doubt if you will be able to make it home on time.	ਹਾਂ ਜੀ, ਅਤੇ ਮੈਨੂੰ ਸ਼ੱਕ ਹੈ ਜੇਕਰ ਤੁਸੀਂ ਸਮੇਂ ਸਿਰ ਘਰ ਪਹੁੰਚਣ ਦੇ ਯੋਗ ਬਣੋਗੇ |
+604	If you go to the office tomorrow.	ਜੇਕਰ ਤੁਸੀਂ ਕੱਲ੍ਹ ਦਫ਼ਤਰ ਗਏ|
+605	I doubt it too.	ਮੈਨੂੰ ਵੀ ਇਹੀ ਸ਼ੱਕ ਹੈ|
+606	But I know nothing about this.	ਪਰ ਮੈਨੂੰ ਇਸ ਬਾਰੇ ਕੁੱਝ ਨਹੀਂ ਪਤਾ |
+607	Why are they doing this?	ਉਹ ਇਹ ਕਿਉਂ ਕਰ ਰਹੇ ਨੇ?
+608	They are doing this because the government didn't do everything as they promised in the manifesto.	ਇਹ ਤਾਂ ਕਰ ਰਹੇ ਨੇ ਕਿਉਂਕਿ ਸਰਕਾਰ ਉਹ ਕੁੱਝ ਨਹੀਂ ਕਰ ਰਹੀ ਜੋ ਓਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਮਨੀਫ਼ੈਸਟੋ ਵਿੱਚ ਵਾਅਦੇ ਕੀਤੇ ਸਨ|
+609	Is that so?	ਅਜਿਹਾ ਹੈ?
+610	Then what about the time when Bharatiya Janata Party was ruling?	ਫਿਰ ਉਸ ਸਮੇਂ ਬਾਰੇ ਕੀ ਜਦੋਂ ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ ਰਾਜ ਕਰ ਰਹੀ ਸੀ?
+611	They did not do it as promised either.	ਉਹਨਾਂ ਨੇ ਵੀ ਉਹ ਨਹੀਂ ਕੀਤਾ ਸੀ ਜਿਸਦਾ ਵਾਅਦਾ ਕੀਤਾ ਸੀ|
+612	True, but who cares?	ਸੱਚ, ਪਰ ਕੌਣ ਪਰਵਾਹ ਕਰਦਾ ਹੈ?
+613	This is how politics is always, right?	ਇਸੇ ਤਰ੍ਹਾਂ ਰਾਜਨੀਤੀ ਹਮੇਸ਼ਾ ਹੁੰਦੀ ਹੈ, ਹੈ ਨਾ?
+614	Yes, they protest against one other for publicity and stuff.	ਹਾਂ ਜੀ, ਉਹ ਪ੍ਰਚਾਰ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਲਈ ਇੱਕ ਦੂਜੇ ਦਾ ਵਿਰੋਧ ਕਰਦੇ ਹਨ|
+615	But in reality, these get to nothing.	ਪਰ ਅਸਲ ਵਿੱਚ, ਇਹ ਕੁੱਝ ਵੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰਦੇ|
+616	Other than us suffering because of traffic and everything.	ਇਸ ਤੋਂ ਇਲਾਵਾ ਅਸੀਂ ਟ੍ਰੈਫਿਕ ਅਤੇ ਸਭ ਚੀਜ਼ਾਂ ਕਰਕੇ ਪਰੇਸ਼ਾਨ ਹੁੰਦੇ ਹਾਂ|
+617	Exactly, I hope this won't be going on till tomorrow evening.	ਬਿਲਕੁੱਲ, ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਇਹ ਕੱਲ੍ਹ ਸ਼ਾਮ ਤੱਕ ਨਹੀਂ ਚੱਲੇਗੀ|
+618	Will you be going?	ਕੀ ਤੁਸੀਂ ਜਾਉਂਗੇ?
+619	I have to, there is so much work in the office.	ਮੈਨੂੰ ਜਾਣਾ ਪਏਗਾ, ਦਫ਼ਤਰ ਵਿੱਚ ਬਹੁਤ ਸਾਰਾ ਕੰਮ ਪਿਆ ਹੈ|
+620	I can't take a leave because of this.	ਮੈਂ ਇਸ ਕਰਕੇ ਛੁੱਟੀ ਨਹੀਂ ਲੈ ਸਕਦਾ|
+621	Then go by public transport tomorrow.	ਫਿਰ ਕੱਲ ਜਨਤਕ ਆਵਾਜਾਈ ਦੁਵਾਰਾ ਜਾਓ|
+622	We never know what might happen.	ਸਾਨੂੰ ਨਹੀਂ ਪਤਾ ਕਦੇ ਵੀ ਕੁੱਛ ਵੀ ਹੋ ਸਕਦਾ ਹੈ I
+623	What if there will be some fights?	ਕੀ ਉੱਥੇ ਕੁੱਝ ਝਗੜੇ ਹੋਣਗੇ?
+624	Remember, they burned down your colleague's bike a year before?	ਯਾਦ ਹੈ , ਇੱਕ ਸਾਲ ਪਹਿਲਾਂ ਉਹਨਾਂ ਨੇ ਤੁਹਾਡੇ ਸਹਿਕਰਮੀ ਦੇ ਮੋਟਰਸਾਈਕਲ ਨੂੰ ਅੱਗ ਲੱਗਾ ਦਿੱਤੀ ਸੀ?
+625	You are worrying too much.	ਤੁਸੀਂ ਬਹੁਤ ਚਿੰਤਾ ਕਰ ਰਹੇ ਹੋ|
+626	Nothing like that will happen.	ਅਜਿਹਾ ਕੁੱਝ ਵੀ ਨਹੀਂ ਹੋਣ ਵਾਲਾ|
+627	Hey, how do you always get the highest marks in Geography?	ਹੇ, ਤੁਸੀਂ ਹਮੇਸ਼ਾ ਭੂਗੋਲ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਅੰਕ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹੋ?
+628	You barely study.	ਤੁਸੀਂ ਮੁਸ਼ਕਿਲ ਨਾਲ ਪੜ੍ਹਦੇ ਹੋ|
+629	And then there's me!	ਅਤੇ ਫਿਰ ਮੈਂ ਹਾਂ|
+630	Hi, there's a little secret of mine that I follow.	ਹੇ, ਮੇਰਾ ਇੱਕ ਛੋਟਾ ਜਿਹਾ ਰਾਜ ਹੈ ਜਿਸਦਾ ਮੈਂ ਅਨੁਸਰਣ ਕਰਦਾ ਹਾਂ|
+631	Wouldn't share with anyone...	ਕਿਸੇ ਨਾਲ ਸਾਂਝਾ ਨਹੀਂ ਕਰਾਂਗਾ..
+632	Between jokes apart, basically I have a keen interest in Geography from the very beginning.	ਮਜਾਕ ਇੱਕ ਪਾਸੇ, ਅਸਲ ਵਿੱਚ ਮੈਂ ਸ਼ੁਰੂ ਤੋਂ ਹੀ ਭੂਗੋਲ ਵਿੱਚ ਡੂੰਘੀ ਦਿਲਚਸਪੀ ਰੱਖਦਾ ਹਾਂ|
+633	Honestly I don't study the subject all round the clock.	ਸੱਚ ਦਸਾਂ, ਮੈਂ ਹਰ ਸਮੇਂ ਵਿਸ਼ੇ ਦਾ ਅਧਿਐਨ ਨਹੀਂ ਕਰਦਾ|
+634	During the class hours when ma'am teaches us the chapters I try to connect it with the actual scenario and paint a picture in my mind.	ਕਲਾਸ ਦੇ ਸਮੇਂ ਦੌਰਾਨ ਜਦੋਂ ਅਧਿਆਪਕ ਸਾਨੂੰ ਅਧਿਆਇ ਪੜ੍ਹਾਉਂਦੇ ਹਨ ਮੈਂ ਉਸਨੂੰ ਅਸਲ ਦ੍ਰਿਸ਼ ਨਾਲ ਜੋੜਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ ਅਤੇ ਆਪਣੇ ਦਿਮਾਗ ਵਿੱਚ ਇੱਕ ਤਸਵੀਰ ਬਣਾਉਂਦਾ ਹਾਂ |
+635	That way even I get concepts clear too.	ਇਸ ਤਰ੍ਹਾਂ ਸੰਕਲਪਾਂ ਨੂੰ ਵੀ ਸਪਸ਼ਟ ਕਰਦੇ ਹਾਂ|
+636	What do you mean by connecting with actual scenarios?	ਅਸਲ ਦ੍ਰਿਸ਼ਾਂ ਨਾਲ ਜੁੜਨ ਦਾ ਤੁਹਾਡਾ ਕੀ ਮਤਲਬ ਹੈ?
+637	It's Geography! All there is to it is mountains, rivers, oceans, climate, and unnecessary numbers.	ਇਹ ਭੂਗੋਲ ਹੈ! ਇੱਥੇ ਸਾਰੇ ਪਹਾੜ, ਨਦੀਆਂ, ਸਮੁੰਦਰ, ਜਲਵਾਯੂ ਅਤੇ ਬੇਲੋੜੀ ਸੰਖਿਆ ਹੈ|
+638	What do you even like about it?	ਤੁਹਾਨੂੰ ਇਸ ਬਾਰੇ ਵੀ ਕੀ ਪਸੰਦ ਹੈ?
+639	It's like the most boring of all the boring subjects.	ਇਹ ਸਾਰੇ ਬੋਰਿੰਗ ਵਿਸ਼ਿਆਂ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਬੋਰਿੰਗ ਹੈ|
+640	If you think that way.	ਜੇ ਤੁਸੀਂ ਇਸ ਤਰ੍ਹਾਂ ਸੋਚਦੇ ਹੋ|
+641	As you know I tend to travel a lot and watch a lot of movies.	ਜਿਵੇਂ ਤੁਹਾਨੂੰ ਪਤਾ ਹੈ ਕਿ ਮੈਨੂੰ ਬਹੁਤ ਘੁਮੰਣਾ ਅਤੇ ਬਹੁਤ ਫਿਲਮਾਂ ਦੇਖਣਾ ਪਸੰਦ ਹੈ|
+642	Whatever we study, it's all around us, we need to look up.	ਜੋ ਵੀ ਅਸੀਂ ਪੜ੍ਹਦੇ ਹਾਂ , ਇਹ ਸਭ ਸਾਡੇ ਆਸ-ਪਾਸ ਹੈ, ਸਾਨੂੰ ਵੇਖਣ ਦੀ ਲੋੜ ਹੈ|
+643	So whatever we study I try to recall the images and some of the places I have been to, or watched in movies and connect them.	ਇਸ ਲਈ ਜੋ ਵੀ ਅਸੀਂ ਪੜ੍ਹਦੇ ਹਾਂ ਮੈਂ ਉਸਨੂੰ ਤਸਵੀਰਾਂ ਵਿੱਚ ਅਤੇ ਕੁੱਝ ਥਾਵਾਂ ਨਾਲ ਜਿੱਥੇ ਮੈਂ ਗਿਆ ਹੋਵਾਂ ਜਾਂ ਜੋ ਫ਼ਿਲਮਾਂ 'ਚ ਦੇਖੀਆਂ ਹੋਣ ਨਾਲ ਜੋੜਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ|
+644	That way it is more of a visual thing for me, and you will remember for a longer period of time.	ਇਸ ਤਰ੍ਹਾਂ ਇਹ ਮੇਰੇ ਲਈ ਇੱਕ ਦ੍ਰਿਸ਼ਕ ਵਸਤੂ ਹੈ, ਅਤੇ ਤੁਸੀਂ ਲੰਬੇ ਸਮੇਂ ਲਈ ਯਾਦ ਰੱਖਦੇ ਹੋ|
+645	Have you ever thought of studying this way?	ਕੀ ਤੁਸੀਂ ਕਦੇ ਇਸ ਤਰੀਕੇ ਨਾਲ ਅਧਿਐਨ ਕਰਨ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?
+646	Perhaps you're right, this method does help sometimes.	ਸਾਇਦ ਤੁਸੀਂ ਸਹੀ ਹੋ, ਇਹ ਵਿਧੀ ਕੁੱਝ ਸਮਾਂ ਮਦਦ ਕਰਦੀ ਹੈ|
+647	But you know, for me it's very difficult to connect with a subject like Geography.	ਪਰ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ, ਮੇਰੇ ਲਈ ਭੂਗੋਲ ਵਰਗੇ ਵਿਸ਼ੇ ਨਾਲ ਜੁੜਨਾ ਬਹੁਤ ਮੁਸ਼ਕਿਲ ਹੈ|
+648	Maybe it fascinates you because you travel a lot; in my case, on the other hand, it's all just fictitious information.	ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਇਹ ਤੁਹਾਨੂੰ ਆਕਰਸ਼ਿਤ ਕਰਦਾ ਹੋਵੇ ਕਿਉਂਕਿ ਤੁਸੀਂ ਬਹੁਤ ਯਾਤਰਾ ਕਰਦੇ ਹੋ; ਦੂਜੇ ਪਾਸੇ, ਮੇਰੇ ਕੇਸ ਵਿੱਚ, ਇਹ ਸਿਰਫ਼ ਇੱਕ ਕਾਲਪਨਿਕ ਜਾਣਕਾਰੀ ਹੈ|
+649	Besides, we have Indian Geography as part of our syllabus, and you guys probably study the best places in the world!	ਇਸ ਤੋਂ ਇਲਾਵਾ, ਸਾਡੇ ਕੋਲ ਸਿਲੇਬਸ ਦੇ ਹਿੱਸੇ ਵਜੋਂ ਭਾਰਤੀ ਭੂਗੋਲ ਹੈ, ਅਤੇ ਤੁਸੀਂ ਲੋਕ ਸ਼ਾਇਦ ਦੁਨਿਆ ਦੇ ਸਭ ਤੋਂ ਵਧੀਆ ਸਥਾਨਾਂ ਦਾ ਅਧਿਐਨ ਕਰਦੇ ਹੋ!
+650	It's different for us!	ਇਹ ਸਾਡੇ ਲਈ ਵੱਖਰਾ ਹੈ!
+651	I can understand that it is a bit dfferent, but you can try watching a few videos for some selective topics, that also gives an idea.	ਮੈਂ ਸਮਝ ਸਕਦਾ ਹਾਂ ਕਿ ਇਹ ਥੋੜਾ ਵੱਖਰਾ ਹੈ, ਪਰ ਤੁਸੀਂ ਕੁੱਝ ਚੋਣਵੇ ਵਿਸ਼ਿਆਂ ਲਈ ਕੁੱਝ ਵੀਡੀਓ ਦੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ, ਇਹ ਇੱਕ ਵਿਚਾਰ ਵੀ ਦਿੰਦੀ ਹੈ|
+652	I kindoff started that way in the very beginning and then found alternatives.	ਮੈਂ ਸ਼ੁਰੂ ਵਿੱਚ ਇਸ ਤਰ੍ਹਾਂ ਸ਼ੁਰੂ ਕੀਤਾ ਸੀ ਅਤੇ ਫਿਰ ਵਿਕਲਪ ਲੱਭੇ|
+653	It is more of an audio-visual thing.	ਇਹ ਇੱਕ ਆਡੀਓ-ਵਿਜੁਅਲ ਚੀਜ਼ ਜਿਆਦਾਂ ਹੈ|
+654	If you want I can help you on this.	ਜੇਕਰ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਮੈਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ|
+655	Yes, I guess I'd like that.	ਹਾਂ, ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਮੈਂ ਇਹ ਪਸੰਦ ਕਰਾਂਗਾ|
+656	Do you think travelling so much has developed your liking for the subject or could it be the other way around?	ਕੀ ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਜਿਆਦਾਂ ਘੁਮੰਣ ਨਾਲ ਤੁਹਾਡੀ ਵਿਸ਼ੇ ਵਿੱਚ ਰੁਚੀ ਵਧੀ ਹੈ ਜਾਂ ਇਸ ਤੋਂ ਉਲਟ ਕੁੱਝ ਹੋ ਸਕਦਾ ਹੈ?
+657	I mean, does all this information about weather conditions, places, structures, and what not come handy when you're out exploring places?	ਮੇਰਾ ਮਤਲਬ ਹੈ, ਕੀ ਇਹ ਸਾਰੀ ਜਾਣਕਾਰੀ ਮੌਸਮ ਦੀਆਂ ਸਥਿਤੀਆਂ, ਸਥਾਨਾਂ, ਢਾਂਚਿਆਂ, ਅਤੇ ਜਦੋਂ ਤੁਸੀਂ ਸਥਾਨਾਂ ਦੀ ਵਿਆਖਿਆ ਕਰਦੇ ਹੋ ਤਾਂ ਕੀ ਕੰਮ ਨਹੀਂ ਹੁੰਦਾ?
+658	Especially in India where there's hardly anything special to see!	ਖਾਸ ਤੌਰ 'ਤੇ ਭਾਰਤ ਵਿੱਚ ਜਿੱਥੇ ਦੇਖਣ ਲਈ ਸ਼ਾਇਦ ਹੀ ਕੋਈ ਖਾਸ ਚੀਜ਼ ਹੋਵੇ!
+659	It's not really the case.	ਇਹ ਅਸਲ ਵਿੱਚ ਅਜਿਹਾ ਨਹੀਂ ਹੈ|
+660	We have lot to see in India, most of the major waterbodies, hills and plains you will find in India too.	ਸਾਡੇ ਕੋਲ ਭਾਰਤ ਵਿੱਚ ਦੇਖਣ ਲਈ ਬਹੁਤ ਕੁੱਝ ਹੈ, ਜਿਆਦਾਂਤਰ ਪ੍ਰਮੁੱਖ ਚਸ਼ਮੇ, ਪਹਾੜ ਅਤੇ ਮੈਦਾਨ ਵੀ ਤੁਸੀਂ ਭਾਰਤ ਵਿੱਚ ਪਾਓਗੇ|
+661	Like take for example the different Himalayan ranges which you can see from different states like Kanchenjunga, and many more are there, is one of a kind and each range have it's own feature to share.	ਜਿਵੇਂ ਕਿ ਉਦਾਹਰਨ ਵਜੋਂ ਹਿਮਾਲਾ ਦੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਜੋ ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਰਾਜਾਂ ਜਿਵੇਂ ਕੰਚਨਜੰਗਾ, ਅਤੇ ਹੋਰ ਬਹੁਤ ਸਾਰੇ ਉੱਥੇ ਹਨ, ਇੱਕ ਕਿਸਮ ਦੀ ਹੈ ਅਤੇ ਹਰ ਰੇਂਜ ਵਿੱਚ ਸਾਂਝਾ ਕਰਨ ਲਈ ਇਸਦੀ ਆਪਣੀ ਵਿਸ਼ੇਸ਼ਤਾ ਹੈ|
+662	The waterbodies also tend to get divided in a number of places resulting in deltas and islands.	ਪਾਣੀ ਕਈ ਥਾਵਾਂ 'ਤੇ ਵੰਡਿਆ ਜਾਂਦਾ ਹੈ ਜਿਸ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਡੈਲਟਾ ਅਤੇ ਟਾਪੂ ਬਣਦੇ ਹਨ|
+663	Those masses of lands have some unique feature of their own.	ਜ਼ਮੀਨ ਦੇ ਉਹਨਾਂ ਸਮੂਹਾਂ ਵਿੱਚ ਜ਼ਮੀਨ ਦੀ ਆਪਣੀ ਕੁੱਝ ਵਿਲੱਖਣ ਵਿਸ਼ੇਸ਼ਤਾ ਹੈ|
+664	Maybe you're right! I remember miss Lea's class on Indian geography, and how she carved an intriguing picture for us.	ਸ਼ਾਇਦ ਤੁਸੀਂ ਸਹੀ ਹੋ! ਮੈਨੂੰ ਭਾਰਤੀ ਭੂਗੋਲ 'ਤੇ ਮਿਸ ਲੀ ਦੀ ਕਲਾਸ ਯਾਦ ਹੈ, ਅਤੇ ਕਿਵੇਂ ਉਹਨਾਂ ਨੇ ਸਾਡੇ ਲਈ ਇੱਕ ਦਿਲਚਸਪ ਤਸਵੀਰ ਬਣਾਈ |
+665	It's just how you can make the subject more interesting using different tips and tricks on your own.	ਇਹ ਇਸ ਤਰ੍ਹਾਂ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਵੱਖ ਵੱਖ ਸੁਝਾਵਾਂ ਅਤੇ ਜੁਗਤਾਂ ਦੀ ਵਰਤੋ ਕਰ ਕੇ ਵਿਸ਼ੇ ਨੂੰ ਹੋਰ ਦਿਲਚਸਪ ਬਣਾ ਸਕਦੇ ਹੋ|
+666	I dislike leaving the house for days but maybe I can try to keep an open mind and try looking at things the way you do.	ਮੈਂ ਕਈ ਦਿਨਾਂ ਲਈ ਘਰ ਛੱਡਣਾ ਨਾਪਸੰਦ ਕਰਦਾ ਹਾਂ ਪਰ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਮੈਂ ਇੱਕ ਖੁੱਲਾ ਦਿਮਾਗ ਰੱਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹਾਂ ਅਤੇ ਚੀਜ਼ਾਂ ਨੂੰ ਉਸੇ ਤਰ੍ਹਾਂ ਦੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹਾਂ ਜਿਵੇਂ ਤੁਸੀਂ ਕਰਦੇ ਹੋ|
+667	These shows and movies might come handy.	ਇਹ ਸ਼ੋਅ ਅਤੇ ਫ਼ਿਲਮਾਂ ਕੰਮ ਆ ਸਕਦੀਆਂ ਹਨ|
+668	Good talk, man! Thanks a lot!	ਚੰਗੀ ਲੱਗਿਆ ਗੱਲ ਕਰਕੇ ਬਾਈ! ਧੰਨਵਾਦ ਬਹੁਤ ਬਹੁਤ!
+669	You are welcome.	ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ|
+670	Hello, I'm calling about booking a cab to take me from the university hostel to Z Square mall.	ਹੈਲੋ, ਮੈਂ ਯੂਨੀਵਰਸਿਟੀ ਦੇ ਹੋਸਟਲ ਤੋਂ ਜੈੱਡ ਸਕੁਏਅਰ ਮਾਲ ਤੱਕ ਜਾਣ ਲਈ ਇੱਕ ਕੈਬ ਬੁੱਕ ਕਰਨ ਬਾਰੇ ਕਾਲ ਕਰ ਰਹੀ ਹਾਂ|
+671	How soon can I get one?	ਮੈਨੂੰ ਕਿੰਨੀ ਜਲਦੀ ਇੱਕ ਕੈਬ ਮਿਲ ਸਕਦੀ ਹੈ?
+672	I can send one of our drivers to your address immediately.	ਮੈਂ ਹੁਣੇ ਆਪਣੇ ਡਰਾਈਵਰਾਂ ਵਿਚੋਂ ਇੱਕ ਡਰਾਈਵਰ ਨੂੰ ਤੁਹਾਡਾ ਪਤੇ ਭੇਜਦਾ ਹਾਂ|
+673	Where do you want to be picked up from?	ਤੁਸੀਂ ਕਿਥੋਂ ਚੜ੍ਹਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+674	I will wait in the main campus which is very close to the entrance.	ਮੈਂ ਮੇਨ ਕੈਂਪਸ ਵਿੱਚ ਇਤਜ਼ਾਰ ਕਰਾਂਗਾ ਜੋ ਕਿ ਕੈਂਪਸ ਦੇ ਗੇਟ ਦੇ ਨੇੜੇ ਹੈ|
+675	The security guard will let you in without issues.	ਸੁਰੱਖਿਆ ਗਾਰਡ ਤੁਹਾਨੂੰ ਬਿਨ੍ਹਾਂ ਕਿਸੇ ਦਿੱਕਤ ਤੋਂ ਅੰਦਰ ਆਉਣ ਦੇਣਗੇ|
+676	Ok, can the cab enter the campus premises?	ਅੱਛਾ, ਕਿ ਗੱਡੀ ਕੈਪਸ ਦੀ ਇਮਾਰਤ ਵਿੱਚ ਦਾਖਲ ਹੋ ਸਕਦੀ ਹੈ?
+677	Is that allowed?	ਕੀ ਇਸਦੀ ਇਜ਼ਾਜਤ ਹੈ?
+678	We got into trouble with another university once; I am asking just to be sure.	ਅਸੀਂ ਇੱਕ ਵਾਰ ਕਿਸੇ ਹੋਰ ਯੂਨੀਵਰਸਿਟੀ ਨਾਲ ਮੁਸੀਬਤ ਵਿੱਚ ਪੈ ਗਏ ਸੀ; ਮੈਂ ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਪੁੱਛ ਰਿਹਾ ਹਾਂ|
+679	It's fine as long as they are notified beforehand.	ਇਹ ਉਦੋਂ ਤੱਕ ਠੀਕ ਹੈ ਜਦੋਂ ਤੱਕ ਉਹਨਾਂ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਸੂਚਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ|
+680	I have informed them now so you will not face any trouble getting in.	ਮੈਂ ਹੁਣ ਉਹਨਾਂ ਨੂੰ ਸੂਚਿਤ ਕਰ ਦਿੱਤਾ ਹੈ ਤਾਂ ਜੋ ਤੁਹਾਨੂੰ ਅੰਦਰ ਆਉਣ ਵਿੱਚ ਕਿਸੇ ਮੁਸ਼ਕਿਲ ਦਾ ਸਾਹਮਣਾ ਨਾ ਕਰਨਾ ਪ ਵੇ|
+681	Ok, can you send me some sort of document or screenshot to validate this?	ਠੀਕ ਹੈ, ਕਿ ਤੁਸੀਂ ਇਸਨੂੰ ਪ੍ਰਮਾਣਿਤ ਕਰਨ ਲਈ ਮੈਨੂੰ ਕੋਈ ਕਾਗਜ਼/ ਦਸਤਾਵੇਜ਼ ਜਾਂ ਸਕ੍ਰੀਨ ਸ਼ਾਟ ਭੇਜ ਸਕਦੇ ਹੋ?
+682	I am sorry for the trouble, but it is company policy.	ਮੈਨੂੰ ਮੁਸੀਬਤ ਲਈ ਅਫਸੋਸ ਹੈ, ਪਰ ਇਹ ਕੰਪਨੀ ਦੀ ਨੀਤੀ ਹੈ|
+683	I have a copy of the campus guidelines that state this.	ਮੇਰੇ ਕੋਲ ਕੈਂਪਸ ਦੇ ਦਿਸ਼ਾ ਨਿਰਦੇਸ਼ਾ ਦੀ ਇੱਕ ਕਾਪੀ ਹੈ ਜੋ ਇਹ ਦੱਸਦੀ ਹੈ|
+684	I have just sent it to you on WhatsApp.	ਮੈਂ ਇਸਨੂੰ ਹੁਣੇ ਤੁਹਾਡੇ ਵ੍ਹਾਟਸਐਪ ਤੇ ਭੇਜਿਆ ਹੈ|
+685	Ok, that should work.	ਠੀਕ ਹੈ, ਇਹ ਕੰਮ ਆਉਣੀ ਚਾਹੀਦੀ ਹੈ|
+686	For convenience in the future, you can make use of an app to avail our services in the campus.	ਭਵਿੱਖ ਵਿੱਚ ਸਹੂਲਤ ਲਈ, ਤੁਸੀਂ ਕੈਂਪਸ ਵਿੱਚ ਸਾਡੀਆਂ ਸੇਵਾਵਾਂ ਦਾ ਲਾਭ ਲੈਣ ਲਈ ਇੱਕ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ|
+687	It is called Trava-Go and is available in the Google Play Store.	ਇਸਨੂੰ ਟ੍ਰੈਵਾ-ਗੋ ਕਿਹਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇਹ ਗੂਗਲ ਪਲੇ ਸਟੋਰ ਤੇ ਉਪਲੱਬਧ ਹੈ|
+688	That would help out a great deal.	ਇਹ ਬਹੁਤ ਮੱਦਦ ਕਰੇਗੀ|
+689	Are you familiar with the whereabouts of the hostel?	ਕੀ ਤੁਸੀਂ ਹੋਸਟਲ ਦੇ ਠਿਕਾਣੇ ਤੋਂ ਜਾਣੂ ਹੋ?
+690	I am new to the area, so I am afraid I don't have a lot of idea.	ਮੈਂ ਇੱਥੇ ਨਵਾਂ ਹਾਂ, ਇਸ ਲਈ ਮੈਨੂੰ ਡਰ ਹੈ ਮੇਰੇ ਕੋਲ ਕੋਈ ਜਿਆਦਾਂ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ|
+691	But I am sure the driver who gets assigned to you will know their way around.	ਪਰ ਮੈਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਜਿਹੜਾ ਡਰਾਈਵਰ ਤੁਹਾਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ ਉਹ ਆਪਣੇ ਆਲੇ-ਦੁਆਲੇ ਦਾ ਰਸਤਾ ਲੱਭ ਲਵੇਗਾ |
+692	I'll send the location to you just in case he doesn't.	ਠੀਕ ਹੈ, ਮੈਂ ਤੁਹਾਨੂੰ ਆਪਣੀ ਲੋਕੇਸ਼ਨ ਭੇਜ ਰਹੀ ਹਾਂ, ਜੇਕਰ ਉਸਨੂੰ ਨਾ ਪਤਾ ਲੱਗਿਆ ਤਾਂ|
+693	Do I have to pay the fare beforehand or on arrival at the destination?	ਕਿ ਮੈਂ ਕਿਰਾਇਆ ਪਹਿਲਾਂ ਦੇਣਾ ਹੈ ਜਾਂ ਪਹੁੰਚਣ ਕੇ ?
+694	That is your choice.	ਇਹ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਹੈ|
+695	You can either make the payment in advance or pay after the ride.	ਤੁਸੀਂ ਪੈਸੇ ਪਹਿਲਾਂ ਵੀ ਦੇ ਸਕਦੇ ਹੋ ਜਾਂ ਸਵਾਰੀ ਦੇ ਅੰਤ ਵਿੱਚ ਵੀ ਦੇ ਸਕਦੇ ਹੋ|
+696	If you need the cab to wait for you, there will be additional charges.	ਜੇਕਰ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਗੱਡੀ ਤੁਹਾਡੀ ਉਡੀਕ ਕਰੇ, ਤਾਂ ਉਸਦੇ ਪੈਸੇ ਵੱਖਰੇ ਹੋਣਗੇ |
+697	There will be no need for that.	ਇਸਦੀ ਕੋਈ ਲੋੜ ਨਹੀਂ ਹੈ|
+698	I will be ready in ten minutes so I hope that the cab can be available by then.	ਮੈਂ ਦੱਸ ਮਿੰਟ ਚ ਤਿਆਰ ਹੋ ਜਾਵਾਂਗੀ , ਉਮੀਦ ਹੈ ਕਿ ਉਦੋਂ ਤੱਕ ਕੈਬ ਪਹੁੰਚ ਜਾਵੇਗੀ|
+699	Ok, your cab is expected to reach your location in 15 minutes.	ਠੀਕ ਹੈ, ਤੁਹਾਡੀ ਕੈਬ ਨੂੰ ਤੁਹਾਡੇ ਪਤੇ ਤੇ ਪਹੁੰਚਣ ਵਿੱਚ ਕਰੀਬ 15 ਮਿੰਟ ਲੱਗਣਗੇ|
+700	Thank you for using our cab service.	ਸਾਡੀ ਕੈਬ ਸਰਵਿਸ ਇਸਤੇਮਾਲ ਕਰਨ ਲਈ ਸ਼ੁਕਰੀਆ|
+701	Hello sir, I am Adarsh's mother.	ਹੈਲੋ ਸਰ, ਮੈਂ ਆਦਰਸ਼ ਦੀ ਮਾਂ ਹਾਂ|
+702	I am here to discuss some things about my son.	ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਬੇਟੇ ਬਾਰੇ ਕੁੱਝ ਗੱਲਾਂ ਤੇ ਚਰਚਾ ਕਰਨ ਆਈ ਹੈ|
+703	As you are his class teacher, I felt it would be best if I discuss my worries with you.	ਕਿਉਂ ਕਿ ਤੁਸੀਂ ਉਸਦੇ ਕਲਾਸ ਟੀਚਰ ਹੋ, ਮੈਂ ਮਹਿਸੂਸ ਕੀਤਾ ਕਿ ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਹੋਵੇਗਾ ਜੇਕਰ ਮੈਂ ਆਪਣੀ ਚਿੰਤਾ ਤੁਹਾਡੇ ਨਾਲ ਸਾਂਝੀ ਕਰਾਂ|
+704	Please make yourself comfortable.	ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਆਪ ਨੂੰ ਸੁਖਾਵਾਂ ਕਰੋ|
+705	What would you like to discuss?	ਤੁਸੀਂ ਕੀ ਚਰਚਾ ਕਰਨਾ ਚਾਹੋਗੇ?
+706	I am worried about my son's growing addiction to mobile phones and video games.	ਮੈਂ ਆਪਣੇ ਬੇਟੇ ਦੀ ਮੋਬਾਈਲ ਫੋਨਾਂ ਅਤੇ ਵੀਡੀਓ ਗੇਮਾਂ ਦੀ ਵੱਧ ਰਹੀ ਲੱਤ ਬਾਰੇ ਪਰੇਸ਼ਾਨ ਹਾਂ|
+707	He is always busy playing games on the phone.	ਉਹ ਹਮੇਸ਼ਾ ਫੋਨ ਅਤੇ ਗੇਮਾਂ ਖੇਡਣ ਵਿੱਚ ਰੁੱਝਿਆ ਰਹਿੰਦਾ ਹੈ|
+708	And I am really worried about his health and his studies as well.	ਅਤੇ ਮੈਂਨੂੰ ਉਸਦੀ ਸਹਿਤ ਅਤੇ ਪੜ੍ਹਾਈ ਦੀ ਬਹੁਤ ਫਿਕਰ ਹੈ|
+709	Oh, that is worrisome.	ਓਹ, ਇਹ ਤਾਂ ਚਿੰਤਾਜਨਕ ਹੈ|
+710	This addiction is increasing among these young kids.	ਇਹ ਲੱਤ ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਛੋਟੇ ਬੱਚਿਆਂ ਵਿੱਚ ਵੱਧਦੀ ਜਾ ਰਹੀ ਹੈ|
+711	You should try to incorporate some enjoyable hobbies in him to tackle this problem.	ਤੁਹਾਨੂੰ ਇਸ ਸਮੱਸਿਆ ਨੂੰ ਸੁਲਝਾਉਣ ਲਈ ਉਸ ਵਿੱਚ ਕੁੱਝ ਚੰਗੀਆਂ ਆਦਤਾਂ ਪੈਦਾ ਕਰਨ ਦੀ ਕੌਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ|
+712	Good hobbies as in?	ਚੰਗੀਆਂ ਆਦਤਾਂ ਜਿਵੇਂ ਕਿ?
+713	Can you give me some suggestions?	ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਕੁੱਝ ਸੁਝਾਅ ਦੇ ਸਕਦੇ ਹੋ?
+714	You should encourage him to read story books in his free time.	ਤੁਸੀਂ ਉਸਨੂੰ ਵਿਹਲੇ ਸਮੇਂ ਵਿੱਚ ਕੁੱਝ ਕਹਾਣੀ ਦੀਆਂ ਕਿਤਾਬਾਂ ਪੜ੍ਹਣ ਲਈ ਉਤਸ਼ਾਹਿਤ ਕਰ ਸਕਦੇ ਹੋ|
+715	It is the best hobby, in my opinion, for a student.	ਇੱਕ ਵਿਦਿਆਰਥੀ ਲਈ, ਮੇਰੇ ਹਿਸਾਬ ਨਾਲ, ਇੱਕ ਸਭ ਤੋਂ ਵਧੀਆ ਆਦਤ ਹੈ|
+716	Also, to get him away from mobile gaming, you can get him enrolled in a sports academy.	ਨਾਲ ਹੀ, ਮੋਬਾਇਲ ਖੇਡਾਂ ਤੋਂ ਉਸਨੂੰ ਦੂਰ ਕਰਨ ਲਈ, ਤੁਸੀਂ ਉਸਨੂੰ ਕਿਸੇ ਖੇਡ ਅਕੈਡਮੀ ਵਿੱਚ ਵੀ ਦਾਖਲ ਕਰਵਾ ਸਕਦੇ ਹੋ|
+717	Martial arts, swimming, cricket, etc. are some good sports he can try.	ਮਾਰਸ਼ਲ ਆਰਟ, ਤੈਰਾਕੀ, ਕ੍ਰਿਕਟ ਆਦਿ ਕੁੱਝ ਵਧੀਆ ਖੇਡਾਂ ਹਨ, ਉਹ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹੈ|
+718	That way, he will stay fit as well.	ਇਸ, ਤਰ੍ਹਾਂ ਉਹ ਤੰਦਰੁਸਤ ਵੀ ਰਹੇਗਾ|
+719	When he is not playing games, he usually watches videos of some singing reality shows.	ਜਦੋਂ ਉਹ ਖੇਡਾਂ ਨਹੀਂ ਖੇਡ ਰਿਹਾ ਹੁੰਦਾ, ਉਹ ਆਮ ਤੌਰ 'ਤੇ ਕੁੱਝ ਗਾਉਣ ਵਾਲੇ ਰਿਐਲਟੀ ਸ਼ੋਅ ਦੇ ਵਿਡੀਓ ਦੇਖਦਾ ਹੈ|
+720	So, I felt he must be interested in music.	ਇਸ ਲਈ, ਮੈਂ ਮਹਿਸੂਸ ਕੀਤਾ ਕਿ ਉਸਨੂੰ ਸੰਗੀਤ ਵਿੱਚ ਦਿਲਚਸਪੀ ਹੋਣੀ |
+721	Should I enroll him in a music school instead?	ਕੀ ਮੈਨੂੰ ਇਸ ਦੀ ਬਜਾਏ ਉਸਨੂੰ ਕਿਸੇ ਸੰਗੀਤ ਸਕੂਲ ਵਿੱਚ ਦਾਖਲ ਕਰਵਾਉਣਾ ਚਾਹੀਦਾ ਹੈ?
+722	Will that be a positive hobby for him?	ਕੀ ਇਹ ਉਹ ਲਈ ਇੱਕ ਸਕਾਰਾਤਮਕ ਸ਼ੌਂਕ ਹੋਵੇਗਾ?
+723	That will be a great hobby, no doubt.	ਇਸ ਵਿੱਚ ਕੋਈ ਸ਼ੱਕ ਨਹੀਂ, ਕਿ ਇਹ ਇੱਕ ਵਧੀਆ ਸ਼ੌਂਕ ਹੈ|
+724	You can do that.	ਤੁਸੀਂ ਇਹ ਕਰ ਸਕਦੇ ਹੋ|
+725	But you also need to make sure that he goes out and plays with other kids.	ਪਰ ਤੁਹਾਨੂੰ ਇਹ ਵੀ ਯਕੀਨੀ ਬਣਾਉਣਾ ਹੋਵੇਗਾ ਕਿ ਉਹ ਬਾਹਰ ਜਾਵੇ ਅਤੇ ਹੋਰ ਬੱਚਿਆਂ ਨਾਲ ਖੇਡੇ|
+726	He needs to see the outside world and the joy of it.	ਉਹਨੂੰ ਬਾਹਰ ਦੀ ਦੁਨਿਆ ਦੇਖਣ ਅਤੇ ਉਸ ਨੂੰ ਮਾਣਨ ਦੀ ਲੋੜ ਹੈ|
+727	Yes, I am thinking of taking him to our nearest playground every evening.	ਹਾਂ ਜੀ, ਮੈਂ ਸੋਚ ਰਹਿ ਹਾਂ ਕਿ ਉਸਨੂੰ ਰੋਜ਼ ਸ਼ਾਮ ਆਪਣੇ ਨੇੜੇ ਵਾਲੇ ਖੇਡ ਦੇ ਮੈਦਾਨ ਵਿੱਚ ਲੈ ਕੇ ਜਾਵਾਂ |
+728	And I will enroll him in a music school as well.	ਅਤੇ ਮੈਂ ਉਸਨੂੰ ਇੱਕ ਸੰਗੀਤ ਸਕੂਲ ਵਿੱਚ ਵੀ ਦਾਖਲ ਕਰਵਾ ਦੇਵਾਂਗੀ|
+729	I hope it makes a difference.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਇਸ ਨਾਲ ਫਰਕ ਪਵੇਗਾ|
+730	I will buy him some good comic books as well so that he gets interested in reading books.	ਮੈਂ ਉਸ ਲਈ ਕੁੱਝ ਚੰਗੀਆਂ ਕੋਮਿਕ ਕਿਤਾਬਾਂ ਵੀ ਲੈ ਕੇ ਆਵਾਂਗੀ ਤਾਂ ਜੋ ਉਹ ਕਿਤਾਬਾਂ ਪੜ੍ਹਨ ਵਿੱਚ ਰੁਚੀ ਲਵੇ|
+731	Yes, that should be your first step.	ਹਾਂ, ਇਹਹ ਤੁਹਾਡਾ ਪਹਿਲਾ ਕੰਮ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ|
+732	I think after doing that, he will find an interest in these things.	ਮੈਂ ਲੱਗਦਾ ਹੈ ਕਿ ਇੰਝ ਕਰਨ ਨਾਲ, ਉਹ ਇਨ੍ਹਾਂ ਚੀਜ਼ਾਂ ਵਿੱਚ ਰੁਚੀ ਲਭੇਗਾ |
+733	Do you have any other queries?	ਕੀ ਤੁਹਾਡੇ ਕੋਈ ਹੋਰ ਸਵਾਲ ਹਨ?
+734	No, sir, that is all I wanted to discuss.	ਨਹੀਂ, ਸਾਹਿਬ , ਬਸ ਮੈਂ ਏਹੀ ਸਭ ਗੱਲਾਂ ਕਰਨਾ ਚਾਹੁੰਦੀ ਸੀ|
+735	Thank you so much for your suggestions.	ਤੁਹਾਡਾ ਸੁਝਾਅ ਦੇਣ ਲਈ ਬਹੁਤ ਬਹੁਤ ਸ਼ੁਕਰੀਆ|
+736	You're welcome.	ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ|
+737	Please come again if the issue remains the same.	ਜੇਕਰ ਸਮੱਸਿਆ ਹੱਲ ਨਾ ਹੋਵੇ ਦੁਬਾਰਾ ਜ਼ਰੂਰ ਆਉਣਾ|
+738	Yeah, sure.	ਹਾਂ ਜੀ, ਪੱਕਾ|
+739	Hi, are you new to this university?	ਹਾਂ ਜੀ, ਕੀ ਤੁਸੀਂ ਇਸ ਯੂਨੀਵਰਸਿਟੀ ਵਿੱਚ ਨਵੇਂ ਹੋ?
+740	Yes, I enrolled this year.	ਹਾਂ, ਮੈਂ ਇਸ ਸਾਲ ਦਾਖਲਾ ਲਿਆ ਹੈ|
+741	What about you?	ਤੁਸੀਂ?
+742	Me too.	ਮੈਂ ਵੀ|
+743	I've also joined this year.	ਮੈਂ ਵੀ ਇਸੇ ਸਾਲ ਦਾਖਲਾ ਲਿਆ ਹੈ|
+744	What is your name?	ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?
+745	And which club did you join?	ਅਤੇ ਤੁਸੀਂ ਕਿਸ ਕਲੱਬ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਏ ਹੋ?
+746	I am Debendra, and I joined the sports' club.	ਮੇਰਾ ਨਾਂ ਦੇਬੇਂਦਰ ਹੈ, ਅਤੇ ਮੈਂ ਖੇਡ ਕਲੱਬ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਇਆ ਹਾਂ|
+747	What about you?	ਤੁਸੀਂ?
+748	I joined the music club.	ਮੈਂ ਸੰਗੀਤ ਕਲੱਬ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋਇਆ ਹਾਂ|
+749	Are you interested in all kinds of sports?	ਕੀ ਤੁਸੀਂ ਹਰ ਤਰ੍ਹਾਂ ਦੀਆਂ ਖੇਡਾਂ ਵਿੱਚ ਦਿਲਚਸਪੀ ਰੱਖਦੇ ਹੋ?
+750	No, actually I am more interested in biking than sports.	ਨਹੀਂ, ਦਰਅਸਲ ਮੈਂ ਖੇਡਾਂ ਨਾਲੋਂ ਮੋਟਰ ਸਾਈਕਲ ਚਲਾਉਣ ਵਿੱਚ ਵੱਧ ਦਿਲਚਸਪੀ ਰੱਖਦਾ ਹਾਂ|
+751	I like to ride long miles, it's my hobby.	ਮੈਨੂੰ ਮੀਲੋਂ ਦੂਰ ਸਵਾਰੀ ਕਰਨਾ ਪਸੰਦ ਹੈ, ਇਹ ਮੇਰਾ ਸ਼ੌਂਕ ਹੈ|
+752	But as there is nothing else that interests me here other than sports, so I joined it.	ਪਰ ਕਿਉਂਕਿ ਇੱਥੇ ਖੇਡਾਂ ਤੋਂ ਇਲਾਵਾ ਮੇਰੀ ਦਿਲਚਸਪੀ ਵਾਲਾ ਹੋਰ ਕੁੱਝ ਵੀ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਮੈਂ ਖੇਡਾਂ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੋ ਗਿਆ|
+753	I play football sometimes.	ਮੈਂ ਕਦੇ ਕਦੇ ਫੁੱਟਬਾਲ ਖੇਡਦਾ ਹਾਂ|
+754	Oh, really?	ਓਹ, ਅੱਛਾ?
+755	You must be so adventurous then!	ਫਿਰ ਤਾਂ ਤੁਸੀਂ ਬਹੁਤ ਸਾਹਸੀ ਹੋਵੋਂਗੇ!
+756	Yes, you can say that.	ਹਾਂ, ਤੁਸੀਂ ਕਹਿ ਸਕਦੇ ਹੋ |
+757	I am not really into these adventure sports.	ਮੈਂ ਅਸਲ ਵਿੱਚ ਇਹਨਾਂ ਸਾਹਸੀ ਖੇਡਾਂ ਵਿੱਚ ਨਹੀਂ ਹਾਂ|
+758	How do you guys do it?	ਤੁਸੀਂ ਲੋਕ ਇਹ ਕਿਵੇਂ ਕਰਦੇ ਹੋ?
+759	Aren't you scared?	ਤੁਹਾਨੂੰ ਡਰ ਨਹੀਂ ਲੱਗਦਾ?
+760	No, biking isn't scary and I am not an outrageous rider either.	ਨਹੀਂ, ਬਾਈਕਿੰਗ ਡਰਾਉਣੀ ਨਹੀਂ ਹੈ ਅਤੇ ਮੈਂ ਇੱਕ ਬੇਕਾਰ ਰਾਈਡਰ ਵੀ ਨਹੀਂ ਹਾਂ|
+761	You should try that; it is peaceful when the road is empty and beautiful.	ਤੁਹਾਨੂੰ ਵੀ ਇਹ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ; ਜਦੋਂ ਸੜਕ ਖਾਲੀ ਅਤੇ ਸੋਹਣੀ ਹੁੰਦੀ ਹੈ ਤਾਂ ਇਹ ਸ਼ਾਂਤੀਪੂਰਨ ਹੁੰਦਾ ਹੈ|
+762	By the way, is singing your hobby?	ਵੈਸੇ, ਕੀ ਗਾਉਣਾ ਤੁਹਾਡਾ ਸ਼ੌਂਕ ਹੈ ?
+763	Yeah, I like singing.	ਹਾਂ, ਮੈਨੂੰ ਗਾਉਣਾ ਪਸੰਦ ਹੈ|
+764	How did you know, by the way?	ਤੁਹਾਨੂੰ ਕਿਵੇਂ ਪਤਾ, ਵੈਸੇ?
+765	No, I just asked, as you said, you joined the music club.	ਨਹੀਂ, ਮੈਂ ਸਿਰਫ਼ ਪੁੱਛਿਆ, ਜਿਵੇਂ ਤੁਸੀਂ ਕਿਹਾ, ਤੁਸੀਂ ਸੰਗੀਤ ਕਲੱਬ 'ਚ ਸ਼ਾਮਿਲ ਹੋ|
+766	What kind of music do you perform?	ਕਿਸ ਤਰ੍ਹਾਂ ਦਾ ਸੰਗੀਤ ਪੇਸ਼ ਕਰਦੇ ਹੋ?
+767	I like singing Assamese songs.	ਮੈਨੂੰ ਅਸਾਮੀ ਗਾਣੇ ਗਾਉਣੇ ਪਸੰਦ ਹਨ|
+768	But I do perform songs in other languages as well.	ਪਰ ਮੈਂ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਵੀ ਗਾ ਲੈਂਦਾ ਹਾਂ|
+769	Singing makes my mind calm.	ਗਾਉਣਾ ਮੇਰੇ ਦਿਮਾਗ ਨੂੰ ਸ਼ਾਂਤ ਰੱਖਦਾ ਹੈ|
+770	I love listening to songs and that's how singing became my hobby.	ਮੈਂ ਗਾਣੇ ਸੁਣਨਾ ਪਸੰਦ ਹੈ ਅਤੇ ਇਸ ਕਰਕੇ ਗਾਉਣਾ ਮੇਰਾ ਸ਼ੌਂਕ ਬਣ ਗਿਆ|
+771	Tell me more about your hobby.	ਮੈਨੂੰ ਆਪਣੇ ਸ਼ੌਂਕ ਬਾਰੇ ਦੱਸੋ|
+772	Wow, that is amazing.	ਵਾਹ, ਇਹ ਤਾਂ ਕਮਾਲ ਹੈ|
+773	As I told you, I like to ride long miles on my motorcycle.	ਜਿਵੇਂ ਕਿ ਮੈਂ ਦੱਸਿਆ,ਮੈਨੂੰ ਆਪਣੇ ਮੋਟਰਸਾਈਕਲ 'ਤੇ ਮੀਲੋਂ ਦੂਰ ਸਵਾਰੀ ਕਰਨਾ ਪਸੰਦ ਹੈ|
+774	I mostly go out during the weekend with my group.	ਮੈਂ ਜਿਆਦਾਂਤਰ ਆਪਣੇ ਗਰੁੱਪ ਨਾਲ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਬਾਹਰ ਜਾਂਦਾ ਹਾਂ|
+775	Would you like to come with us sometime?	ਕੀ ਤੁਸੀਂ ਕਦੇ ਸਾਡੇ ਨਾਲ ਆਉਣਾ ਚਾਹੋਗੇ?
+776	Yeah, sure, why not?	ਹਾਂ, ਬਿਲਕੁੱਲ, ਕਿਉਂ ਨਹੀਂ?
+777	I would love to try that someday.	ਮੈਂ ਕਿਸੇ ਦਿਨ ਇਹ ਕੋਸ਼ਿਸ਼ ਕਰਨਾ ਪਸੰਦ ਕਰਾਂਗਾ|
+778	Ok, I'll tell you the next time we go out on a ride.	ਠੀਕ ਹੈ, ਮੈਂ ਦਸਾਂਗਾ ਜਦੋਂ ਅਸੀਂ ਅਗਲੀ ਵਾਰ ਸਵਾਰੀ 'ਤੇ ਗਏ|
+779	What is your favorite destination, by the way?	ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਕਿਹੜਾ ਹੈ, ਵੈਸੇ?
+780	We often go to Meghalaya as both the roads and the places there are beautiful.	ਅਸੀਂ ਅਕਸਰ ਮੇਘਾਲਿਆ ਜਾਂਦੇ ਹਾਂ ਜਿਵੇਂ ਉੱਥੇ ਸੜਕਾਂ ਅਤੇ ਥਾਵਾਂ ਦੋਵੇਂ ਖੂਬਸੂਰਤ ਹਨ|
+781	Wow, that's amazing.	ਵਾਹ, ਇਹ ਤਾਂ ਕਮਾਲ ਹੈ|
+782	I'll come next time for sure, then.	ਮੈਂ ਅਗਲੀ ਵਾਰ ਪੱਕਾ ਆਵਾਂਗਾ, ਫਿਰ ਤਾਂ|
+783	Sure!	ਜਰੂਰ!
+784	Good morning, everyone.	ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਸਾਰੀਆਂ ਨੂੰ
+785	As you all know, it's 5th June, which is observed as World Environment Day.	ਜਿਵੇਂ ਕਿ ਤੁਹਾਨੂੰ ਸਾਰੀਆਂ ਨੂੰ ਪਤਾ ਹੈ, ਅੱਜ 5 ਜੂਨ ਹੈ, ਜੋ ਕਿ ਵਿਸ਼ਵ ਵਾਤਾਵਰਣ ਦਿਵਸ ਵਜੋਂ ਮਨਾਈਆ ਜਾਂਦਾ ਹੈ
+786	Mr. Balasubramaniam here is the head of the Forest Department of the Eastern zone.	ਵਨ ਵਿਭਾਗ ਦੇ ਪੂਰਬੀ ਖੇਤਰ ਦੇ ਮੁਖੀ ਸ਼੍ਰੀ ਬਾਲਾਸੁਬਰਾਮਨੀਅਮ ਇੱਥੇ ਹਨ
+787	Over to him.	ਓਹ ਅਗੇ ਆਣ
+788	Good morning. I hope you all are well.	ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ, ਉਮੀਦ ਹੈ ਤੁਸੀਂ ਸਾਰੇ ਠੀਕ ਹੋ
+789	I'm from the Forest Department.	ਮੈਂ ਵਨ ਵਿਭਾਗ ਤੋਂ ਹਾਂ
+790	My job is to conserve one of the most, if not the most irreplaceable aspect of the planet's environment.	ਮੇਰਾ ਕੰਮ ਹੈ ਇਸ ਗ੍ਰਹਿ ਦੇ ਵਾਤਾਵਰਣ ਦੇ ਸਭ ਤੋਂ ਅਟੱਲ ਪਹਿਲੂ ਦਾ ਬਚਾਅ ਕਰਨਾ
+791	Given the alarming rates of increasing pollution, it's essential that we conserve what produces roughly one-third of the oxygen for the planet.	ਵਧਦੇ ਪ੍ਰਦੂਸ਼ਣ ਦੇ ਹਾਲ ਦੇਖਦੇ ਹੋਏ, ਇਹ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਅਸੀਂ ਉਸ ਨੂੰ ਬਚਾਅਏ ਜੋ ਇਸ ਗ੍ਰਹਿ ਦੇ ਲਈ ਲੱਗਭੱਗ ਇੱਕ ਤਿਹਾਈ ਹਿੱਸੇ ਦੇ ਔਕਸਿਜਨ ਦੀ ਸਿਰਜਣਾ ਕਰਦਾ ਹੈ
+792	So, this Environment Day, we want you to contribute to the forest cover of this area.	ਸੋ, ਇਸ ਵਾਤਾਵਰਣ ਦਿਵਸ ਤੇ, ਅਸੀਂ ਚਾਉਂਦੇ ਹਾਂ ਕਿ ਤੁਸੀਂ ਇਸ ਇਲਾਕੇ ਦੇ ਵਨ ਕਵਰ ਨੂੰ ਵਧਾਉਣ ਲਈ ਆਪਣਾ ਯੋਗਦਾਨ ਪਾਉ
+793	We will be planting trees together.	ਅਸੀਂ ਸਭ ਇਕਿਥੇ ਪੋਦੇ ਲਵਾਂਗੇ
+794	I hope everyone will cooperate.	ਮੈਨੂੰ ਆਸ਼ਾ ਹੈ ਤੁਸੀਂ ਸਾਰੇ ਆਪਣਾ ਸਹਿਯੋਗ ਪਾਉਂਗੇ
+795	We will be planting mainly banyan trees.	ਅਸੀਂ ਮੁੱਖ ਤੌਰ ਤੇ ਬਰਗਦ ਦੇ ਰੁੱਖ ਲਾਵਾਂਗੇ
+796	There are also some samples of mango and other common species.	ਅੰਬ ਅਤੇ ਹੋਰ ਆਮ ਪ੍ਰਜਾਤੀਆਂ ਦੇ ਵੀ ਕੁਝ ਨਮੂਨੇ ਹਨ
+797	We can work in teams if you like.	ਜੇ ਤੁਸੀਂ ਚਾਹੋ ਤਾਂ ਆਪਾਂ ਟੀਮ ਵਿੱਚ ਕੰਮ ਕਰ ਸਕਦੇ ਹਾਂ
+798	But these are very easy to plant.	ਪਰ ਇਹ ਲਗਾਣੇ ਬਹੁਤ ਸੋਖੇ ਹਨ
+799	Each one of you can manage one without any help.	ਤੁਹਾਡੇ ਵਿੱਚੋਂ ਹਰ ਕੋਈ ਬਿਨਾਂ ਕਿਸੇ ਮਦਦ ਦੇ ਇਸ ਨੂੰ ਲਗਾ ਸਕਦਾ ਹੈ
+800	Each student has to plant at least one sapling.	ਹਰੇਕ ਵਿਦਾਰਥੀ ਨੇ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਬੂਟਾ ਲਗਾਉਣਾ ਹੈ
+801	Do follow the instructions.	ਨਿਰਦੇਸ਼ਾ ਦਾ ਪਾਲਣ ਜ਼ਰੂਰ ਕਰਨਾ
+802	I really hope you'll enjoy the day.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਤੁਸੀਂ ਅੱਜ ਦੇ ਦਿਨ ਦੇ ਮਜ਼ੇ ਉਠਾਉਂਗੇ
+803	Someone as knowledgeable as Mr. Balasubramaniam has graced us with his presence.	ਸ਼੍ਰੀ ਬਾਲਾਸੁਬਰਾਮਨੀਅਮ ਵਰਗੇ ਗਿਆਨਵਾਨ ਨੇ ਆਪਣੀ ਮੌਜੂਦਗੀ ਨਾਲ ਚਾਰ ਚੰਦ ਲਗਾ ਦਿਤੇ
+804	It's essential that students learn to conserve the environment, Mr. Desai.	ਦੇਸਾਈ ਜੀ, ਇਹ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਵਿਦਿਆਰਥੀ, ਵਾਤਾਵਰਣ ਦੀ ਦੇਖ-ਭਾਲ ਕਰਨਾ ਸਿਖਣ
+805	I'm happy to have been of help.	ਮੈਨੂੰ ਖੁਸ਼ੀ ਹੈ ਕਿ ਮੈਂ ਇਸ ਦਾ ਹਿੱਸਾ ਬਣਿਆ
+806	Let's get going, students.	ਚਲੋ ਚਲੀਏ, ਬੱਚੋ
+807	Pick up a sapling and give it a home.	ਇੱਕ ਪੌਦਾ ਚੁੱਕ ਕੇ ਘੱਰ ਲੈ ਜਾਓ
+808	Please feel free to ask me questions, if any.	ਮੈਨੂੰ ਸਵਾਲ ਪੁੱਛਣ ਲਈ ਬੇਝਿਜਕ ਮਹਿਸੂਸ ਕਰੋ I
+809	Good morning ma'am!	ਸ਼ੁੱਭ ਸਵੇਰ , ਮੈਡਮ!
+810	I am here to get some information regarding life insurance policy.	ਮੈਂ ਇੱਥੇ ਜੀਵਨ ਬੀਮਾ ਪਾਲਿਸੀ ਬਾਰੇ ਕੁੱਝ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਆਈ ਹਾਂ|
+811	Could you please help me?	ਕੀ ਤੁਸੀਂ ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?
+812	Good morning, please have your seat.	ਸ਼ੁੱਭ ਸਵੇਰ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਸੀਟ ਰੱਖੋ|
+813	Sure, we are here to serve our customers.	ਬਿਲਕੁੱਲ, ਅਸੀਂ ਆਪਣੇ ਗਾਹਕਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਲਈ ਇੱਥੇ ਹਾਂ|
+814	Anything you want to know related to our policies, I will help you.	ਜੋ ਵੀ ਤੁਸੀਂ ਸਾਡੀਆਂ ਨੀਤੀਆਂ ਨਾਲ ਸਬੰਧਤ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਮੈਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗਾ|
+815	May I know your name and age?	ਕੀ ਮੈਂ ਤੁਹਾਡਾ ਨਾਮ ਅਤੇ ਉਮਰ ਜਾਣ ਸਕਦਾ ਹਾਂ?
+816	I am Devanga Saikia and my age is 39.	ਮੈਂ ਦੇਵਾਂਗਾ ਸੈਕੀਆ ਹਾਂ ਅਤੇ ਮੇਰੀ ਉਮਰ 39 ਸਾਲ ਹੈ|
+817	I want to know which insurance policy is suitable for me at this age.	ਮੈਂ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ ਕਿ ਇਸ ਉਮਰ ਵਿੱਚ ਮੇਰੇ ਲਈ ਕਿਹੜੀ ਬੀਮਾ ਪਾਲਿਸੀ ਢੁੱਕਵੀਂ ਹੈ|
+818	Also, I want to know the benefits.	ਨਾਲ ਹੀ, ਮੈਂ ਇਸਦੇ ਫ਼ਾਈਦੇ ਵੀ ਜਾਣਨਾ ਚਾਹੁੰਦਾ ਹਾਂ|
+819	Thank you so much for letting us know your name and age.	ਧੰਨਵਾਦ ਸਾਨੂੰ ਆਪਣਾ ਨਾਮ ਅਤੇ ਉਮਰ ਦੱਸਣ ਲਈ|
+820	We have a very good policy known as Jeevan Umang.	ਸਾਡੇ ਕੋਲ ਜੀਵਨ ਉਮੰਗ ਇੱਕ ਬਹੁਤ ਵਧੀਆ ਪਾਲਿਸੀ ਹੈ|
+821	You can opt for that.	ਤੁਸੀਂ ਉਹ ਲੈ ਸਕਦੇ ਹੋ|
+822	What is the minimum basic sum assured in this policy?	ਇਸ ਨੀਤੀ ਵਿੱਚ ਘੱਟੋ ਘੱਟ ਮੁੱਲ ਰਕਮ ਕਿੰਨੀ ਹੈ?
+823	What is the minimum age entry for this policy?	ਇਸ ਨੀਤੀ ਲਈ ਘੱਟੋ ਘੱਟ ਉਮਰ ਦਾ ਦਾਖਲਾ ਕੀ ਹੈ?
+824	What is the maximum age entry?	ਘੱਟੋ ਘੱਟ ਦਾਖਲੇ ਦੀ ਉਮਰ ਕੀ ਹੈ?
+825	Minumum basic sum assured is two lakhs rupees.	ਘੱਟੋ ਘੱਟ ਮੁੱਲ ਰਕਮ ਦੋ ਲੱਖ ਰੁਪਏ ਹੈ|
+826	Minumum age entry is 90 days.	ਘੱਟੋ ਘੱਟ ਉਮਰ ਦਾਖਲਾ 90 ਦਿਨ ਹੈ|
+827	Maximum age entry for this policy is 55 years.	ਇਸ ਨੀਤੀ ਲਈ ਵੱਧ ਤੋਂ ਵੱਧ ਉਮਰ ਦਾ ਦਾਖਲਾ 55 ਸਾਲ ਹੈ|
+828	Thank you so much for the information.	ਜਾਣਕਾਰੀ ਲਈ ਤੁਹਾਡਾ ਬਹੁਤ ਧੰਨਵਾਦ|
+829	What are the death benefits of this policy?	ਇਸ ਨੀਤੀ ਦੇ ਮੌਤ ਦੇ ਕੀ ਲਾਭ ਹਨ?
+830	Can I pay the premiums yearly?	ਕੀ ਮੈਂ ਸਾਲਾਨਾ ਪ੍ਰੀਮੀਅਮ ਦਾ ਭੁਗਤਾਨ ਕਰ ਸਕਦਾ ਹੈ?
+831	On death during first five years, sum assured on death shall be payble.	ਪਹਿਲੇ ਪੰਜ ਸਾਲਾਂ ਦੌਰਾਨ ਮੌਤ 'ਤੇ ਨਿਸ਼ਚਿਤ ਰਕਮ ਦਾ ਭੁਗਤਾਨਯੋਗ ਹੋਵੇਗੀ|
+832	On death after completion of five policy years but before the date of maturity, sum assured on death and loyalty addition, if any, shall be payable.	ਪੰਜ ਸਾਲ ਪੂਰੇ ਹੋਣ ਤੋਂ ਬਾਅਦ ਮੌਤ ਹੋਣ 'ਤੇ ਪਰ ਪਰਪੱਕਤਾ ਦੀ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਮੌਤ ਅਤੇ ਵਫ਼ਾਦਾਰੀ ਜੋੜਨ 'ਤੇ ਨਿਸ਼ਚਿਤ ਰਕਮ, ਜੇਕਰ ਕੋਈ ਹੈ, ਅਦਾ ਕੀਤੀ ਜਾਵੇਗੀ|
+833	All these are applicable if all dues have been paid.	ਇਹ ਸਭ ਲਾਗੂ ਹੁੰਦੇ ਹਨ ਜੇਕਰ ਸਾਰੇ ਬਕਾਏ ਦਾ ਭੁਗਤਾਨ ਕੀਤਾ ਗਿਆ ਹੈ|
+834	Premiums can be paid regularly at yearly, half-yearly, quarterly or monthly intervals.	ਪ੍ਰੀਮੀਅਮ ਦਾ ਭੁਗਤਾਨ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਸਾਲਾਨਾ, ਛਿਮਾਹੀ, ਤਿਮਾਹੀ ਜਾਂ ਮਾਸਿਕ ਅੰਤਰਾਲਾਂ 'ਤੇ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ|
+835	Can I surrender the policy before the maturity date?	ਕੀ ਮੈਂ ਮਿਆਦ ਪੂਰੀ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਪਾਲਸੀ ਨੂੰ ਜਮ੍ਹਾਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+836	What will be the surrender value?	ਜਮ੍ਹਾਂ ਕਰਵਾਉਣ ਦਾ ਮੁੱਲ ਕੀ ਹੋਵੇਗਾ?
+837	Yes, the policyholder can surrender the policy after completion of three years before maturity.	ਹਾਂ, ਪਾਲਿਸੀ ਧਾਰਕ ਪਰਿਪਕਤਾ ਤੋਂ ਪਹਿਲਾਂ ਤਿੰਨ ਸਾਲ ਪੂਰੇ ਹੋਣ ਤੋਂ ਬਾਅਦ ਪਾਲਿਸੀ ਨੂੰ ਜਮ੍ਹਾਂ ਕਰ ਸਕਦਾ ਹੈ|
+838	You have to pay the premiums duly for at least 3 consecutive years.	ਤੁਹਾਨੂੰ ਘੱਟੋ ਘੱਟ ਲਗਾਤਾਰ 3 ਸਾਲਾਂ ਲਈ ਪ੍ਰੀਮੀਅਮ ਦਾ ਭੁਗਤਾਨ ਕਰਨਾ ਪਵੇਗਾ|
+839	The details of the process can be accessed from our Ready reckoned, kindly look into it.	ਪ੍ਰਕਿਰਿਆ ਦੇ ਵੇਰਵਿਆਂ ਨੂੰ ਸਾਡੇ ਤਿਆਰ ਰਿਕੋਨ ਤੋਂ ਅੇਕਸੈਸ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਦੇਖੋ|
+840	The information have really helped me a lot.	ਇਹ ਜਾਣਕਾਰੀ ਮੈਨੂੰ ਬਹੁਤ ਮਦਦ ਕਰੇਗੀ|
+841	Thank you so much!	ਬਹੁਤ ਧੰਨਵਾਦ|
+842	You are welcome.	ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ|
+843	If you wish, I can assign one of our agents to contact you who can describe you in details.	ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ, ਮੈਂ ਤੁਹਾਨੂੰ ਆਪਣਾ ਇੱਕ ਏਜੰਟ ਦੇ ਸਕਦਾ ਹਾਂ ਜੋ ਤੁਹਾਨੂੰ ਵਿਸਤਾਰ ਵਿੱਚ ਦੱਸੇਗਾ|
+844	Could you please provide me your phone number?	ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਆਪਣਾ ਫੋਨ ਨੰਬਰ ਦੇ ਸਕਦੇ ਹੋ?
+845	That will be great!	ਇਹ ਵਧੀਆ ਹੋਵੇਗਾ|
+846	Please note down my phone number.	ਕਿਰਪਾ ਕਰਕੇ ਮੇਰਾ ਫੋਨ ਨੰਬਰ ਨੋਟ ਕਰੋ|
+847	Hello, I am looking to explore North-Eastern cuisine.	ਹੈਲੋ, ਮੈਂ ਉੱਤਰ-ਪੂਰਬੀ ਪਕਵਾਨਾਂ ਦੀ ਖੋਜ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹਾਂ।
+848	My friend, Cyril told me you are the right person to talk to when it comes to food and restaurant recommendations.	ਮੇਰੇ ਦੋਸਤ, ਕਯਰਿਲ ਨੇ ਦੱਸਿਆ ਕਿ ਖਾਣ-ਪਾਣ ਅਤੇ ਰੈਸਟੋਰੈਂਟ ਦੀਆਂ ਫਰਮਾਇਸ਼ਾ ਲਈ ਤੁਸੀਂ ਸਹੀ ਬੰਦੇ ਹੋ I
+849	Yes, I have been in this place for quite some time, so I can help you with food recommendations.	ਹਾਂ, ਮੈਂ ਇਸ ਥਾਂ ਤੇ ਕਾਫ਼ੀ ਸਮੇਂ ਤੋਂ ਹਾਂ, ਇਸਲਈ ਮੈਂ ਖਾਨੇ ਦੀ ਫਰਮਾਇਸ਼ਾ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ I
+850	Khar, an Assamese delicacy, is a good place to start.	ਇੱਕ ਅਸਾਮੀ ਪਕਵਾਨ, ਖਾਰ ਤੋਂ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ I
+851	Oh, I see. Is it vegetarian?	ਓਹ, ਅੱਛਾ, ਕਿ ਇਹ ਸ਼ਾਕਾਹਾਰੀ ਹੈ?
+852	What is it made of?	ਇਹ ਕਿਸ ਚੀਜ਼ ਦੇ ਬਣੇ ਹੋਏ ਹਨ ?
+853	It is made of a mix of red rice, beaten pulses and raw papaya so it is completely vegetarian.	ਇਹ ਲਾਲ ਚਾਵਲ, ਕੁੱਟੀ ਹੋਈ ਦਾਲਾਂ ਅਤੇ ਕੱਚੇ ਪਪੀਤਾ ਦਾ ਮਿਸ਼ਰਣ ਹੈ ਇਸਲਈ ਇਹ ਪੂਰੀ ਤਰਾਹ ਸ਼ਾਕਾਹਾਰੀ ਹੈ I
+854	A lot of Assamese spices also go into its making.	ਕਈ ਤਰਾਹ ਦੇ ਅਸਾਮੀ ਮਸਾਲੇ ਵੀ ਇਸ ਵਿੱਚ ਲਗਦੇ ਹਨ I
+855	Ok, I'll be sure to try that out	ਠੀਕ ਹੈ, ਮੈਂ ਉਸ ਨੂੰ ਜਰੂਰ ਚੱਖਾਗਾ
+856	What about bamboo rice?	ਬਾਂਸ ਦੇ ਚਾਵਲਾਂ ਬਾਰੇ ਕਿ ਖਿਆਲ ਹੈ ?
+857	I have heard that it is an Assamese special.	ਮੈਂ ਸੁਨਿਆ ਹੈ ਕਿ ਓਹ ਅਸਾਮ ਦੀ ਖ਼ਾਸਸਿਅਤ ਹੈ
+858	I can't quite remember the name; it starts with P; I think.	ਮੈਨੂੰ ਉਸ ਦਾ ਨਾਂ ਨਹੀਂ ਯਾਦ ਆ ਰਿਹਾ; ਓਹ ਸ਼ਾਇਦ ਪਿ ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ I
+859	The dish you're talking about is called Pitha or Khola Pitha.	ਤੁਸੀਂ ਜਿਸ ਪਕਵਾਨ ਦੀ ਗੱਲ ਕਰ ਰਹੇ ਹੋ ਉਸ ਨੂੰ ਪਿਥਾ ਜਾਂ ਖੋਲਾ ਪਿਥਾ ਕਹਿੰਦੇ ਹਨI
+860	Lightly flavored rice is filled in hollow bamboo stems to make it.	ਖੋਖਲੇ ਬਾਂਸ ਦੇ ਤਣੀਆ ਵਿੱਚ ਹਲਕੇ ਮਸਾਲੇਦਾਰ ਚਾਵਲ ਭਰੇ ਜਾਂਦੇ ਹਨ I
+861	Oh, so this dish is vegetarian, too?	ਓਹ, ਫਿਰ ਇਹ ਪਕਵਾਨ ਵੀ ਸ਼ਾਕਾਹਾਰੀ ਹੈ?
+862	Yes, and it can have a sweet or a savoury flavor depending upon preference.	ਹਾਂ, ਅਤੇ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਅਨੁਸਾਰ ਇਸ ਦਾ ਸੁਵਾਦ ਮਿੱਠਾ ਜਾਂ ਨਮਕੀਨ ਹੋ ਸਕਦਾ ਹੈ I
+863	Most people prefer the sweet version, and it's normally eaten with curd and molasses.	ਜਿਆਦਾਤਰ ਲੋਕਾਂ ਨੂੰ ਇਹ ਮਿੱਠਾ ਪਸੰਦ ਹੈ, ਅਤੇ ਇਹ ਆਮ ਤੋਰ ਤੇ ਦਹੀਂ ਅਤੇ ਗੁੜ ਨਾਲ ਖਾਈਆਂ ਜਾਂਦਾ ਹੈ I
+864	Ok, could you give me a few non-vegetarian recommendations?	ਠੀਕ ਹੈ, ਤੁਸੀਂ ਮੈਨੂੰ ਕੋਈ ਮਾਸਾਹਾਰੀ ਫਰਮਾਇਸ਼ਾ ਦੇ ਸਕਦੇ ਹੋ ?
+865	I prefer non-vegetarian food, that's why.	ਮੈਨੂੰ ਮਾਸਾਹਾਰੀ ਖਾਣਾ ਪਸੰਦ ਹੈ, ਇਸ ਲਈ I
+866	In that case, smoked pork from Nagaland will satiate your taste buds.	ਅਹਿਜਾ ਹੈ ਤਾਂ, ਨਾਗਾਲੈਂਡ ਦਾ ਬੂਨੀਆਂ ਹੋਈਆਂ ਸੂਰ ਦਾ ਮੀਟ ਤੁਹਾਨੂੰ ਜ਼ਰੂਰ ਪਸੰਦ ਆਵੇਗਾ I
+867	It's crispy outside, soft and juicy inside, and the smoky flavor in it is very rich.	ਓਹ ਬਾਹਰੋਂ ਖਸਤਾ ਹੈ ਅਤੇ ਅੰਦਰੋਂ ਨਰਮ ਅਤੇ ਰਸੀਲੇਦਾਰ ਹੁੰਦਾ ਹੈ, ਉਸ ਦਾ ਭੁਨੀਆਂ ਹੋਈਆਂ ਸੁਵਾਦ ਬਹੁਤ ਗੂੜ੍ਹਾ ਹੈ I
+868	Oh, that sounds very tasty, but I don't eat pork.	ਓਹ, ਇਹ ਤਾਂ ਬੜਾ ਸੁਵਾਦ ਲੱਗ ਰਿਹਾ ਹੈ ਪਰ ਮੈਂ ਸੂਰ ਦਾ ਮੀਟ ਨਹੀਂ ਖਾਂਦਾ I
+869	I'll tell about this dish to my friend Cyril, though.	ਪਰ ਇਸ ਪਕਵਾਨ ਬਾਰੇ ਮੈਂ ਆਪਣੇ ਦੋਸਤ ਕਯਰੀਲ ਨੂੰ ਜ਼ਰੂਰ ਦਸਾਂਗੀ I
+870	Hmm.. then what about Thukpa?	ਹਮਮਮ... ਫੇਰ ਥੁਪਕਾ ਬਾਰੇ ਕਿ ਖਿਆਲ ਹੈ?
+871	It's a noodle based dish from Arunachal Pradesh and the ingredients in it vary from lentils to any kind of meat.	ਇਹ ਨੂਡਲ ਤੇ ਅਧਾਰਿਤ ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼ ਦਾ ਪਕਵਾਨ ਹੈ ਅਤੇ ਇਸ ਦੀ ਸਮੱਗਰੀ ਦਾਲਾ ਤੋਂ ਲੈ ਕੇ ਕਿਸੇ ਪ੍ਰਕਾਰ ਦੇ ਮੀਟ ਹੁੰਦੀ ਹੈ I
+872	If you prefer fish, then Tenga fish dish from Assam will be to your liking.	ਜੇ ਤੁਹਾਨੂੰ ਮੱਛੀ ਪਸੰਦ ਹੈ ਤਾਂ ਅਸਮ ਦੀ ਟੇਂਗਾ ਮੱਛੀ ਤੁਹਾਨੂੰ ਪਸੰਦ ਆਵੇਗੀ I
+873	I am fond of noodles, so Thukpa is the first on my list of North-Eastern dishes to try out.	ਮੈਨੂੰ ਨੂਡਲ ਪਸੰਦ ਹੈ, ਇਸਲਈ ਥੁਪਕਾ ਮੇਰੀ ਉੱਤਰ-ਪੂਰਬੀ ਪਕਵਾਨਾ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸਭ ਤੋਂ ਉੱਪਰ ਹੈ I
+874	I will try out Tenga as well.	ਮੈਂ ਟੇਂਗਾ ਵੀ ਅਜ਼ਮਾਉ ਗੀ I
+875	Are North-Eastern dishes generally spicy?	ਕਿ ਉੱਤਰ-ਪੂਰਬੀ ਪਕਵਾਨ ਆਮ-ਤੋਰ ਤੇ ਮਸਾਲੇਦਾ ਹੁੰਦੇ ਹਨ ?
+876	No, they're not spicy at all.	ਨਹੀਂ, ਓਹ ਉਹ ਬਿਲਕੁਲ ਵੀ ਮਸਾਲੇਦਾਰ ਨਹੀਂ ਹੁੰਦੇ I
+877	In fact, they are refreshing and aromatic.	ਵਾਸਤਵ ਵਿੱਚ, ਉਹ ਤਾਜ਼ਾ ਅਤੇ ਖੁਸ਼ਬੂਦਾਰ ਹਨ I
+878	Hello, is it TATA Capital?	ਹੈਲੋ, ਕੀ ਇਹ ਟਾਟਾ ਕੈਪਿਟਲ ਹੈ?
+879	Yes it is TATA Capital.	ਹਾਂ ਜੀ ਇਹ ਟਾਟਾ ਕੈਪਿਟਲ ਹੈ|
+880	How may I help you?	ਅਸੀਂ ਕਿਵੇਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਾਂ?
+881	I want to avail some personal laon.	ਮੈਂ ਕੁੱਝ ਨਿੱਜੀ ਲੋਨ ਲੈਣਾ ਚਾਹੁੰਦਾ ਹਾਂ|
+882	Can you please check with my credit score and let me know how much can I get?	ਕੀ ਤੁਸੀਂ ਕ੍ਰਿਪਾ ਕਰਕੇ ਮੇਰਾ ਕ੍ਰੈਡਿਟ ਸਕੋਰ ਨਾਲ ਚੈੱਕ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਮੈਨੂੰ ਦਸ ਸਕਦੇ ਹੋ ਕਿ ਮੈਨੂੰ ਕਿੰਨਾ ਲੋਨ ਮੀਲ ਸਕਦਾ ਹੈ?
+883	Yes sure please wait a minute.	ਹਾਂ ਜੀ ਜਰੂਰ ਇੱਕ ਮਿੰਟ ਇੰਤਜ਼ਾਰ ਕਰੋ|
+884	You can avail a loan of maximum 8 lakhs as per your credit score.	ਤੁਹਾਡੇ ਕ੍ਰੈਡਿਟ ਸਕੋਰ ਦੇ ਅਨੁਸਾਰ ਤੁਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ 8 ਲੱਖ ਤੱਕ ਦਾ ਲੋਨ ਲੈ ਸਕਦੇ ਹੋ|
+885	What is the rate of interest currently on personal loans?	ਇਸ ਵੇਲੇ ਨਿੱਜੀ ਲੋਨ 'ਤੇ ਵਿਆਜ ਦਰ ਕਿੰਨੀ ਹੈ?
+886	And may I know the procedure of applying for one?	ਅਤੇ ਕਿ ਮੈਂ ਇੱਕ ਦੀ ਪ੍ਰਕਿਰਿਆ ਜਾਣ ਸਕਦਾ ਹਾਂ?
+887	Personal loan interest rates can typically vary anywhere between 10.50% and 24%.	ਨਿੱਜੀ ਕਰਜ਼ ਵਿਆਜ ਦਰ ਆਮ ਤੌਰ 'ਤੇ 10.50% ਅਤੇ 24% ਦੇ ਵਿਚਕਾਰ ਕਿਤੇ ਵੀ ਬਦਲ ਸਕਦੀਆਂ ਹਨ|
+888	It is usually based on how you fulfill the personal loan eligibility requirements of the financial institution.	ਇਹ ਆਮ ਤੌਰ 'ਤੇ ਇਸ ਗੱਲ 'ਤੇ ਆਧਾਰਿਤ ਹੈ ਕਿ ਤੁਸੀਂ ਵਿੱਤੀ ਸੰਸਥਾ ਦੀਆਂ ਨਿੱਜੀ ਕਰਜ਼ ਯੋਗਤਾ ਲੋੜਾਂ ਨੂੰ ਕਿੰਝ ਪੂਰਾ ਕਰਦੇ ਹੋ|
+889	There are quite a few documents that you need to submit for the process to start.	ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਦਸਤਾਵੇਜ਼ ਹਨ ਜੋ ਤੁਹਾਨੂੰ ਪ੍ਰਕਿਰਿਆ ਸ਼ੁਰੂ ਕਰਵਾਉਣ ਲਈ ਜਮ੍ਹਾਂ ਕਰਵਾਉਣ ਦੀ ਲੋੜ ਹੈ|
+890	The documents required to establish your credentials like Voter Card, Aadhaar Card and PAN Card.	ਵੋਟਰ ਕਾਰਡ, ਆਧਾਰ ਕਾਰਡ ਅਤੇ ਪੈਣ ਕਾਰਡ ਵਰਗੇ ਪ੍ਰਮਾਣ ਪੱਤਰ ਸਥਾਪਤ ਕਰਨ ਲਈ ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼ ਹਨ|
+891	Proof of identity and proof of residence.	ਪਛਾਣ ਦਾ ਸਬੂਤ ਅਤੇ ਰਿਹਾਇਸ਼ ਦਾ ਸਬੂਤ|
+892	Income documents like salary slip for the last three months and IT returns statement.	ਆਮਦਨ ਦੇ ਕਾਗਜ਼ਾਤ ਜਿਵੇਂ ਕਿ ਪਿਛਲੇ ਤਿੰਨ ਮਹੀਨਿਆਂ ਦੀ ਤਨਖਾਹ ਰਸੀਦ ਅਤੇ ਆਈ ਟੀ ਰਿਟਰਨ ਆਦਿ |
+893	Do I need to visit the branch personally?	ਕੀ ਮੈਨੂੰ ਸ਼ਾਖਾ ਵਿਖੇ ਨਿੱਜੀ ਤੌਰ 'ਤੇ ਆਉਣਾ ਪਵੇਗਾ?
+894	Or can I apply online?	ਜਾਂ ਫਿਰ ਮੈਂ ਆਨ ਲਾਈਨ ਅਰਜੀ ਦੇ ਸਕਦੀ ਹਾਂ?
+895	Application can be done online.	ਅਰਜ਼ੀ ਆਨਲਾਈਨ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ|
+896	But for document submission and verification you have to visit the branch.	ਪਰ ਦਸਤਾਵੇਜ਼ ਜਮ੍ਹਾਂ ਕਰਵਾਉਣ ਅਤੇ ਤਸਦੀਕ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਬਰਾਂਚ ਆਉਣਾ ਪਵੇਗਾ|
+897	I'm a regular customer at your firm, you can check with that.	ਮੈਂ ਤੁਹਾਡੀ ਫਰਮ ਦਾ ਨਿਯਮਿਤ ਗਾਹਕ ਹਾਂ, ਤੁਸੀਂ ਚੈੱਕ ਵੀ ਕਰ ਸਕਦੇ ਹੋ|
+898	Can I just send my documents to your office?	ਕੀ ਮੈਂ ਆਪਣੇ ਕਾਗਜਾਤ ਤੁਹਾਡੇ ਦਫ਼ਤਰ ਨੂੰ ਭੇਜ ਸਕਦਾ ਹਾਂ?
+899	Sir, it won't take much time, sending the documents might get mixed with the other applications.	ਸਾਹਿਬ, ਇਸ ਵਿੱਚ ਜਿਆਦਾਂ ਸਮਾਂ ਨਹੀਂ ਲੱਗੇਗਾ, ਦਸਤਾਵੇਜ਼ਾਂ ਨੂੰ ਭੇਜਣ ਨਾਲ ਹੋਰ ਅਰਜ਼ੀਆਂ ਮਿਲ ਸਕਦੀਆਂ ਹਨ|
+900	What are the lower and upper limits on a personal loan, usually?	ਆਮ ਤੌਰ 'ਤੇ ਨਿੱਜੀ ਕਰਜ਼ੇ 'ਤੇ ਹੇਠਲੀ ਅਤੇ ਉਪਰਲੀ ਸੀਮਾਵਾਂ ਕੀ ਹਨ?
+901	We provide Personal Loans from a minimum of 75,000 to a maximum of 35,00,000/- depending on your eligibility.	ਅਸੀਂ ਤੁਹਾਡੀ ਯੋਗਤਾ ਅਨੁਸਾਰ ਘੱਟੋ ਘੱਟ 75,000/- ਤੋਂ ਲੈ ਕੇ ਵੱਧ ਤੋਂ ਵੱਧ 35,00,000/- ਤੱਕ ਨਿੱਜੀ ਕਰਜ਼ੇ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਾਂ|
+902	Ok then, thank you for the information.	ਅੱਛਾ ਜੀ ਫਿਰ, ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਧੰਨਵਾਦ|
+903	I'll visit the branch soon.	ਮੈਂ ਜਲਦੀ ਹੀ ਬਰਾਂਚ ਦਾ ਦੌਰਾ ਕਰਨ ਵਾਲੀ ਹਾਂ|
+904	Please get in touch in case of any other assistance.	ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਹੋਰ ਸਹਾਇਤਾ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਸੰਪਰਕ ਕਰੋ|
+905	Kamala, when are you coming back to work?	ਕਮਲਾ, ਤੂੰ ਕੰਮ ਤੇ ਵਾਪਿਸ ਕਦੋਂ ਆਏਂਗੀ?
+906	Have you even seen the calendar?	ਕੀ ਤੂੰ ਕਦੇ ਕੈਲੰਡਰ ਦੇਖਿਆ ਹੈ?
+907	It's been almost a month.	ਲਗਭਗ ਇੱਕ ਮਹੀਨਾ ਹੋ ਗਿਆ ਹੈ|
+908	I thought you said you were taking a leave for 10 days.	ਮੈਂ ਸੋਚਿਆ ਕਿ ਤੁਸੀਂ ਕਿਹਾ ਹੈ ਕਿ ਤੂੰ 10 ਦਿਨਾਂ ਦੀ ਛੁੱਟੀ ਲੈ ਰਹੀ ਹੈ|
+909	I'm sorry ma'am.	ਮੈਨੂੰ ਮੁਆਫ਼ ਕਰਨਾ ਮੈਡਮ |
+910	I wasn't able to inform you.	ਮੈਂ ਦੱਸਣ ਦੀ ਹਾਲਤ ਵਿੱਚ ਨਹੀਂ ਸੀ|
+911	Where even are you?	ਤੂੰ ਹੁਣ ਕਿੱਥੇ ਹੈ?
+912	Are you still at your paternal house?	ਕੀ ਤੁਸੀਂ ਅਜੇ ਵੀ ਆਪਣੇ ਮਾਤਾ ਪਿਤਾ ਦੇ ਘਰ ਹੋ?
+913	No ma'am, I came home three days back.	ਨਹੀਂ ਮੈਡਮ, ਮੈਂ ਤਿੰਨ ਦਿਨਾਂ ਪਹਿਲਾਂ ਘਰ ਆ ਗਈ ਸੀ|
+914	Three days back?	ਤਿੰਨ ਦਿਨਾਂ ਪਹਿਲਾਂ?
+915	Why aren't you coming to work then?	ਫਿਰ ਤੂੰ ਕੰਮ 'ਤੇ ਕਿਉਂ ਨਹੀਂ ਆਈ?
+916	My hand is a bit swollen.	ਮੇਰਾ ਹੱਥ ਥੋੜਾ ਸੁਜਿਆ ਹੋਇਆ ਹੈ|
+917	I'm finding it difficult to work.	ਮੈਨੂੰ ਕੰਮ ਕਰਨ 'ਚ ਦਿੱਕਤ ਆ ਰਹੀ ਹੈ|
+918	Swollen? Did you see a doctor?	ਸੋਜ? ਕੀ ਤੂੰ ਡਾਕਟਰ ਨੂੰ ਦਿਖਾਈਆ ?
+919	The doctor advised to take rest for a few days.	ਡਾਕਟਰ ਨੇ ਕੁੱਝ ਦਿਨ ਅਰਾਮ ਕਰਨ ਲਈ ਕਿਹਾ ਹੈ|
+920	He surely didn't mean a month?	ਉਸਦਾ ਮਤਲਬ ਯਕੀਨਨ ਇੱਕ ਮਹੀਨਾ ਨਹੀਂ ਸੀ?
+921	You haven't fractured your hand, have you?	ਕੀ ਤੇਰਾ ਹੱਥ ਟੁੱਟਿਆ ਨਹੀਂ ਹੈ?
+922	No ma'am, that's not the case.	ਨਹੀਂ ਮੈਡਮ, ਉਹ ਕੇਸ ਨਹੀਂ ਹੈ|
+923	What is the case?	ਕੇਸ ਕੀ ਹੈ?
+924	I don't know, ma'am.	ਮੈਨੂੰ ਨਹੀਂ ਪਤਾ ਮੈਡਮ|
+925	My hand is swollen, it hurts.	ਮੇਰਾ ਹੱਥ ਸੁਜਿਆ ਹੋਇਆ ਹੈ, ਇਹ ਦੁਖਦਾ ਹੈ|
+926	If you had ever done your work properly, it wouldn't have.	ਜੇਕਰ ਤੁਸੀਂ ਕਦੇ ਆਪਣਾ ਕੰਮ ਸਹੀ ਢੰਗ ਨਾਲ ਕੀਤਾ ਹੁੰਦਾ, ਤਾਂ ਇਹ ਨਹੀਂ ਹੁੰਦਾ |
+927	You never fold the clothes.	ਤੂੰ ਕਦੇ ਕੱਪੜੇ ਤਹਿ ਨਹੀਂ ਕੀਤੇ|
+928	The utensils are never quite clean.	ਭਾਂਡੇ ਕਦੇ ਵਧੀਆ ਸਾਫ਼ ਨਹੀਂ ਕੀਤੇ|
+929	You don't even have to wash the clothes because of the washing machine!	ਤੂੰ ਕਦੇ ਕੱਪੜੇ ਵੀ ਨਹੀਂ ਧੋਏ ਕਿਉਂ ਕਿ ਵਾੱਸ਼ਿੰਗ ਮਸ਼ੀਨ ਹੈ|
+930	This isn't done at all.	ਇਹ ਸਭ ਠੀਕ ਨਹੀਂ ਹੈ|
+931	I do as much as I can, ma'am.	ਜਿੰਨਾ ਮੇਰੇ ਤੋਂ ਹੁੰਦਾ ਹੈ ਉਹ ਮੈਂ ਕਰਦੀ ਹਾਂ, ਮੈਡਮ|
+932	Don't talk back to me.	ਮੇਰੇ ਨਾਲ ਗੱਲ ਨਾ ਕਰ|
+933	Stay back at home, relax.	ਘਰ ਰਹਿ , ਅਰਾਮ ਕਰ |
+934	You don't need to come work for me anymore.	ਤੈਨੂੰ ਇੱਥੇ ਕੰਮ ਲਈ ਆਉਣ ਦੀ ਕੋਈ ਲੋੜ ਨਹੀਂ ਹੈ|
+935	I'm firing you.	ਮੈਂ ਤੈਨੂੰ ਕੱਢ ਰਹੀ ਹਾਂ|
+936	Wow! this is so swanky.	ਵਾਹ! ਇਹ ਬਹੁਤ ਸ਼ਾਨਦਾਰ ਹੈ|
+937	When did you get it?	ਤੂੰ ਇਹ ਕਦੋਂ ਲਈ?
+938	Can I drive, please?	ਕਿਰਪਾ, ਕੀ ਮੈਂ ਚਲਾ ਸਕਦਾ ਹਾਂ?
+939	Are you sure you can?	ਪੱਕਾ ਤੂੰ ਚਲਾ ਲਵੇਂਗਾ?
+940	I don't want any harm to this beauty.	ਮੈਂ ਇਸ ਖੂਬਸੂਰਤੀ ਨੂੰ ਕੋਈ ਨੁਕਸਾਨ ਨਹੀਂ ਪਹੁੰਚਾਉਣਾ ਚਾਹੁੰਦਾ|
+941	Why not!?	ਕਿਉਂ ਨਹੀਂ!?
+942	I can try.	ਮੈਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦਾ ਹਾਂ|
+943	Do you not have insurance?	ਕੀ ਤੇਰੇ ਕੋਲ ਕੋਈ ਬੀਮਾ ਵੀ ਨਹੀਂ ਹੈ?
+944	Haha..sorry I am kidding.	ਹਾਹਾ.. ਮੁਆਫ਼ ਕਰੀਂ ਮੈਂ ਮਜਾਕ ਕਰ ਰਿਹਾ ਸੀ|
+945	You should have seen your face right now.	ਤੂੰ ਹੁਣ ਆਪਣਾ ਮੂੰਹ ਦੇਖਣਾ ਸੀ|
+946	What the hell?	ਇਹ ਕੀ?
+947	Jokes on my car are not allowed!	ਮੇਰੀ ਗੱਡੀ 'ਤੇ ਚੁਟਕਲਿਆਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ|
+948	You can joke on my life all you want.	ਜੇਕਰ ਤੂੰ ਚਾਹੁੰਦਾ ਹੈ ਤੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ 'ਤੇ ਚੁਟਕਲੇ ਮਾਰ ਸਕਦਾ ਹੈ|
+949	Anyway, here you go.	ਵੈਸੇ ਵੀ, ਇਹ ਲਾ|
+950	Let's take it for a spin.	ਚਲੋ ਇਸਨੂੰ ਇੱਕ ਗੇੜਾ ਦਵਾਉਂਦੇ ਹਾਂ|
+951	Have you named her yet?	ਕੀ ਤੂੰ ਇਸਦਾ ਨਾਮ ਰੱਖ ਲਿਆ ਹੈ?
+952	You have gotta name your car.	ਤੈਨੂੰ ਆਪਣੀ ਗੱਡੀ ਨੂੰ ਨਾਮ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ|
+953	Haha yeah!	ਹਾਹਾ ਹਾਂ!
+954	I am going to call her Athena.	ਮੈਂ ਇਸਨੂੰ ਅਥੇਨਾ ਬੁਲਾਵਾਂਗਾ|
+955	You and your Greek names, man!	ਤੂੰ ਅਤੇ ਤੇਰੇ ਯੂਨਾਨੀ ਨਾਮ, ਬਾਈ!
+956	Oh! the sound of the engine.	ਓਹ! ਇੰਜਣ ਦੀ ਆਵਾਜ਼ |
+957	So cool!	ਬਹੁਤ ਵਧੀਆ!
+958	And it's smooth.	ਅਤੇ ਇਸਦੀ ਨਿਰਵਿਘਨਤਾ|
+959	This must-have cost you a bomb.	ਇਹ ਤੈਨੂੰ ਬਹੁਤ ਮਹਿੰਗੀ ਪਈ ਹੋਵੇਗੀ|
+960	It would have if my father wasn't rich.	ਇਹ ਪੈਂਦੀ ਜੇਕਰ ਮੇਰੇ ਬਾਪੂ ਜੀ ਅਮੀਰ ਨਾ ਹੁੰਦੇ|
+961	It's a gift, man!	ਇਹ ਇੱਕ ਤੋਹਫ਼ਾ ਹੈ, ਬਾਈ!
+962	On my salary, I can't even afford an iphone; forget a Ferrari.	ਮੇਰੀ ਤਨਖਾਹ 'ਤੇ, ਮੈਂ ਇੱਕ ਆਈ ਫ਼ੋਨ ਵੀ ਨਹੀਂ ਲੈ ਸਕਦਾ, ਫਰਾਫ਼ੀ ਤਾਂ ਭੁੱਲ ਜੋ|
+963	So, how do you like it?	ਫਿਰ, ਕਿਵੇਂ ਪਸੰਦ ਆਈ ਤੈਨੂੰ ਇਹ?
+964	Isn't she better than Rahul's?	ਕੀ ਇਹ ਰਾਹੁਲ ਵਾਲੀ ਤੋਂ ਵਧੀਆ ਹੈ?
+965	Obviously!	ਬੇਸ਼ੱਕ!
+966	It's a ferrari.	ਇਹ ਫ਼ਰਾਰੀ ਹੈ|
+967	You should get that 'Dad's gift' written at the back.	ਤੈਨੂੰ ਇਸਦੇ ਪਿੱਛੇ 'ਬਾਪੂ ਵੱਲੋਂ ਤੋਹਫ਼ਾ' ਲਿਖਵਾਉਣਾ ਚਾਹੀਦਾ ਹੈ|
+968	Haha! This is not Gurgaon.	ਹਾਹਾ! ਇਹ ਗੁੜਗਾਂਓ ਨਹੀਂ ਹੈ|
+969	I'd die of embarassment every time I take her out.	ਹਰ ਵਾਰ ਜਦੋਂ ਮੈਂ ਉਸਨੂੰ ਬਾਹਰ ਲੈ ਜਾਵਾਂਗਾ ਤਾਂ ਮੈਂ ਸ਼ਰਮ ਨਾਲ ਮਰ ਜਾਵਾਂਗਾ|
+970	How are people so confident about these things?	ਲੋਕ ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਲੈ ਕੇ ਐਨ੍ਹੇ ਭਰੋਸੇਮੰਦ ਕਿਵੇਂ ਹੁੰਦੇ ਹਨ?
+971	Because they have rich dads.	ਕਿਉਂ ਕਿ ਉਹਨਾਂ ਕੋਲ ਅਮੀਰ ਬਾਪ ਹੁੰਦੇ ਹਨ|
+972	Haha! it gives them the extra push.	ਹਾਹਾ! ਉਹ ਉਹਨਾਂ ਨੂੰ ਵਾਧੂ ਧੱਕਦੇ ਹਨ|
+973	Yeah, I guess.	ਹਾਂ, ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ|
+974	Let's stop for a bite, shall we?	ਚਲੋ ਕੁੱਝ ਚਿਰ ਰੋਕੀਏ, ਕੀ ਆਪਾਂ?
+975	Sure!	ਪੱਕਾ!
+976	Look at people gawking.	ਲੋਕ ਵੇਖ ਕਿਵੇਂ ਦੇਖ ਰਹੇ ਨੇ|
+977	So cool!	ਬਹੁਤ ਵਧੀਆ!
+978	Hey Rahul, I recently watched The Kashmir Files.	ਹੇ ਰਾਹੁਲ, ਮੈਂ ਹਾਲ ਹੀ ਵਿੱਚ ਕਸ਼ਮੀਰ ਫਾਈਲਜ਼ ਦੇਖੀ ਹੈ|
+979	What stunning performances by every single cast member!	ਹਰ ਇੱਕ ਕਾਸਟ ਮੈਬਰ ਦੁਆਰਾ ਕਿੰਨਾ ਸ਼ਾਨਦਾਰ ਪ੍ਰਦਰਸ਼ਨ!
+980	I was particularly awestruck by the performance of Bhasha Sumbli!	ਮੈਂ ਖਾਸ ਤੌਰ 'ਤੇ ਭਾਸ਼ਾ ਸੁਮਬਲੀ ਦੇ ਪ੍ਰਦਰਸ਼ਨ ਤੋਂ ਹੈਰਾਨ ਹਾਂ|
+981	Yes; her character was very challenging to portray.	ਹਾਂ; ਉਸਦਾ ਕਿਰਦਾਰ ਪੇਸ਼ ਕਰਨਾ ਬਹੁਤ ਚੁਣੌਤੀਪੂਰਨ ਸੀ|
+982	Sumbli did absolute justice to the character of Sharda Pandit.	ਸੁਮਬਲੀ ਨੇ ਸ਼ਾਰਦਾ ਪੰਡਿਤ ਦੇ ਕਿਰਦਾਰ ਨਾਲ ਪੂਰਾ ਨਿਆ ਕੀਤਾ|
+983	Did you know that Sumbli herself belongs to the Kashmiri Pandit community?	ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਸੁਮਬਲੀ ਖੁਦ ਕਸ਼ਮੀਨ ਪੰਡਿਤ ਭਾਈਚਾਰੇ ਨਾਲ ਸਬੰਧਤ ਹੈ?
+984	Yes, I recently came to know of it.	ਹਾਂ, ਮੈਨੂੰ ਹੁਣੇ ਇਸ ਬਾਰੇ ਪਤਾ ਲੱਗਿਆ|
+985	I am especially amazed by how well she did in her debut!	ਮੈਂ ਖਾਸ ਤੌਰ 'ਤੇ ਹੈਰਾਨ ਹਾਂ ਕਿ ਕਿਵੇਂ ਉਸਨੇ ਆਪਣੀ ਪਹਿਲੀ ਫਿਲਮ ਵਿੱਚ ਬਖੂਬੀ ਕੰਮ ਕੀਤਾ!
+986	Oh no, The Kashmir Files is not Sumbli's debut!	ਓਹ ਨਹੀਂ! ਕਸ਼ਮੀਰ ਫਾਈਲਜ਼ ਸੁਮਬਲੀ ਦੀ ਪਹਿਲੀ ਫਿਲਮ ਨਹੀਂ ਹੈ!
+987	She had earlier played a minor role in the 2020 movie Chhapaak.	ਉਸਨੇ ਪਹਿਲਾਂ 2020 ਵਿੱਚ ਛਾਪਾਕ ਫਿਲਮ ਵਿੱਚ ਇੱਕ ਛੋਟਾ ਰੋਲ ਅਦਾ ਕੀਤਾ ਸੀ|
+988	Is that so, what was her role?	ਕੀ ਅਜਿਹਾ ਹੈ, ਉਸਦਾ ਕੀ ਰੋਲ ਸੀ?
+989	She played the sister of Basheer Khan, the man who throws acid on Malti's face.	ਉਸਨੇ ਬਸ਼ੀਰ ਖਾਨ ਦੀ ਭੈਣ ਦੀ ਭੂਮਿਕਾ ਨਿਭਾਈ ਸੀ, ਜੋ ਮਾਲਤੀ ਦੇ ਚਹਿਰੇ 'ਤੇ ਤੇਜ਼ਾਬ ਸੁੱਟਦਾ ਹੈ|
+990	I see, I had thought that this was her first role.	ਮੈਂ ਦੇਖਦਾ ਹਾਂ, ਮੈਂ ਸੋਚਿਆ ਸੀ ਕਿ ਇਹ ਉਸਦੀ ਪਹਿਲੀ ਭੂਮਿਕਾ ਸੀ|
+991	I read that Sumbli also broke down while shooting the climax.	ਮੈਂ ਪੜ੍ਹਿਆ ਸੀ ਕਿ ਸੁਮਬਲੀ ਵੀ ਕਲਾਈਮੈਕਸ ਦੀ ਸ਼ੂਟਿੰਗ ਦੌਰਾਨ ਟੁੱਟ ਗਈ ਸੀ|
+992	Yes, the scene is too brutal and the fact that it is based on real incidents makes it even hard to watch, let alone enact.	ਹਾਂ, ਇਹ ਦ੍ਰਿਸ਼ ਬਹੁਤ ਬੇਰਹਿਮ ਹੈ ਅਤੇ ਇਹ ਤੱਥ ਕਿ ਇਹ ਅਸਲ ਘਟਨਾ 'ਤੇ ਆਧਾਰਿਤ ਹੈ, ਇਸ ਨੂੰ ਦੇਖਣਾ ਹੋਰ ਵੀ ਮੁਸ਼ਕਿਲ ਬਣਾਉਂਦਾ ਹੈ, ਇਕੱਲੇ ਕਾਨੂੰਨ ਬਣਾਉਣ ਦਿਓ|
+993	Did you know that Anupam Kher also belongs to the Kashmiri Pandit clan?	ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਅਨੁਪਮ ਖੇਰ ਵੀ ਕਸ਼ਮੀਰੀ ਪੰਡਿਤ ਕਬੀਲੇ ਨਾਲ ਸਬੰਧਤ ਹੈ?
+994	Yes, from his mother's side.	ਹਾਂ, ਉਸਦੀ ਮਾਂ ਵੱਲੋਂ|
+995	And his character, Pushkar Nath Pandit, is named after his father.	ਅਤੇ ਉਸਦਾ ਕਿਰਦਾਰ, ਪੁਸ਼ਕਰ ਨਾਥ ਪੰਡਿਤ, ਉਸਦੇ ਪਿਤਾ ਦੇ ਨਾਮ 'ਤੇ ਰੱਖਿਆ ਗਿਆ|
+996	He is such a natural actor, his acting look so effortless!	ਉਹ ਅਜਿਹਾ ਕੁਦਰਤੀ ਅਭਿਨੇਤਾ ਹੈ, ਉਸਦੀ ਅਦਾਕਾਰੀ ਇੰਨੀ ਆਸਨ ਦਿਖਾਈ ਦਿੰਦੀ ਹੈ!
+997	Yes, you should also see him in Dhokha, A Wednesday and Karma.	ਹਾਂ, ਤੁਹਾਨੂੰ ਉਸਨੂੰ ਧੋਖਾ, ਏ ਵੈਡਨਸਡੇ ਅਤੇ ਕਰਮਾ ਵਿੱਚ ਵੀ ਦੇਖਣਾ ਚਾਹੀਦਾ ਹੈ|
+998	The veteran ensemble cast delivers such convincing performances!	ਵੈਟਰਨ ਐਨਸੈਂਬਲ ਕਾਸਟ ਅਜਿਹੇ ਪ੍ਰਦਰਸ਼ਨ ਪੇਸ਼ ਕਰਦੀ ਹੈ!
+999	It was so good to see Puneet Issar as DGP Hari Narayan.	ਪੁਨੀਤ ਈਸਰ ਨੂੰ ਡੀ ਜੀ ਪੀ ਹਰਿਆਣਾ ਵਜੋਂ ਦੇਖਣਾ ਬਹੁਤ ਚੰਗਾ ਲੱਗਿਆ|
+1000	Didn't he play Duryodhana in B.R. Chopra's Mahabharat?	ਕੀ ਉਸਨੇ ਬੀ. ਆਰ. ਚੌਪੜਾ ਦੀ ਮਹਾਭਾਰਤ ਵਿੱਚ ਦੁਰਯੋਧਨ ਦੀ ਭੂਮਿਕਾ ਨਹੀਂ ਨਿਭਾਈ ਸੀ?
+1001	Yes he did, then there was also Mithun Chakraborty as IAS officer Brahma Dutt.	ਹਾਂ ਉਸਨੇ ਨਿਭਾਈ ਸੀ, ਫਿਰ ਉਸ ਵਿੱਚ ਮਿਥੁਨ ਚੱਕਰਵਰਤੀ ਵੀ ਆਈ ਏ ਐਸ ਅਧਿਕਾਰੀ ਬ੍ਰਹਮਾ ਦੱਤ ਵਜੋਂ ਸੀ|
+1002	Even the newer talents like Amaan Iqbal and Darshan Kumar are so promising.	ਇੱਥੋਂ ਤੱਕ ਕਿ ਅਮਾਨ ਇਕਬਾਲ ਅਤੇ ਦਰਸ਼ਨ ਕੁਮਾਰ ਵਰਗੀਆਂ ਨਵੀਆਂ ਪ੍ਰਤਿਭਾਵਾਂ ਵੀ ਬਹੁਤ ਹੋਣਹਾਰ ਸਨ|
+1003	Veteran actors remind me of Mrinal Kulkarni as Laxmi Dutt.	ਅਨੁਭਵੀ ਕਲਾਕਾਰ ਮੈਨੂੰ ਲਕਸ਼ਮੀ ਦੱਤ ਵਜੋਂ ਮਿਰਨਲ ਕੁਲਕਰਨੀ ਦੀ ਯਾਦ ਦਵਾਉਂਦੇ ਹਨ|
+1004	I used to love her in Son Pari.	ਮੈਂ ਉਸਨੂੰ ਸੋਨ ਪਰੀ ਵਿੱਚ ਪਿਆਰ ਕਰਦਾ ਸੀ|
+1005	Pallavi Joshi's performance is really polished as well.	ਪੱਲਵੀ ਜੋਸ਼ੀ ਦਾ ਪ੍ਰਦਰਸ਼ਨ ਸੱਚ ਮੁੱਚ ਬਹੁਤ ਵਧੀਆ ਸੀ|
+1006	Everyone who has seen the movie hates Professor Radhika Menon, all because of her superb acting.	ਉਸਦੀ ਸ਼ਾਨਦਾਰ ਅਦਾਕਾਰੀ ਦੇ ਕਾਰਨ ਹਰ ਕੋਈ ਜਿਸਨੇ ਫ਼ਿਲਮ ਦੇਖੀ ਹੈ ਪ੍ਰੋਫੈਸਰ ਰਾਧਿਕਾ ਮੈਨਨ ਨੂੰ ਨਫ਼ਰਤ ਕਰਦਾ ਹੈ|
+1007	Indeed! It is not easy to portray negative roles but does Joshi deliver!	ਸੱਚ ਮੁੱਚ ! ਇਹਨਾਂ ਨਾਕਾਰਾਤਮਕ ਭੂਮਿਕਾਵਾਂ ਨੂੰ ਨਿਭਾਉਣਾ ਆਸਾਨ ਨਹੀਂ ਹੈ ਪਰ ਜੋਸ਼ੀ ਨੇ ਇਹ ਦਰਸਾਇਆ!
+1008	Her screen time was very limited yet her portrayal leaves a strong impact.	ਉਸਦਾ ਸਕ੍ਰੀਨ ਸਮਾਂ ਬਹੁਤ ਸੀਮਿਤ ਸੀ ਫਿਰ ਵੀ ਉਸਦਾ ਚਿੱਤਰਨ ਇਕ ਮਜਬੂਤ ਪ੍ਰਭਾਵ ਛੱਡਦਾ ਹੈ|
+1009	Every single actor absolutely aced their parts!	ਹਰ ਇੱਕ ਅਭਿਨੇਤਾ ਨੇ ਆਪਣੇ ਕਿਰਦਾਰਾਂ ਨੂੰ ਬਾਖੂਬੀ ਪੇਸ਼ ਕੀਤਾ|
+1010	Good day, gentleman, and welcome to the Artist's Galleria!	ਸ਼ੁੱਭ ਦਿਨ, ਸੱਜਣ, ਅਤੇ ਆਰਟਿਸਟ ਗੱਲੇਰੀਆ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ !
+1011	Thank you, nice to meet you!	ਧੰਨਵਾਦ, ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਚੰਗਾ ਲੱਗਿਆ|
+1012	Would you like some assistance?	ਕੀ ਤੁਸੀਂ ਕੁੱਝ ਸਹਾਇਤਾ ਚਾਹੁੰਦੇ ਹੋ?
+1013	Yes, I do.	ਹਾਂ, ਮੈਂ ਚਾਹੁੰਦਾ ਹਾਂ|
+1014	Sir, we can say that there are various types of art.	ਸਰ, ਅਸੀਂ ਕਹਿ ਸਕਦੇ ਹਾਂ ਕਿ ਕਲਾ ਦੀਆਂ ਵੱਖ-ਵੱਖ ਕਿਸਮਾਂ ਹੁੰਦੀਆਂ ਹਨ|
+1015	What are the different forms of art?	ਕਲਾ ਦੇ ਵੱਖ ਵੱਖ ਰੂਪ ਕੀ ਹਨ?
+1016	There are seven different types of art.	ਕਲਾ ਦੀਆਂ 7 ਵੱਖ ਪ੍ਰਕਾਰ ਦੀਆਂ ਕਿਸਮਾਂ ਹਨ|
+1017	Painting, Sculpture, Literature, Architecture, Film, Music, and Theater are among them.	ਉਹਨਾਂ ਵਿੱਚ ਚਿੱਤਰਕਾਰੀ, ਮੂਰਤੀਕਲਾ, ਸਾਹਿਤ, ਵਾਸਤੁਕਲਾ , ਫ਼ਿਲਮ , ਸੰਗੀਤ ਅਤੇ ਰੰਗ ਮੰਚ ਹਨ|
+1018	Oh that's wonderful!	ਓਹ ਇਹ ਤਾਂ ਸ਼ਾਨਦਾਰ ਹੈ|
+1019	When we think of art, the first thing that comes to mind is painting.	ਜਦੋਂ ਅਸੀਂ ਕਲਾ ਬਾਰੇ ਸੋਚਦੇ ਹਾਂ ਤਾਂ ਸਭ ਤੋਂ ਪਹਿਲੀ ਚੀਜ਼ ਜੋ ਮਨ ਵਿੱਚ ਆਉਂਦੀ ਹੈ ਓਹ ਹੈ ਚਿੱਤਰਕਾਰੀ|
+1020	What are the most important characteristics of painting?	ਚਿੱਤਰਕਾਰੀ ਦੀਆਂ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਕੀ ਹਨ?
+1021	Painting is a method of expressing your artistic vision with the primary medium of paint.	ਚਿੱਤਰਕਾਰੀ ਇੱਕ ਮੌਲਿਕ ਮਾਧਿਅਮ ਨਾਲ ਆਪਣੀ ਕਲਾਤਮਕ ਦ੍ਰਿਸ਼ਟੀ ਨੂੰ ਪ੍ਰਗਟ ਕਰਨ ਦਾ ਇੱਕ ਤਰੀਕਾ ਹੈ|
+1022	Paint can be applied in a variety of ways, including brushing, smearing, dabbing, and splashing.	ਪੇਂਟ ਨੂੰ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਲਗਾਈਆ ਜਾ ਸਕਦਾ ਹੈ, ਜਿਵੇਂ ਕਿ ਬੁਰਸ਼ਇੰਗ,ਸਮਇਰਇੰਗ,ਡੈਬਿੰਗ ਅਤੇ ਸਪੈਲਸ਼ਇੰਗ
+1023	What are the different painting styles?	ਪੇਂਟ ਦੀਆਂ ਕਿਹੜੀਆਂ ਵੱਖ-ਵੱਖ ਸ਼ੈਲੀਆਂ ਹਨ?
+1024	There are many painting styles, including modernist, expressionist, classical, surreal, cubist, Chinese style, abstract, impressionist, and many more.	ਪੇਂਟਿੰਗ ਦੀਆਂ ਕਈ ਵੱਖ-ਵੱਖ ਸ਼ੈਲੀਆਂ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਆਧੁਨਿਕਤਾਵਾਦੀ, ਪ੍ਰਗਟਾਵੇਵਾਦੀ, ਕਲਾਸੀਕਲ, ਸੁਰਰੀਅਲ, ਕੁੱਬਿਸਤ, ਚਾਇਨਿਜ ਸਟਾਇਲ , ਅਮੂਰਤ, ਪ੍ਰਭਾਵਵਾਦੀ ਅਤੇ ਹੋਰ ਬਹੁਤ ਸਾਰੀਆਂ ਸ਼ੈਲੀਆਂ ਆਉਂਦੀਆਂ ਹਨ I
+1025	Okay. What about the second one - Sculpture?	ਠੀਕ ਹੈ| ਦੂਸਰੀ ਮੂਰਤੀ ਕਲਾ ਬਾਰੇ ਕੀ ?
+1026	Sculpture is an ancient type of visual art that dates back to the prehistoric era.	ਮੂਰਤੀ ਵਿਜ਼ੂਅਲ ਆਰਟਸ ਦੀ ਇੱਕ ਪੂਰਵੀ ਕਿਸਮ ਹੈ ਜੋ ਪੂਰਵ ਇਤਿਹਾਸਕ ਯੁੱਗ ਤੋਂ ਚਲਦੀ ਆ ਰਹੀ ਹੈ I
+1027	A sculpture is a three-dimensional visual image created with traditional materials like clay, stone, ceramics, metals, or wood.	ਮੂਰਤੀ ਇੱਕ ਤਿੰਨ ਅਯਾਮੀ ਵਿਜ਼ੂਅਲ ਚਿੱਤਰ ਹੈ ਜੋ ਰਵਾਇਤੀ ਸਮੱਗਰੀ ਜਿਵੇਂ ਕਿ ਮਿੱਟੀ, ਪੱਥਰ, ਵਸਰਾਵਿਕਸ, ਧਾਤਾਂ ਜਾਂ ਲੱਕੜ ਨਾਲ ਬਣਾਇਆ ਜਾਂਦਾ ਹੈ|
+1028	Who were some of the most well-known ancient sculptors?	ਸਭ ਤੋਂ ਮਸ਼ਹੂਰ ਪ੍ਰਾਚੀਨ ਮੂਰਤੀਕਾਰ ਕੌਣ ਸਨ?
+1029	Michelangelo and Myron are two well-known classical sculptors.	ਮਾਈਕਲਐਂਜਲੋ ਅਤੇ ਮਾਈਰਨ ਦੋ ਜਾਣੇ-ਮਾਣੇ ਕਲਾਸੀਕਲ ਮੂਰਤੀਕਾਰ ਹਨ|
+1030	Literature is the third one, right?	ਸਾਹਿਤ ਤੀਜਾ ਹੈ, ਹੈ ਨਾ ?
+1031	Sir, yes.Every creative form has a story to tell.	ਸਰ, ਹਾਂ ਜੀ| ਹਰ ਰਚਨਾਤਮਕ ਰੂਪ ਵਿੱਚ ਦੱਸਣ ਲਈ ਇੱਕ ਕਹਾਣੀ ਹੁੰਦੀ ਹੈ|
+1032	Literature, on the other hand, is a sort of language art that can be read or spoken.	ਸਾਹਿਤ, ਦੂਜੇ ਪਾਸੇ , ਭਾਸ਼ਾ ਦੀ ਇੱਕ ਕਿਸਮ ਦੀ ਕਲਾ ਹੈ ਜਿਸ ਨੂੰ ਪੜ੍ਹਿਆ ਜਾਂ ਬੋਲਿਆ ਜਾ ਸਕਦਾ ਹੈ|
+1033	Exactly! Architecture is a different type of art; it is the art of building structures. Am I correct?	ਬਿਲਕੁੱਲ! ਵਾਸਤੁਕਲਾ ਇੱਕ ਵੱਖਰੀ ਕਿਸਮ ਦੀ ਕਲਾ ਹੈ; ਇਹ ਬੁਨਿਆਦੀ ਢਾਂਚੇ ਬਣਾਉਣ ਦੀ ਕਲਾ ਹੈ| ਕੀ ਮੈਂ ਸ਼ੀ ਹਾਂ?
+1034	Certainly, sir! The Great Pyramids, Rome's Coliseum, the Taj Mahal, Hagia Sophia, and Stonehenge are examples of ancient architectural marvels.	ਯਕੀਨਨ, ਸਰ! ਦ ਗ੍ਰੇਟ ਪਿਰਾਮਿਡ, ਰੋਮ ਦਾ ਕੋਲੀਜ਼ੀਅਮ, ਤਾਜ ਮਹਿਲ, ਹਾਗੀਆ ਸੋਫੀਆ ਅਤੇ ਸੱਟੋਂਹੇਂਜ ਪ੍ਰਾਚੀਨ ਵਾਸਤੁਕਲਾ ਅਜੂਬਿਆਂ ਦੀਆਂ ਉਦਾਹਰਣਾਂ ਹਨ|
+1035	The other two are cinema and music.	ਬਾਕੀ ਦੋ ਸਿਨੇਮਾ ਅਤੇ ਸੰਗੀਤ ਹਨ|
+1036	Cinema is the most recent of the seven art forms, having been created barely over a century ago.	ਸਿਨੇਮਾ ਸੱਤ ਕਲਾ ਰੂਪਾਂ ਵਿੱਚੋਂ ਸਭ ਤੋਂ ਨਵਾਂ ਹੈ ਜੋ ਕਿ ਇੱਕ ਸਦੀ ਪਹਿਲਾਂ ਬਣਾਇਆ ਗਿਆ ਸੀ|
+1037	Movies are a two-dimensional projection of a three-dimensional world, an art form that involves both our hearing and visual senses.	ਫ਼ਿਲਮਾਂ ਇੱਕ ਤਿੰਨ ਆਯਾਮੀ ਸੰਸਾਰ ਦਾ ਇੱਕ ਦੋ ਆਯਾਮੀ ਪ੍ਰੋਜੈਕਸਨ ਹੈ, ਇੱਕ ਕਲਾ ਰੂਪ ਜਿਸ ਵਿੱਚ ਸਾਡੀ ਸੁਣਨ ਅਤੇ ਵਿਜ਼ੂਅਲ ਇੰਦਰੀਆਂ ਦੋਵੇਂ ਸ਼ਾਮਿਲ ਹੁੰਦੀਆਂ ਹਨ|
+1038	Then we can say that music is the skill of arranging audible sounds and vibrations to create a musical composition employing melody, harmony, rhythm, and timbre.	ਫਿਰ ਅਸੀਂ ਇਹ ਕਹਿ ਸਕਦੇ ਹਾਂ ਕਿ ਸੰਗੀਤ ਧੁਨ, ਇਕਸੁਰਤਾ, ਨੂੰ ਰੁਜ਼ਗਾਰ ਦੇਣ ਵਾਲੀ ਸੰਗੀਤਕ ਰਚਨਾ ਬਣਾਉਣ ਲਈ ਸੁਣਨਯੋਗ ਆਵਾਜ਼ਾਂ ਅਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨਾ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰਨ ਦਾ ਹੁਨਰ ਹੈ|
+1039	Okay. So what about the final one?	ਠੀਕ ਹੈ, ਫਿਰ ਅੰਤਿਮ ਇੱਕ ਬਾਰੇ ਕੀ ?
+1040	Theater is a type of art in which the artist incorporates both visual and dramatic elements.	ਰੰਗ ਮੰਚ ਕਲਾ ਦੀ ਇੱਕ ਕਿਸਮ ਹੈ ਜਿਸ ਵਿੱਚ ਕਲਾਕਾਰ ਦ੍ਰਿਸ਼ ਅਤੇ ਨਾਟਕੀ ਤੱਤਾਂ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰਦਾ ਹੈ|
+1041	Since the 6th century BC, when the Ancient Greeks invented theatre, it has been a component of civilization.	6 ਵੀ ਬਿ. ਸਿ ਤੋਂ ਜਦੋਂ ਪ੍ਰਾਚੀਨ ਯੂਨਾਨੀਆਂ ਨੇ ਥੀਏਟਰ ਦੀ ਖੋਜ ਕੀਤੀ ਸੀ, ਓਦੋਂ ਤੋਂ ਇਹ ਸੱਭਿਆਚਾਰ ਦਾ ਹਿੱਸਾ ਰਿਹਾ ਹੈ|
+1042	Great!	ਬਹੁਤ ਵਧੀਆ!
+1043	Sir, please take a look at our gallery and provide your important comments in the comment box.	ਸਰ, ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਨਜ਼ਰ ਸਾਡੀ ਗੈਲਰੀ ਵੱਲ ਮਾਰੋ ਅਤੇ ਸਾਨੂੰ ਆਪਣੇ ਮਹੱਤਵਪੂਰਣ ਸੁਝਾਅ ਕੱਮੇਂਟ ਬਾਕਸ ਵਿੱਚ ਦਿਓ|
+1044	Sure, thank you!	ਜ਼ਰੂਰ, ਧੰਨਵਾਦ!
+1045	Hi, Naman! This is Rahul.	ਹਾਏ, ਨਮਨ! ਮੈਂ ਰਾਹੁਲ ਬੋਲ ਰਿਹਾ ਹੈ
+1046	How have you been doing?	ਕਿ ਹਾਲ ਹੈ ਤੁਹਾਡਾ ?
+1047	Hi, Rahul! I'm so glad you called.	ਹਾਏ, ਰਾਹੁਲ ! ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਈ ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਫੋਨ ਕਿਤਾ
+1048	I have been busy lately.	ਅੱਜ ਕੱਲ ਮੈਂ ਵਿਅਸਤ ਹਾਂ
+1049	I am researching the famous museums in India for my project.	ਮੈਂ ਆਪਣੇ ਪ੍ਰਾਜੈਕਟ ਲਈ ਭਾਰਤ ਦੇ ਮਸ਼ੂਰ ਅਜਾਇਬ- ਘਰਾਂ ਬਾਰੇ ਖੋਜ ਕਰ ਰਿਹਾ ਹੈ
+1050	Wow... That sounds great!	ਕਿਆ ਬਾਤ ਹੈ! ਇਹ ਤਾਂ ਬਹੁਤ ਵਧਿਆ ਗੱਲ ਹੈ
+1051	How is your project going?	ਤੁਹਾਡਾ ਪ੍ਰਾਜੈਕਟ ਕਿਸ ਤਰਹ ਚੱਲ ਰਿਹਾ ਹੈ?
+1052	Well, I know there are so many museums in India.	ਵੇਸੇ ਤਾਂ ਮੈਨੂੰ ਪਤਾ ਹੈ ਕਿ ਭਾਰਤ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਅਜਾਇਬ- ਘਰ ਹਨ
+1053	But, I would like to include only the most famous ones.	ਪਰ ਮੈਂ ਸਿਰਫ਼ ਸਭ ਤੋਂ ਮਸ਼ੂਰ ਵਾਲੇ ਗਿਨ ਰਹੀ ਹੈ
+1054	Are you still working for the tourist company?	ਕਿ ਤੁਸੀਂ ਅਜੇ ਵੀ ਸੈਰ-ਸਪਾਟਾ ਵਾਲੀ ਕੰਪਨੀ ਨਾਲ ਕੰਮ ਕਰ ਰਹੇ ਹੋ?
+1055	Yes, I am still working in Yatra travel and tours.	ਹਾਂ, ਮੈਂ ਯਾਤਰਾ ਟ੍ਰੈਵਲ ਐਂਡ ਟੌਰ ਨਾਲ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ
+1056	Great! Could you please help me out here?	ਬਹੁਤ ਵਧੀਆ! ਕਿ ਤੁਸੀਂ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?
+1057	Yeah! I think you can include the three most famous museums in India.	ਹਾਂ! ਮੇਰੇ ਹਿਸਾਬ ਨਾਲ ਤੁਸੀਂ ਭਾਰਤ ਦੇ ਤਿੰਨ ਸਭ ਤੋਂ ਜਿਆਦਾ ਮਸ਼ੂਰ ਅਜਾਇਬ- ਘਰ ਸ਼ਾਮਿਲ ਕਰ ਸਕਦੇ ਹੋ
+1058	They are the National Museum Delhi, Indian Museum Kolkata, and Government Museum Chennai.	ਇਹ ਹਨ ਨੈਸ਼ਨਲ ਮਿਊਜ਼ੀਅਮ ਦਿੱਲੀ, ਇੰਡੀਅਨ ਮਿਊਜ਼ੀਅਮ ਕੋਲਕਾਤਾ, ਅਤੇ ਸਰਕਾਰੀ ਮਿਊਜ਼ੀਅਮ ਚੇਨਈ।
+1059	Great! That's good to know.	ਬਹੁਤ ਵਧੀਆ! ਇਹ ਸੁਣ ਕੇ ਅਚਾ ਲਗਿਆ
+1060	Why are they so important?	ਇਹ ਇੰਨੇ ਜਰੂਰੀ ਕਿਉ ਹਨ?
+1061	National Museum has diverse articles from the magnificent ancient era.	ਨੈਸ਼ਨਲ ਮਿਊਜ਼ੀਅਮ ਦੇ ਵਿੱਚ ਸ਼ਾਨਦਾਰ ਪ੍ਰਾਚੀਨ ਯੁੱਗ ਦੇ ਵੱਖ ਵੱਖ ਲੇਖ ਹਨ
+1062	It was constructed in 1949 on the corner of Janpath in the lively city of Delhi.	ਇਹ 1949 ਵਿੱਚ ਦਿਲੀ ਦੇ ਜੰਪਥ ਦੇ ਕੋਨੇ ਵਿੱਚ ਬਣਿਆ ਸੀ
+1063	What do they display?	ਉਸ ਵਿੱਚ ਕਿਸ ਚੀਜ਼ ਦੀ ਪ੍ਰਦਰਸ਼ਨੀ ਹੈ?
+1064	It houses a variety of collections that include jewelry, paintings, armors, decorative arts, and manuscripts.	ਉਸ ਵਿੱਚ ਕਈ ਤਰ੍ਹਾਂ ਦੇ ਸੰਗ੍ਰਹਿ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਗਹਿਣੇ, ਚਿੱਤਰਕਾਰੀ, ਸ਼ਸਤਰ, ਸਜਾਵਟੀ ਕਲਾ ਅਤੇ ਹੱਥ-ਲਿਖਤਾਂ ਸ਼ਾਮਲ ਹਨ।
+1065	Wow... What about the Indian museum?	ਵਾਹ! ਅਤੇ ਭਾਰਤੀ ਮਯੂਜ਼ਿਯਮ?
+1066	It possesses six sections containing five galleries of creative and scientific work of art that are archaeology, geology, economic beauty, and art.	ਇਸ ਵਿੱਚ ਛੇ ਭਾਗ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਕਲਾ ਦੇ ਰਚਨਾਤਮਕ ਅਤੇ ਵਿਗਿਆਨਕ ਕੰਮ ਦੀਆਂ ਪੰਜ ਗੈਲਰੀਆਂ ਹਨ ਜੋ ਕਿ ਪੁਰਾਤੱਤਵ, ਭੂ-ਵਿਗਿਆਨ, ਆਰਥਿਕ ਸੁੰਦਰਤਾ ਅਤੇ ਕਲਾ ਹਨ।
+1067	Great! Is it one of the oldest museums in the world?	ਕਿਆ ਬਾਤ ਹੈ! ਕਿ ਇਹ ਦੁਨਿਆ ਦਾ ਸਭ ਤੋਂ ਪੁਰਾਣਾ ਅਜਾਇਬ ਘਰ ਹੈ?
+1068	Yes, It was established in 1814 by the Asiatic Society of Bengal in Kolkata.	ਹਾਂ, ਇਹ ਕਲਕੱਤਾ ਵਿੱਚ 1814 ਵਿੱਚ ਬੰਗਾਲ ਏਸ਼ੀਆਟਿਕ ਸੁਸਾਇਟੀ ਦੁਵਾਰਾਂ ਸਤਾਂਪਹਿਥ ਕਿਤਾ ਗਿਆ ਸੀ I
+1069	That's interesting. Why is the Government museum so famous?	ਇਹ ਤਾਂ ਕਾਫ਼ੀ ਦਿਲਚਸਪ ਹੈ.I ਸਰਕਾਰੀ ਅਜਾਇਬ ਘਰ ਇੰਨਾ ਮਸ਼ਹੂਰ ਕਿਉਂ ਹੈ?
+1070	The Government Museum exhibits different varieties of geology, zoology, anthropology, and botany.	ਸਰਕਾਰੀ ਅਜਾਇਬ ਘਰ ਭੂ-ਵਿਗਿਆਨ, ਜੀਵ-ਵਿਗਿਆਨ, ਮਾਨਵ-ਵਿਗਿਆਨ ਅਤੇ ਬਨਸਪਤੀ ਵਿਗਿਆਨ ਦੀਆਂ ਵੱਖ-ਵੱਖ ਕਿਸਮਾਂ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਦਾ ਹੈ।
+1071	Established during the British Epoch in 1851, the museum is an ideal place for people who are inclined toward history and art.	ਇਹ 1851 ਵਿੱਚ ਬ੍ਰਿਟਿਸ਼ ਕਾਲ ਦੌਰਾਨ ਸਥਾਪਿਤ ਕੀਤਾ ਗਿਆ ਸੀ, ਇਹ ਅਜਾਇਬ ਘਰ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਲਈ ਇੱਕ ਆਦਰਸ਼ ਸਥਾਨ ਹੈ ਜੋ ਇਤਿਹਾਸ ਅਤੇ ਕਲਾ ਵੱਲ ਸ਼ੋਕ ਰੱਖਦੇ ਹਨ।
+1072	Do you have questions?	ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਸੁਵਾਲ ਹਨ?
+1073	No, thank you very much for sharing this.	ਨਹੀਂ, ਇਹ ਸਭ ਜਾਣਕਾਰੀ ਮੇਰੇ ਨਾਲ ਸਾਂਝੀ ਕਰਣ ਲਈ ਬਹੁਤ ਸ਼ੁਕਰੀਆ
+1074	I'll make a note of them.	ਮੈਂ ਇਸ ਨੂੰ ਲਿੱਖ ਲਵਾਂਗੀ
+1075	You are welcome!	ਤੁਹਾਡਾ ਧੰਨਵਾਦ
+1076	Thank you for visiting the Literary Aid Association.	ਲਿਟਰੇਰੀ ਏਡ ਸੋਸਾਇਟੀ ਦਾ ਦੌਰਾ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਬਹੁਤ ਧੰਨਵਾਦ|
+1077	What can I do to assist you?	ਮੈਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?
+1078	Thank you very much!	ਤੁਹਾਡਾ ਬਹੁਤ ਬਹੁਤ ਧੰਨਵਾਦ|
+1079	I'd like to ask you a few questions about literary art in India.	ਮੈਂ ਤੁਹਾਨੂੰ ਭਾਰਤ ਦੀ ਸਾਹਿਤਕ ਕਲਾ ਬਾਰੇ ਕੁੱਝ ਸਵਾਲ ਪੁੱਛਣਾ ਚਾਹੁੰਦਾ ਹਾਂ|
+1080	Okay, that's alright. I will try to help you with my knowledge and understanding.	ਔਕੇ, ਠੀਕ ਹੈ| ਮੈਂ ਆਪਣੇ ਗਿਆਨ ਅਤੇ ਸਮਝ ਨਾਲ ਤੁਹਾਡੀ ਮਦਦ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗਾ|
+1081	What is the definition of literary art?	ਸਾਹਿਤਕ ਕਲਾ ਦੀ ਪਰਿਭਾਸ਼ਾ ਕੀ ਹੈ?
+1082	Literary arts are works of literature that are beautiful in style, theme, characters, or storyline. Lyric poems, dramas, short tales, and novels are all examples.	ਸਾਹਿਤਕ ਕਲਾਵਾਂ ਸਾਹਿਤ ਦੀਆਂ ਉਹ ਰਚਨਾਵਾਂ ਹਨ ਜੋ ਸ਼ੈਲੀ, ਥੀਮ, ਕਿਰਦਾਰ, ਜਾਂ ਕਹਾਣੀ ਵਿੱਚ ਖੂਬਸੂਰਤ ਹਨ I ਗੀਤਕਾਰੀ ਕਵਿਤਾਵਾਂ, ਨਾਟਕ, ਛੋਟੀਆਂ ਕਹਾਣੀਆਂ ਅਤੇ ਨਾਵਲ ਇਹ ਸਭ ਉਦਾਹਰਣ ਹਨ।
+1083	What is the importance of literary arts?	ਸਾਹਿਤਕ ਕਲਾਵਾਂ ਦਾ ਕੀ ਮਹੱਤਵ ਹੈ?
+1084	It allows us to exchange knowledge about anything in ways that aren't possible to express verbally.	ਇਹ ਸਾਨੂੰ ਕਿਸੇ ਵੀ ਚੀਜ਼ ਬਾਰੇ ਗਿਆਨ ਦਾ ਆਦਾਨ-ਪ੍ਰਦਾਨ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਬੋਲ ਕੇ ਦੱਸਣਾ ਸੰਭਵ ਨਹੀਂ ਹੁੰਦਾ|
+1085	We find a method to express our feelings, ideas, experiences, and whatever else comes to mind by writing.	ਅਸੀਂ ਆਪਣੀ ਭਾਵਨਾਵਾਂ, ਯੋਜਨਾ, ਤਜੁਰਬੇ, ਅਤੇ ਜੋ ਵੀ ਸਾਡੇ ਦਿਮਾਗ ਵਿੱਚ ਆਉਂਦਾ ਹੈ ਉਸਨੂੰ ਲਿਖ ਕੇ ਪ੍ਰਗਟ ਕਰਨ ਦਾ ਇੱਕ ਤਰੀਕਾ ਲੱਭਿਆ ਹੈ |
+1086	Okay. Which is the earliest literature of India?	ਠੀਕ ਹੈ, ਭਾਰਤ ਦਾ ਸਭ ਤੋਂ ਪਹਿਲਾ ਸਾਹਿਤ ਕਿਹੜਾ ਸੀ?
+1087	The Vedas are India's oldest known works of literature.	ਵੇਦ ਭਾਰਤ ਦੀਆਂ ਸਭ ਤੋਂ ਪੁਰਾਣੀਆਂ ਵਧੀਆ ਜਾਣੀਆਂ ਜਾਂਦੀਆਂ ਰਚਨਾਵਾਂ ਹਨ|
+1088	They were written in Sanskrit and passed down from generation to generation orally.	ਉਹ ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਲਿਖੀਆਂ ਗਈਆਂ ਸਨ ਅਤੇ ਪੀੜ੍ਹੀ ਦਰ ਪੀੜ੍ਹੀ ਜੁਬਾਨੀ ਤੌਰ 'ਤੇ ਪਾਸ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ|
+1089	Which are the genres of Literary art in India?	ਭਾਰਤ ਵਿੱਚ ਸਾਹਿਤਕ ਕਲਾ ਦੀਆਂ ਕਿਹੜੀਆਂ ਸ਼ੈਲੀਆਂ ਹਨ?
+1090	Prose, Drama, and Poetry are the three major genres.	ਵਾਰਤਕ, ਡਰਾਮਾ ਅਤੇ ਕਵਿਤਾ ਉਹ ਤਿੰਨ ਪ੍ਰਮੁੱਖ ਸ਼ੈਲੀਆਂ ਹਨ|
+1091	Prose is a type of literature that follows a predictable pattern of conversation and syntax.	ਵਾਰਤਕ ਸਾਹਿਤ ਦੀ ਇੱਕ ਕਿਸਮ ਹੈ ਜੋ ਗੱਲਬਾਤ ਅਤੇ ਵਾਕ ਵਿਗਿਆਨ ਦੇ ਇੱਕ ਅਨੁਮਾਨਯੋਗ ਪੈਟਰਨ ਦੀ ਪਾਲਣਾ ਕਰਦੀ ਹਾਂ |
+1092	A metrical story might be fiction or nonfiction, and it can cover a wide range of topics.	ਇੱਕ ਮੈਟ੍ਰਿਕਲ ਕਹਾਣੀ ਗਲਪ ਜਾਂ ਗੈਰ-ਕਲਪਨਾ ਹੋ ਸਕਦੀ ਹੈ, ਅਤੇ ਇਹ ਬਹੁਤ ਸਾਰੇ ਵਿਸ਼ਿਆਂ ਨੂੰ ਕਵਰ ਕਰ ਸਕਦੀ ਹੈ|
+1093	Poetry, on the other hand, is a literary work that employs rhyme, rhythm, and other techniques to communicate a powerful feeling or concept.	ਕਵਿਤਾ, ਦੂਜੇ ਪਾਸੇ, ਇੱਕ ਸਾਹਿਤਕ ਰਚਨਾ ਹੈ ਜੋ ਥਾਈਮ ਨੂੰ ਰੋਜ਼ਗਾਤ ਦਿੰਦੀ ਹੈ| ਥਾਈਮ ਅਤੇ ਇੱਕ ਸ਼ਕਤੀਸ਼ਾਲੀ
+1094	What was India's first literary language?	ਭਾਰਤ ਦੀ ਪਹਿਲੀ ਸਾਹਿਤਕ ਭਾਸ਼ਾ ਕੀ ਸੀ?
+1095	Sanskrit is the world's oldest language.	ਸੰਸਕ੍ਰਿਤ ਦੁਨੀਆਂ ਦੀ ਸਭ ਤੋਂ ਪੁਰਾਣੀ ਭਾਸ਼ਾ ਹੈ|
+1096	Could you please expand on this?	ਕੀ ਤੁਸੀਂ ਇਸ ਬਾਰੇ ਖੁੱਲ ਕੇ ਦਸ ਸਕਦੇ ਹੋ?
+1097	Sure! Since the Shruti Parampara, Sanskrit literature has been passed down to us by oral tradition.	ਬਿਲਕੁੱਲ! ਸ਼੍ਰੂਤੀ ਪਰੰਪਰਾ ਤੋਂ ਲਈ ਕੇ , ਸੰਸਕ੍ਰਿਤ ਸਾਹਿਤ ਸਾਨੂੰ ਮੌਖਿਕ ਪਰੰਪਰਾ ਦੁਆਰਾ ਦਿੱਤਾ ਗਿਆ ਹੈ|
+1098	The maximum number of works is limited to poetry.	ਰਚਨਾਵਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ ਕਵਿਤਾਵਾਂ ਤੱਕ ਸੀਮਿਤ ਹੈ|
+1099	A continuous flow of Sanskrit works in poetry can be traced back to the Rigveda, the oldest document in world literature.	ਕਵਿਤਾ ਵਿੱਚ ਸੰਸਕ੍ਰਿਤ ਰਚਨਾਵਾਂ ਦਾ ਨਿਰੰਤਰ ਪ੍ਰਵਾਹ ਵਿਸ਼ਵ ਸਾਹਿਤ ਦਾ ਸਭ ਤੋਂ ਪੁਰਾਣੇ ਦਸਤਾਵੇਜ਼ ਰਿਗਵੇਦ ਤੋਂ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ|
+1100	That's fantastic!	ਇਹ ਸ਼ਾਨਦਾਰ ਹੈ!
+1101	Sir, thank you for your excellent explanations.	ਸਰ, ਤੁਹਾਡੇ ਸ਼ਾਨਦਾਰ ਸਪੱਸ਼ਟੀਕਰਨ ਲਈ ਤੁਹਾਡਾ ਬਹੁਤ ਧੰਨਵਾਦ|
+1102	You are welcome at any time!	ਤੁਹਾਡਾ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੁਆਗਤ ਹੈ!
+1103	Have a wonderful day!	ਤੁਹਾਡਾ ਦਿਨ ਸ਼ਾਨਦਾਰ ਰਹੇ!
+1104	Bye!	ਬਾਏ!
+1105	Hello, I am calling to enquire about the visiting hours at the Qutub Minar.	ਹੈਲੋ, ਮੈਂ ਕੁਤੁਬ ਮਿਨਾਰ ਵਿੱਚ ਘੁੰਮਣ ਦੇ ਸਮੇਂ ਬਾਰੇ ਪੁੱਛਣਾ ਚਾਉਂਦੀ ਹਾਂ I
+1106	Yes, the monument is open on all days and you can visit any time between 7:00 am and 5:00 pm.	ਜੀ, ਇਹ ਸਮਾਰਕ ਸਾਰੇ ਦਿਨਾਂ ਤੇ ਖੁਲੀ ਹੁੰਦੀ ਹੈ ਅਤੇ ਤੁਸੀਂ 7:00 ਏ.ਐਮ ਤੇ 5:00 ਪਿ.ਐਮ ਦੇ ਵਿਚਕਾਰ ਕਦੇ ਵੀ ਘੁੰਮ ਸਕਦੇ ਹੋ I
+1107	What is the entry fee for adults?	ਬਾਲਗਾਂ ਲਈ ਦਾਖ਼ਲਾ ਫ਼ੀਸ ਕਿੰਨੀ ਹੈ?
+1108	There is no different entry fee for adults.	ਬਾਲਗਾਂ ਲਈ ਕੋਈ ਅਲੱਗ ਦਾਖ਼ਲਾ ਫ਼ੀਸ ਨਹੀਂ ਹੈ I
+1109	It depends on whether you are an Indian or a foreigner.	ਇਹ ਉਸ ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ ਜੇਕਰ ਤੁਸੀਂ ਭਾਰਤੀ ਹੋ ਜਾਂ ਵਿਦੇਸ਼ੀ I
+1110	For Indians it is 35 rupees and for foreigners it's 550 rupees.	ਭਾਰਤੀਆ ਲਈ ਇਹ 35 ਰੁਪਏ ਹੈ ਅਤੇ ਵਿਦੇਸ਼ੀਆ ਲਈ 550 ਰੁਪਏ I
+1111	I see. I am a student at Jadavpur University.	ਅੱਛਾ I ਮੈਂ ਜਾਦਵਪੁਰ ਯੂਨੀਵਰਸਿਟੀ ਵਿੱਚ ਵਿਦਿਆਰਥੀ ਹਾਂ I
+1112	Is there a student discount that I can avail?	ਕਿ ਕੋਈ ਵਿਦਿਆਰਥੀ ਛੁੱਟ ਹੈ ਜੋ ਮੈਂ ਉਪਲਬੱਧ ਕਰ ਸਕਦਾ ਹਾਂ ?
+1113	I am planning on bringing four of my friends as well.	ਮੈਂ ਸੋਚ ਰਹੀ ਸੀ ਆਪਣੀ ਸਹਿਲੀਆ ਨੂੰ ਵੀ ਨਾਲ ਲੈ ਆਉਂਗੀ I
+1114	There is no student discount as such.	ਕੋਈ ਵਿਦਿਆਰਥੀ ਛੁੱਟ ਤਾਂ ਨਹੀਂ ਹੈ I
+1115	But you can get a discount if you purchase the tickets online or scan a QR code for payment.	ਪਰ ਜੇਕਰ ਤੁਸੀਂ ਔਨਲਾਇਨ ਟਿਕਟ ਲੈਂਦੇ ਹੋ ਜਾ ਭੁਗਤਾਨ ਲਈ ਕਯੁ.ਆਰ ਕੋਡ ਸਕੈਨ ਕਰਦੇ ਹੋ ਤਾਂ ਛੁੱਟ ਮਿਲ ਸਕਦੀ ਹੈ I
+1116	Ok, here is my number.	ਠੀਕ ਹੈ , ਇਹ ਮੇਰਾ ਨੰਬਰ ਹੈ I
+1117	Could you please send me a link to the website on WhatsApp?	ਕਿ ਤੁਸੀਂ ਮੈਨੂੰ ਵੇਬਸਾਇਟ ਦਾ ਲਿੰਕ ਵਾਟਸਐਪ ਤੇ ਭੇਜ ਸਕਦੇ ਹੋ?
+1118	Sure, I can do that.	ਜ਼ਰੂਰ, ਮੈਂ ਕਰ ਦਿਨਾਂ ਹਾਂ I
+1119	You can book the tickets well in advance this way.	ਤੁਸੀਂ ਇਸ ਤਰੀਕੇ ਨਾਲ ਟਿਕਟਾਂ ਪਹਿਲਾਂ ਹੀ ਬੁੱਕ ਕਰ ਸਕਦੇ ਹੋ I
+1120	Ok, which hours are the least busy?	ਠੀਕ ਹੈ, ਕਿਹੜੇ ਘੰਟੇ ਸਭ ਤੋਂ ਘੱਟ ਭੀੜ ਵਾਲੇ ਹਨ?
+1121	My friends and I need to visit the Qutub Minar to shoot a documentary.	ਮੇਰੀ ਸਹਿਲੀਆ ਤੇ ਮੈਂ ਇੱਕ ਦਸਤਾਵੇਜ਼ੀ ਦੀ ਸ਼ੂਟਿੰਗ ਕਰਨ ਕੁਤੁਬ ਮਿਨਾਰ ਦੇਖਣਾ ਚਾਉਂਦੇ ਹਾਂ I
+1122	So, it would be ideal if we could avoid the crowd.	ਸੋ, ਵਧਿਆਂ ਹੋਵੇਗਾ ਜੇਕਰ ਅਸੀਂ ਭੀੜ ਤੋਂ ਬੱਚ ਸਕਦੇ ਹਾਂ I
+1123	The monument is busy most of the time but especially from November to March because that is the best time for visiting it.	ਇਹ ਸਮਾਰਕ ਜ਼ਿਆਦਾਤਰ ਵਿਅਸਤ ਹੀ ਹੁੰਦਾ ਹੈ ਖ਼ਾਸ ਕਰ ਕੇ ਨਵੰਬਰ ਤੋਂ ਮਾਰਚ ਤੱਕ ਕਿਉਂਕਿ ਓਦੋਂ ਇਹ ਵੇਖਣ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮੇਂ ਹੈ।
+1124	The crowds have deteriorated a little due to covid so if you come early morning you should be able to shoot in peace.	ਕੋਵਿਡ ਕਾਰਣ ਭੀੜਾਂ ਥੋੜੀਆਂ ਘੱਟ ਹੋਈਆਂ ਹਨ ਇਸਲਈ ਜੇ ਤੁਸੀਂ ਤੜਕੇ ਆਉਂਦੇ ਹੋ ਤਾਂ ਆਰਮ ਨਾਲ ਸ਼ੂਟਿੰਗ ਕਰ ਸਕਦੇ ਹੋ I
+1125	Ok, early morning, I will keep that in mind.	ਠੀਕ ਹੈ, ਸਵੇਰੇ ਜਲਦੀ, ਮੈਂ ਇਸ ਗੱਲ ਨੂੰ ਦਿਮਾਗ ਵਿੱਚ ਰੱਖਾਂਗੀ I
+1126	Can we go to the top of the tower?	ਕਿ ਅਸੀਂ ਮਿਨਾਰ ਦੇ ਉੱਪਰ ਚੱੜ ਸਕਦੇ ਹਾਂ ?
+1127	It would be amazing if we could include the view from the top of the Minar in our documentary.	ਜੇਕਰ ਅਸੀਂ ਆਪਣੀ ਡਾਕੂਮੈਂਟਰੀ ਲਈ ਮੀਨਾਰ ਦੇ ਸਿਖਰ ਤੋਂ ਲਏ ਦ੍ਰਿਸ਼ ਨੂੰ ਸ਼ਾਮਲ ਕਰ ਸਕੀਏ ਤਾਂ ਕਮਾਲ ਹੀ ਹੋ ਜਾਊਗਾ I
+1128	It was possible earlier, but it is now banned because of an accident that occurred some time ago.	ਇਹ ਪਹਿਲਾਂ ਸੰਭਵ ਸੀ ਪਰ ਕੁੱਛ ਸਮੇਂ ਪਹਿਲਾਂ ਹੋਏ ਇੱਕ ਹਾਦਸੇ ਕਾਰਣ ਹੁਣ ਇਸ ਤੇ ਰੋਕ ਲਾ ਦਿੱਤੀ ਗਈ ਹੈ I
+1129	I'm sure you'll get many beautiful shots of the monument from the outside.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਤੁਹਾਨੂੰ ਬਾਹਰੋਂ ਹੀ ਮੀਨਾਰ ਦੇ ਲਈ ਖੂਬਸੂਰਤ ਦ੍ਰਿਸ਼ ਮਿਲ ਜਾਣਗੇ I
+1130	Oh, that's disappointing.	ਓਹ, ਇਹ ਨਿਰਾਸ਼ਾਜਨਕ ਹੈ।
+1131	But I guess we'll do with what we can get.	ਪਰ ਹੁਣ ਹੋ ਹੈ ਉਸੇ ਨਾਲ ਕੰਮ ਚਲਾਵਾਂਗੇ I
+1132	It is ok to use a camera there, right?	ਉੱਥੇ ਕੈਮਰੇ ਦਾ ਉਪਯੋਗ ਤਾਂ ਕਰ ਸਕਦੇ ਹਾਂ, ਨਾ?
+1133	Yes, of course, cameras are allowed.	ਹਾਂ, ਜ਼ਰੂਰ, ਕੈਮਰੇ ਉਪਯੋਗ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।
+1134	Good morning, how was your trip to Maharashtra?	ਸਤ ਸ਼੍ਰੀ ਅਕਾਲ, ਤੁਹਾਡਾ ਮਹਾਰਾਸ਼ਟਰ ਦਾ ਦੌਰਾ ਕਿਹੋ ਜਿਹਾ ਰਿਹਾ?
+1135	Hello, it was amazing.	ਸਤ ਸ਼੍ਰੀ ਅਕਾਲ, ਬਹੁਤ ਵਧੀਆ ਸੀ I
+1136	I visited so many places and explored so much from local food to some well-known places.	ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਘੂਮੀਆ ਅਤੇ ਸਥਾਨਕ ਭੋਜਨ ਤੋਂ ਲੈ ਕੇ ਕੁਝ ਜਾਣੀਆਂ-ਪਛਾਣੀਆਂ ਥਾਵਾਂ ਤੱਕ ਬਹੁਤ ਕੁੱਛ ਘੂਮੀਆ I
+1137	You have to tell me everything, after all, you left me here and went alone for a week-long trip.	ਤੁਹਾਨੂੰ ਮੈਨੂੰ ਸਭ ਕੁਝ ਦੱਸਣਾ ਪਏਗਾ, ਆਖ਼ਰਕਾਰ, ਤੁਸੀਂ ਮੈਨੂੰ ਇੱਥੇ ਛੱਡ ਕੇ ਹਫ਼ਤੇ ਭਰ ਦੀ ਯਾਤਰਾ ਲਈ ਇਕੱਲੇ ਚਲੇ ਗਏ ਸੀ.ਤੁਹਾਨੂੰ ਮੈਨੂੰ ਸਭ ਕੁਝ ਦੱਸਣਾ ਪਏਗਾ, ਆਖ਼ਰਕਾਰ, ਤੁਸੀਂ ਮੈਨੂੰ ਇੱਥੇ ਛੱਡ ਕੇ ਹਫ਼ਤੇ ਭਰ ਦੀ ਯਾਤਰਾ ਲਈ ਇਕੱਲੇ ਚਲੇ ਗਏ ਸੀ.
+1138	You too must take a trip to Maharashtra.	ਤੁਹਾਨੂੰ ਵੀ ਮਹਾਰਾਸ਼ਟਰ ਦੀ ਸੈਰ ਜ਼ਰੂਰ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ I
+1139	There are so many places you can visit, and especially when you are into historical places.	ਇੱਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਹਨ ਜਿੱਥੇ ਤੁਸੀਂ ਜਾ ਸਕਦੇ ਹੋ, ਅਤੇ ਖਾਸ ਕਰਕੇ ਜੇਕਰ ਤੁਸੀਂ ਇਤਿਹਾਸਕ ਸਥਾਨਾਂ ਵਿੱਚ ਦਿਲਚਸਪੀ ਰਖਦੇ ਹੋ I
+1140	Yea, I heard a lot about the historical heritage of Maharashtra.	ਹਾਂ, ਮੈਂ ਮਹਾਰਾਸ਼ਟਰ ਦੀ ਇਤਿਹਾਸਕ ਵਿਰਾਸਤ ਬਾਰੇ ਬਹੁਤ ਕੁਝ ਸੁਣਿਆ ਹੈ।
+1141	Did you visit Aurangabad?	ਕੀ ਤੁਸੀਂ ਔਰੰਗਾਬਾਦ ਵੀ ਗਏ ਸੀ?
+1142	Obviously, I couldn't take the chance of missing it this time.	ਹੋਰ ਕੀ, ਮੈਂ ਇਸ ਵਾਰ ਉੱਥੇ ਜਾਣ ਦਾ ਮੌਕਾ ਗੁਆਉਣ ਨਹੀਂ ਸਕਦਾ ਸੀ।
+1143	I have already read so much about these places and last time I was out of time to visit Aurangabad.	ਮੈਂ ਇਹਨਾਂ ਸਥਾਨਾਂ ਬਾਰੇ ਪਹਿਲਾਂ ਹੀ ਬਹੁਤ ਕੁਝ ਪੜ੍ਹ ਚੁੱਕਾ ਸੀ ਅਤੇ ਪਿਛਲੀ ਵਾਰ ਔਰੰਗਾਬਾਦ ਜਾਣ ਲਈ ਮੇਰੇ ਕੋਲ ਸਮੇਂ ਨਹੀਂ ਸੀ।
+1144	How many days did you spend there and what all did you see?	ਤੁਸੀਂ ਉੱਥੇ ਕਿੰਨੇ ਦਿਨ ਬਿਤਾਏ ਅਤੇ ਕੀ ਕੁੱਛ ਦੇਖਿਆ?
+1145	This time I was there for almost 10 days so I had quite sometime at my disposal.	ਇਸ ਵਾਰ ਮੈਂ ਉੱਥੇ ਲਗਭਗ 10 ਦਿਨਾਂ ਲਈ ਸੀ ਇਸ ਲਈ ਮੇਰੇ ਕੋਲ ਕਾਫ਼ੀ ਸਮਾਂ ਸੀ।
+1146	I visited the famous Ajanta and Ellora caves.	ਮੈਂ ਮਸ਼ਹੂਰ ਅਜੰਤਾ ਅਤੇ ਐਲੋਰਾ ਗੁਫਾਵਾਂ ਦਾ ਦੌਰਾ ਕੀਤਾ।
+1147	Ajanta Caves, one of the oldest historical places in Aurangabad are known popularly for their cave paintings and Buddhist sculptures.	ਅਜੰਤਾ ਗੁਫਾਵਾਂ, ਔਰੰਗਾਬਾਦ ਦੇ ਸਭ ਤੋਂ ਪੁਰਾਣੇ ਇਤਿਹਾਸਕ ਸਥਾਨਾਂ ਵਿੱਚੋਂ ਇੱਕ, ਆਪਣੀਆਂ ਗੁਫਾ ਚਿੱਤਰਾਂ ਅਤੇ ਬੋਧੀ ਮੂਰਤੀਆਂ ਲਈ ਪ੍ਰਸਿੱਧ ਹਨ।
+1148	It is surrounded by lush picturesque hills, these caves exhibit brilliant Indian architecture.	ਇਹ ਹਰੇ ਭਰੇ ਸੁੰਦਰ ਪਹਾੜੀਆਂ ਨਾਲ ਘਿਰਿਆ ਹੋਇਆ ਹੈ, ਇਹ ਗੁਫਾਵਾਂ ਸ਼ਾਨਦਾਰ ਭਾਰਤੀ ਆਰਕੀਟੈਕਚਰ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਦੀਆਂ ਹਨ।
+1149	Ellora Caves are considered to be one of the worlds largest rock-cut caves.	ਐਲੋਰਾ ਗੁਫਾਵਾਂ ਨੂੰ ਦੁਨੀਆ ਦੀਆਂ ਸਭ ਤੋਂ ਵੱਡੀਆਂ ਚੱਟਾਨਾਂ ਦੀਆਂ ਗੁਫਾਵਾਂ ਵਿੱਚੋਂ ਇੱਕ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।
+1150	They are constructed between 600 and 1000 CE, the Ellora Caves consist of 100 Hindu, Jain, and Buddhist caves, out of which 34 are open to visitors.	ਉਹ 600 ਅਤੇ 1000 CE ਦੇ ਵਿਚਕਾਰ ਬਣਾਏ ਗਏ ਹਨ, ਏਲੋਰਾ ਗੁਫਾਵਾਂ ਵਿੱਚ 100 ਹਿੰਦੂ, ਜੈਨ ਅਤੇ ਬੋਧੀ ਗੁਫਾਵਾਂ ਹਨ, ਜਿਨ੍ਹਾਂ ਵਿੱਚੋਂ 34 ਸੈਲਾਨੀਆਂ ਲਈ ਖੁੱਲ੍ਹੀਆਂ ਹਨ।
+1151	Did you saw Kailasanath Temple?	ਕੀ ਤੁਸੀਂ ਕੈਲਾਸਨਾਥ ਮੰਦਰ ਦੇਖਿਆ ਸੀ?
+1152	I heard it's the largest rock-cut monolithic temple.	ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਓਹ ਸਭ ਤੋਂ ਵੱਡਾ ਚੱਟਾਨ-ਕੱਟ ਮੋਨੋਲਿਥਿਕ ਮੰਦਰ ਹੈ।
+1153	Kailasanatha is a stunning cave temple, which is one of the 34 ancient caves of Ellora.	ਕੈਲਾਸਨਾਥ ਇੱਕ ਸ਼ਾਨਦਾਰ ਗੁਫਾ ਮੰਦਰ ਹੈ, ਜੋ ਕਿ ਏਲੋਰਾ ਦੀਆਂ 34 ਪ੍ਰਾਚੀਨ ਗੁਫਾਵਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।
+1154	The 16th cave of the Ellora Caves, Kailasanatha is a monolithic structure built during the Rashtrakuta Dynasty and dedicated to Lord Shiva.	ਏਲੋਰਾ ਗੁਫਾਵਾਂ ਦੀ 16 ਵੀਂ ਗੁਫਾ, ਕੈਲਾਸਨਾਥ ਰਾਸ਼ਟਰਕੁਟ ਰਾਜਵੰਸ਼ ਦੇ ਦੌਰਾਨ ਬਣੀ ਇੱਕ ਅਖੰਡ ਢਾਂਚਾ ਹੈ ਅਤੇ ਭਗਵਾਨ ਸ਼ਿਵ ਨੂੰ ਸਮਰਪਿਤ ਹੈ।
+1155	You mean it's Dravidian architecture?	ਤੁਹਾਡਾ ਮਤਲਬ ਹੈ ਕਿ ਇਹ ਦ੍ਰਾਵਿੜ ਆਰਕੀਟੈਕਚਰ ਹੈ?
+1156	It is completely in Dravida architecture.	ਇਹ ਪੂਰੀ ਤਰ੍ਹਾਂ ਦ੍ਰਵਿੜ ਆਰਕੀਟੈਕਚਰ ਵਿੱਚ ਬਣਿਆ ਹੋਈਆਂ ਹੈ।
+1157	Part of the famous Ajanta Caves, there are a total of 29 rock-cut Buddhist caves that ooze out calmness and serenity, which date back to the 2nd century BC and feature monasteries and chaitya grihas.	ਇਹ ਮਸ਼ਹੂਰ ਅਜੰਤਾ ਗੁਫਾਵਾਂ ਦਾ ਹਿੱਸਾ ਹੈ, ਕੁੱਲ 29 ਚੱਟਾਨਾਂ ਨਾਲ ਕੱਟੀਆਂ ਗਈਆਂ ਬੋਧੀ ਗੁਫਾਵਾਂ ਹਨ ਜੋ ਸ਼ਾਂਤੀ ਅਤੇ ਸਹਿਜਤਾ ਨੂੰ ਦਰਸਾਉਂਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਦੂਜੀ ਸਦੀ ਈਸਵੀ ਪੂਰਵ ਦੀਆਂ ਹਨ ਅਤੇ ਇਸ ਵਿੱਚ ਮੱਠ ਅਤੇ ਚੈਤਿਆ ਗ੍ਰਹਿ ਹਨ।
+1158	The walls of the caves are adorned with beautiful murals and impressive sculptures that tell about the life of Gautama Buddha.	ਗੁਫਾਵਾਂ ਦੀਆਂ ਕੰਧਾਂ ਸੁੰਦਰ ਕੰਧ-ਚਿੱਤਰਾਂ ਅਤੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਮੂਰਤੀਆਂ ਨਾਲ ਸਜੀਆਂ ਹੋਈਆਂ ਹਨ ਜੋ ਗੌਤਮ ਬੁੱਧ ਦੇ ਜੀਵਨ ਬਾਰੇ ਦੱਸਦੀਆਂ ਹਨ।
+1159	True, Buddhist architecture is one of the most ancient achievements of the subcontinent.	ਇਹ ਸੱਚ ਹੈ ਕਿ ਬੋਧੀ ਆਰਕੀਟੈਕਚਰ ਉਪ ਮਹਾਂਦੀਪ ਦੀਆਂ ਸਭ ਤੋਂ ਪੁਰਾਣੀਆਂ ਪ੍ਰਾਪਤੀਆਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।
+1160	What about the Islamic architecture there?	ਉਥੇ ਇਸਲਾਮੀ ਆਰਕੀਟੈਕਚਰ ਕਿਹੋ ਜਿਹਾ ਹੈ ?
+1161	You should definitely visit the Jama Masjid, which is one of the spiritually important Aurangabad monuments and is known popularly for its extraordinary architecture.	ਤੁਹਾਨੂੰ ਜ਼ਰੂਰ ਜਾਮਾ ਮਸਜਿਦ ਦਾ ਦੌਰਾ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ, ਜੋ ਅਧਿਆਤਮਿਕ ਤੌਰ ਤੇ ਮਹੱਤਵਪੂਰਨ ਔਰੰਗਾਬਾਦ ਸਮਾਰਕਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ ਅਤੇ ਇਸਦੀ ਅਸਾਧਾਰਣ ਆਰਕੀਟੈਕਚਰ ਲਈ ਮਸ਼ਹੂਰ ਹੈ।
+1162	This Islamic shrine features a total of 50 polygonal pillars, towering minarets, and awe-inspiring arches.	ਇਸ ਇਸਲਾਮੀ ਅਸਥਾਨ ਵਿੱਚ ਕੁੱਲ 50 ਬਹੁਭੁਜ ਥੰਮ੍ਹ, ਉੱਚੀਆਂ ਮੀਨਾਰਾਂ, ਅਤੇ ਅਦਭੁਤ ਕਤਾਰਾਂ ਹਨ।
+1163	Did you see Aurangabad caves too, which are slightly different from Ajanta and Ellora?	ਕੀ ਤੁਸੀਂ ਔਰੰਗਾਬਾਦ ਦੀਆਂ ਗੁਫਾਵਾਂ ਵੀ ਦੇਖੀਆਂ, ਜੋ ਅਜੰਤਾ ਅਤੇ ਐਲੋਰਾ ਤੋਂ ਥੋੜ੍ਹੀਆਂ ਵੱਖਰੀਆਂ ਹਨ?
+1164	Yes, Excavated back in the 9th century CE, a conglomeration of five ancient Jain caves lie at the popular Ellora Caves and make for one of the most interesting Aurangabad monuments.	ਹਾਂ, 9 ਵੀਂ ਸਦੀ ਈਸਵੀ ਵਿੱਚ ਖੁਦਾਈ ਕੀਤੀ ਗਈ, ਪੰਜ ਪ੍ਰਾਚੀਨ ਜੈਨ ਗੁਫਾਵਾਂ ਦਾ ਇੱਕ ਸਮੂਹ ਪ੍ਰਸਿੱਧ ਏਲੋਰਾ ਗੁਫਾਵਾਂ ਵਿੱਚ ਪਿਆ ਹੈ ਅਤੇ ਔਰੰਗਾਬਾਦ ਦੇ ਸਭ ਤੋਂ ਦਿਲਚਸਪ ਸਮਾਰਕਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।
+1165	Flaunting impressive carvings and paintings, these caves celebrate the beliefs and preachings of Jainism.	ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਨੱਕਾਸ਼ੀ ਅਤੇ ਪੇਂਟਿੰਗਾਂ ਨੂੰ ਚਮਕਾਉਂਦੀਆਂ, ਇਹ ਗੁਫਾਵਾਂ ਜੈਨ ਧਰਮ ਦੇ ਵਿਸ਼ਵਾਸਾਂ ਅਤੇ ਪ੍ਰਚਾਰ ਦਾ ਜਸ਼ਨ ਮਨਾਉਂਦੀਆਂ ਹਨ।
+1166	I think you didn't miss Bibi ka Maqbara, which looks like a replica of the Taj Mahal.	ਮੈਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਬੀਬੀ ਕਾ ਮਕਬਰਾ ਜ਼ਰੂਰ ਵੇਖੀਆਂ ਹੋਣਾ ਹੈ, ਜੋ ਕਿ ਤਾਜ ਮਹਿਲ ਦੀ ਪ੍ਰਤੀਰੂਪ ਹੈ।
+1167	I couldn't miss it for the world.	ਉਸ ਨੂੰ ਮੈਂ ਛੱਡ ਹੀ ਨਹੀਂ ਸਕਦਾ ਸੀ I
+1168	Bibi-ka-Maqbara was built by the last Mughal ruler Aurangzeb in the loving memory of his beloved wife Dilras Banu Begum.	ਬੀਬੀ-ਕਾ-ਮਕਬਰਾ ਨੂੰ ਆਖਰੀ ਮੁਗਲ ਸ਼ਾਸਕ ਔਰੰਗਜ਼ੇਬ ਨੇ ਆਪਣੀ ਪਿਆਰੀ ਪਤਨੀ ਦਿਲਰਾਸ ਬਾਨੋ ਬੇਗਮ ਦੀ ਪਿਆਰੀ ਯਾਦ ਵਿੱਚ ਬਣਾਇਆ ਸੀ।
+1169	It is considered to be the epitome of love and one of the prime historical places in Aurangabad.	ਇਸਨੂੰ ਪਿਆਰ ਦਾ ਪ੍ਰਤੀਕ ਅਤੇ ਔਰੰਗਾਬਾਦ ਦੇ ਪ੍ਰਮੁੱਖ ਇਤਿਹਾਸਕ ਸਥਾਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।
+1170	Made of pure white marble and adorned with intricate carvings, this structure is also one of the largest Aurangabad monuments.	ਸ਼ੁੱਧ ਚਿੱਟੇ ਸੰਗਮਰਮਰ ਦਾ ਬਣਿਆ ਅਤੇ ਗੁੰਝਲਦਾਰ ਨੱਕਾਸ਼ੀ ਨਾਲ ਸ਼ਿੰਗਾਰਿਆ, ਇਹ ਢਾਂਚਾ ਔਰੰਗਾਬਾਦ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਸਮਾਰਕਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।
+1171	Wow! you made me jealous.	ਵਾਹ! ਤੁਸੀਂ ਮੈਨੂੰ ਇਰਸ਼ਾਂ ਵਿੱਚ ਪਾ ਦਿਤਾ ਹੈ I
+1172	Next time I'll join you no matter what.	ਅਗਲੀ ਵਾਰ ਚਾਹੇ ਜੋ ਮਰਜ਼ੀ ਹੋ ਜਾਵੇ ਮੈਂ ਤੁਹਾਡੇ ਨਾਲ ਜ਼ਰੂਰ ਆਉਂਗਾ I
+1173	Hey, Sufi.	ਹੇ, ਸੂਫੀ|
+1174	Are you busy right now?	ਕੀ ਤੁਸੀਂ ਹੁਣ ਵਿਅਸਤ ਹੋ?
+1175	Hey Kirat.	ਹੇ ਕਿਰਤ|
+1176	Not really.	ਕੁੱਝ ਖਾਸ ਨਹੀਂ|
+1177	Tell me.	ਦੱਸੋ|
+1178	I was helping my dadu arrange some of his paperwork.	ਮੈਂ ਆਪਣੇ ਦਾਦਾ ਜੀ ਦੀ ਮਦਦ ਕਰ ਰਿਹਾ ਸੀ ਉਹਨਾਂ ਦੇ ਕੁੱਝ ਕਾਗਜ਼ ਕ੍ਰਮ ਵਿੱਚ ਲਗਾਉਣ 'ਚ|
+1179	And I found a scheme he has invested in but doesn't remember the particulars of.	ਅਤੇ ਮੈਨੂੰ ਇਹ ਸਕੀਮ ਲੱਭੀ ਹੈ ਜਿਸ ਵਿੱਚ ਉਹਨਾਂ ਨੇ ਨਿਵੇਸ਼ ਕੀਤਾ ਸੀ ਪਰ ਉਹਨਾਂ ਨੂੰ ਉਸਦੇ ਵੇਰਵੇ ਯਾਦ ਨਹੀਂ |
+1180	Can you please help me with it?	ਕੀ ਤੁਸੀਂ ਇਸ ਵਿੱਚ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?
+1181	You have worked with an NGO which helped senior citizens with such things.	ਤੁਸੀਂ ਇੱਕ ਐਨ ਜੀ ਓ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ ਜਿਸ ਨੇ ਅਜਿਹੇ ਮਾਮਲਿਆਂ ਵਿੱਚ ਸੀਨੀਅਰ ਨਾਗਰਿਕਾਂ ਦੀ ਮਦਦ ਕੀਤੀ ਹੈ|
+1182	Yeah, yeah.	ਹਾਂ ਹਾਂ|
+1183	Tell me what do you see?	ਦੱਸੋ ਤੁਹਾਨੂੰ ਕੀ ਦਿੱਸ ਰਿਹਾ ਹੈ?
+1184	So the paper reads: PM Vyaya Vandana Yojana.	ਇਹ ਕਾਗਜ਼ ਪੜ੍ਹਦਾ ਹਾਂ: ਪੀ ਐਮ ਵਿਆ ਵੰਦਨਾ ਯੋਜਨਾ|
+1185	What is it about?	ਇਹ ਕਿਸ ਬਾਰੇ ਹੈ?
+1186	What are the benefits?	ਇਸਦੇ ਕੀ ਫਾਇਦੇ ਹਨ?
+1187	How does this work?	ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ?
+1188	Oh, he has invested in that?	ਓਹ, ਉਹਨਾਂ ਨੇ ਇਸ ਵਿੱਚ ਨਿਵੇਸ਼ ਕੀਤਾ ਹੈ?
+1189	It's a good welfare scheme by the governmnet.	ਇਹ ਸਰਕਾਰ ਦੁਆਰਾ ਚਲਾਈ ਗਈ ਇੱਕ ਵਧੀਆ ਕਲਿਆਣ ਯੋਜਨਾ ਹੈ|
+1190	This scheme comes under the Finance Ministry.	ਇਹ ਸਕੀਮ ਵਿੱਤ ਮੰਤਰਾਲੇ ਅਧੀਨ ਆਉਂਦੀ ਹੈ|
+1191	It is created to protect the senior citizens from a financial impact of the market.	ਇਹ ਬਾਜ਼ਾਰ ਦੇ ਵਿੱਤੀ ਪ੍ਰਭਾਵ ਤੋਂ ਸੀਨੀਅਰ ਨਾਗਰਿਕਾਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਬਣਾਈ ਗਈ ਹੈ|
+1192	I don't get it?	ਮੈਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ ਆਇਆ?
+1193	How does it protect them from a dynamic market investment?	ਇਹ ਉਹਨਾਂ ਨੂੰ ਗਤੀਸ਼ੀਲ ਬਾਜ਼ਾਰ ਨਿਵੇਸ਼ ਤੋਂ ਕਿਵੇਂ ਬਚਾਉਂਦਾ ਹੈ?
+1194	Let me explain.	ਮੈਨੂੰ ਸਮਝਾਉਣ ਦਿਓ|
+1195	So, if there is a future fall in the interest income from investment then this scheme provides an alternative from such unpredictable investments.	ਸੋ, ਜੇਕਰ ਨਿਵੇਸ਼ ਤੋਂ ਵਿਆਜ ਆਮਦਨ ਵਿੱਚ ਭਵਿੱਖ ਵਿੱਚ ਗਿਰਾਵਟ ਆਉਂਦੀ ਹੈ ਤਾਂ ਇਹ ਸਕੀਮ ਅਜਿਹੇ ਅਣਪਛਾਤੇ ਨਿਵੇਸ਼ਾਂ ਤੋਂ ਇੱਕ ਵਿਕਲਪ ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ|
+1196	Under this scheme, senior citizens get an assured return of 8 percent on their investment.	ਇਸ ਸਕੀਮ ਤਹਿਤ, ਸੀਨੀਅਰ ਨਾਗਰਿਕ ਨੂੰ ਉਹਨਾਂ ਦੇ ਨਿਵੇਸ਼ 'ਤੇ 8 ਪ੍ਰਤੀਸ਼ਤ ਦੀ ਯਕੀਨੀ ਵਾਪਸੀ ਮਿਲਦੀ ਹੈ|
+1197	And if there is a differential return then that's borne by the government.	ਅਤੇ ਜੇਕਰ ਕੋਈ ਅੰਤਰ ਵਾਪਸੀ ਹੁੰਦੀ ਹੈ ਤਾਂ ਇਹ ਸਰਕਾਰ ਦੁਆਰਾ ਸਹਿਣ ਕੀਤੀ ਜਾਂਦੀ ਹੈ|
+1198	What's a differential return?	ਅੰਤਰ ਵਾਪਸੀ ਕੀ ਹੈ?
+1199	This scheme is in collaboration with LIC.	ਇਹ ਸਕੀਮ ਐਲ ਆਈ ਸੀ ਦੇ ਸਹਿਯੋਗ ਨਾਲ ਚਲਦੀ ਹੈ|
+1200	So, LIC will give an assured 8 percent on your investment.	ਇਸ ਲਈ, ਐਲ ਆਈ ਸੀ ਤੁਹਾਡੇ ਨਿਵੇਸ਼ 'ਤੇ ਇੱਕ ਨਿਸ਼ਚਿਤ 8 ਪ੍ਰਤੀਸ਼ਤ ਦੇਵੇਗਾ|
+1201	If there is a difference, as in if there are any losses, then the government will bear it.	ਜੇਕਰ ਕੋਈ ਫਰਕ ਹੈ, ਜਿਵੇਂ ਕਿ ਕੋਈ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਸਰਕਾਰ ਇਸਨੂੰ ਸਹਿਣ ਕਰੇਗੀ|
+1202	Your investment will still be 8 percent.	ਤੁਹਾਡਾ ਨਿਵੇਸ਼ 8 ਪ੍ਰਤੀਸ਼ਤ 'ਤੇ ਹੀ ਰਹੇਗਾ|
+1203	Oh, alright.	ਓਹ, ਠੀਕ ਹੈ|
+1204	I get it now.	ਹੁਣ ਮੈਨੂੰ ਸਮਝ ਆਂ ਗਿਆ|
+1205	And what about the payouts?	ਅਤੇ ਭੁਗਤਾਨ ਬਾਰੇ ਕੀ ?
+1206	The payouts are monthly for 10 years.	ਭੁਗਤਾਨ 10 ਮਹੀਨਿਆਂ ਲਈ ਮਹਿਨਾਵਾਰ ਹਨ|
+1207	How much has dadu invested?	ਦਾਦਾ ਜੀ ਨੇ ਕਿੰਨੇ ਨਿਵੇਸ਼ ਕੀਤੇ ਹਨ?
+1208	It shows initially 7.5 lakhs and later 15.	ਇਹ ਸ਼ੁਰੂ ਵਿੱਚ 7.5 ਲੱਖ ਅਤੇ ਬਾਅਦ ਵਿੱਚ 15 ਲੱਖ ਦਿਖਾ ਰਿਹਾ ਹੈ|
+1209	Yeah, so it was open for subscription only for one year and the capping of investment was later increased per family.	ਹਾਂ, ਇਸ ਲਈ ਇਹ ਸਿਰਫ਼ ਇੱਕ ਸਾਲ ਲਈ ਗਾਹਕੀ ਲਈ ਖੁੱਲ੍ਹਾ ਸੀ ਅਤੇ ਨਿਵੇਸ਼ ਦੀ ਕੈਪਿੰਗ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਤੀ ਪਰਿਵਾਰ ਵਧਾ ਦਿੱਤੀ ਗਈ ਸੀ|
+1210	This really helps.	ਇਹ ਅਸਲ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ|
+1211	He has no recollection of doing it.	ਉਹਨਾਂ ਨੂੰ ਅਜਿਹਾ ਕਰਨ ਦਾ ਕੁੱਝ ਯਾਦ ਨਹੀਂ|
+1212	I will go to their office and find out more.	ਮੈਂ ਇਹਨਾਂ ਦੇ ਦਫ਼ਤਰ ਜਾਵਾਂਗਾ ਅਤੇ ਹੋਰ ਪਤਾ ਕਰਾਂਗਾ|
+1213	Anytime man.	ਕਦੇ ਵੀ ਬਾਈ|
+1214	Let me know if you need any more information.	ਮੈਨੂੰ ਦੱਸਿਓ ਜੇਕਰ ਤੁਹਾਨੂੰ ਕੋਈ ਹੋਰ ਜਾਣਕਾਰੀ ਚਾਹੀਦੀ ਹੋਈ|
+1215	Take care.	ਧਿਆਨ ਰੱਖੋ|
+1216	Good morning class.	ਸਤ ਸ਼੍ਰੀ ਅਕਾਲ ਜਮਾਤ I
+1217	Everyone, please take your seats.	ਸਭ, ਆਪਣੀ ਕੁਰਸੀਆਂ ਤੇ ਬੈਠ ਜੋ
+1218	Today we will be talking about voters.	ਅੱਜ ਅਸੀਂ ਵੋਟਰਾਂ ਬਾਰੇ ਗੱਲ - ਬਾਤ ਕਰਾਂਗੇ
+1219	We all know that a person who casts his/her vote in an election is called a voter.	ਸਾਨੂੰ ਸਾਰੀਆਂ ਨੂੰ ਪਤਾ ਹੈ ਕਿ ਜੋ ਵਿਅਕਤੀ ਚੋਣਾਂ ਵਿੱਚ ਆਪਣਾ ਵੋਟ ਪਾਉਂਦਾ ਹੈ ਉਸ ਨੂੰ ਵੋਟਰ ਕਿਹੰਦੇ ਹਨ I
+1220	Now, can anyone tell me about what makes a voter eligible to vote?	ਹੁਣ, ਕਿ ਕੋਈ ਮੈਨੂੰ ਦੱਸ ਸਕਦਾ ਹੈ ਕਿ ਇੱਕ ਵੋਟਰ ਨੂੰ ਵੋਟ ਪਾਉਣ ਲਈ ਕਿ ਯੋਗ ਬਣਾਉਂਦਾ ਹੈ?
+1221	The person should be eighteen years of age or above.	ਉਸ ਵਿਅਕਤੀ ਦੀ ਉਮਰ ਅਠਾਰਾਂ ਸਾਲ ਜਾਂ ਉਸ ਤੋਂ ਵੱਧ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ I
+1222	Exactly. The Citizenship Act allows all citizens to vote regardless of any discrimination based on caste, religion, gender etc.	ਬਿਲਕੁਲ ਸਹੀ। ਸਿਟੀਜ਼ਨਸ਼ਿਪ ਐਕਟ ਸਾਰੇ ਨਾਗਰਿਕਾਂ ਨੂੰ ਜਾਤ, ਧਰਮ, ਲਿੰਗ ਆਦਿ ਦੇ ਆਧਾਰ ਤੇ ਕਿਸੇ ਵੀ ਵਿਤਕਰੇ ਦੀ ਪਰਵਾਹ ਕੀਤੇ ਬਿਨਾਂ ਵੋਟ ਪਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।
+1223	But they should be 18 years of age or above.	ਪਰ ਓਨ੍ਹਾਂ ਦੀ ਉਮਰ ਅਠਾਰਾਂ ਸਾਲ ਜਾਂ ਉਸ ਤੋਂ ਵੱਧ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ
+1224	Also, the voters are only eligible if they are citizens of India.	ਇਸ ਦੇ ਨਾਲ ਹੀ, ਵੋਟਰ ਸਿਰਫ ਤਾਂ ਹੀ ਯੋਗ ਹੈ ਜੇਕਰ ਉਹ ਭਾਰਤ ਦਾ ਨਾਗਰਿਕ ਹੈ।
+1225	One needs to have Indian citizenship if one wants to vote in an Indian election.	ਜੇਕਰ ਕੋਈ ਭਾਰਤੀ ਚੋਣਾਂ ਵਿੱਚ ਵੋਟ ਪਾਉਣਾ ਚਾਹੁੰਦਾ ਹੈ ਤਾਂ ਉਸ ਕੋਲ ਭਾਰਤੀ ਨਾਗਰਿਕਤਾ ਹੋਣੀ ਜ਼ਰੂਰੀ ਹੈ।
+1226	What other eligiblity criteria do you know?	ਹੋਰ ਕਿਹੜੇ ਯੋਗਤਾ ਮਾਪਦੰਡ ਬਾਰੇ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ?
+1227	Their name should be on the electoral roll.	ਓਨ੍ਹਾਂ ਦਾ ਨਾਂ ਵੋਟਰ ਸੂਚੀ ਵਿੱਚ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ I
+1228	Correct. The names of all the people who are eligible to vote will be present in the electoral roll.	ਸਹੀ, ਵੋਟ ਪਾਉਣ ਦੇ ਯੋਗ ਸਾਰੇ ਲੋਕਾਂ ਦੇ ਨਾਮ ਵੋਟਰ ਸੂਚੀ ਵਿੱਚ ਮੌਜੂਦ ਹੋਣਗੇ।
+1229	You should add your name to the roll to be able to vote.	ਵੋਟ ਪਾਉਣ ਦੇ ਲਈ, ਤੁਹਾਨੂੰ ਆਪਣਾ ਨਾਂ ਵੋਟਰ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰਵਾਉਣਾ ਪਏਗਾ I
+1230	You should be an ordinary resident of the part/polling area of the constituency where you want to be enrolled.	ਤੁਹਾਨੂੰ ਉਸ ਹਲਕੇ ਦੇ ਹਿੱਸੇ/ਪੋਲਿੰਗ ਖੇਤਰ ਦਾ ਇੱਕ ਆਮ ਨਿਵਾਸੀ ਹੋਣਾ ਪਏਗਾ ਜਿੱਥੇ ਤੁਸੀਂ ਨਾਮ ਦਰਜ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ।
+1231	Ma'am, I heard that if you enroll at a particular place, you can only vote at that place?	ਮੈਡਮ, ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਜੇਕਰ ਤੁਸੀਂ ਕਿਸੇ ਇੱਕਜਗ੍ਹਾ ਤੇ ਆਪਣਾ ਨਾਮ ਦਰਜ ਕਰਵਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਸਿਰਫ਼ ਉਸੇ ਜਗ੍ਹਾ ਤੇ ਵੋਟ ਪਾ ਸਕਦੇ ਹੋ?
+1232	Yes, enrollment is possible only at one place.	ਹਾਂ, ਨਾਮਾਂਕਣ ਕੇਵਲ ਇੱਕ ਥਾਂ ਤੇ ਹੀ ਸੰਭਵ ਹੈ।
+1233	So, if you enroll as a voter at your constituency, wherever you are, you need to come to your constituency to cast a vote.	ਸੋ, ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਹਲਕੇ ਵਿੱਚ ਵੋਟਰ ਵਜੋਂ ਨਾਮ ਦਰਜ ਕਰਵਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਜਿੱਥੇ ਵੀ ਹੋ, ਤੁਹਾਨੂੰ ਵੋਟ ਪਾਉਣ ਲਈ ਆਪਣੇ ਹਲਕੇ ਵਿੱਚ ਹੀ ਆਉਣਾ ਪਏਗਾ।
+1234	You won't be an eligible voter at any other booths.	ਤੁਸੀਂ ਕਿਸੇ ਹੋਰ ਬੂਥ ਵਿੱਚ ਵੋਟ ਪਾਉਣ ਦੇ ਯੋਗ ਨਹੀਂ ਰਹੋਂਗੇ I
+1235	Do differently-abled people have special privileges to caste vote?	ਕੀ ਅਪਾਹਜ ਲੋਕਾਂ ਨੂੰ ਵੋਟ ਪਾਉਣ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਧਿਕਾਰ ਹੈ?
+1236	They are registered as voters with disablities.	ਉਹ ਅਪਾਹਜ ਵੋਟਰਾਂ ਵਜੋਂ ਰਜਿਸਟਰਡ ਹਨ।
+1237	As for privilege, they don't have to stand in queues while in the polling booth.	ਵਿਸ਼ੇਸ਼ ਅਧਿਕਾਰ ਦੀ ਗੱਲ ਕਰੀਏ ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਪੋਲਿੰਗ ਬੂਥ ਦੀ ਕਤਾਰਾਂ ਵਿੱਚ ਖੜ੍ਹਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੁੰਦੀ ਹੈ।
+1238	But, a person with unsound mind will be exempted from voting.	ਪਰ, ਦਿਮਾਗੀ ਤੋਰ ਤੋਂ ਵਾਲੇ ਵਿਅਕਤੀ ਨੂੰ ਵੋਟ ਪਾਉਣ ਤੋਂ ਛੋਟ ਦਿੱਤੀ ਜਾਵੇਗੀ।
+1239	Oh, are there other people who are not eligible to vote?	ਓ, ਕੀ ਹੋਰ ਲੋਕ ਹਨ ਜੋ ਵੋਟ ਪਾਉਣ ਦੇ ਯੋਗ ਨਹੀਂ ਹਨ?
+1240	Yes. In India, according to the Representation of the People Act, 1951 of the Indian Constitution, all convicted prisoners are disqualified from voting.	ਹਾਂ। ਭਾਰਤ ਵਿੱਚ, ਭਾਰਤੀ ਸੰਵਿਧਾਨ ਦੇ ਲੋਕ ਪ੍ਰਤੀਨਿਧਤਾ ਐਕਟ, 1951 ਦੇ ਅਨੁਸਾਰ, ਸਾਰੇ ਦੋਸ਼ੀ ਕੈਦੀਆਂ ਨੂੰ ਵੋਟ ਪਾਉਣ ਤੋਂ ਅਯੋਗ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।
+1241	That includes prisoners on parole and detained prisoners.	ਇਸ ਵਿੱਚ ਪੈਰੋਲ 'ਤੇ ਬੰਦ ਕੈਦੀ ਅਤੇ ਨਜ਼ਰਬੰਦ ਕੈਦੀ ਵੀ ਸ਼ਾਮਲ ਹਨ।
+1242	The same goes for people who hold another country's citizenship.	ਇਹੀ ਗੱਲ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਤੇ ਵੀ ਸਪਸ਼ਟ ਕਿਤੀ ਜਾਂਦੀ ਹੈ ਜਿਨ੍ਹਾਂ ਕੋਲ ਕਿਸੇ ਹੋਰ ਦੇਸ਼ ਦੀ ਨਾਗਰਿਕਤਾ ਹੈ I
+1243	India does not recognise multiple citizenships.	ਭਾਰਤ ਕਈ ਨਾਗਰਿਕਤਾਵਾਂ ਨੂੰ ਮਾਨਤਾ ਨਹੀਂ ਦਿੰਦਾ ਹੈ।
+1244	So, if you posses another country's citizenship, you lose your Indian citizenship and your right to vote.	ਇਸ ਲਈ, ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਕਿਸੇ ਹੋਰ ਦੇਸ਼ ਦੀ ਨਾਗਰਿਕਤਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਆਪਣੀ ਭਾਰਤੀ ਨਾਗਰਿਕਤਾ ਅਤੇ ਵੋਟ ਪਾਉਣ ਦਾ ਅਧਿਕਾਰ ਗੁਆ ਦਿੰਦੇ ਹੋ।
+1245	We didn't know that ma'am.	ਸਾਨੂੰ ਇਸ ਗੱਲ ਬਾਰੇ ਪਤਾ ਨਹੀਂ ਸੀ I
+1246	You also need to have a valid Voter's ID, right ma'am?	ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਵੈਧ ਵੋਟਰ ਆਈ.ਡੀ ਵੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ, ਹੈ ਨਾ ਮੈਡਮ?
+1247	Yes, yes. You need a valid Voter's ID.	ਹਾਂ, ਹਾਂ ਤੁਹਾਨੂੰ ਇੱਕ ਵੈਧ ਵੋਟਰ ਆਈ.ਡੀ ਦੀ ਲੋੜ ਹੈ।
+1248	Then only your name will be enrolled on the electoral roll.	ਤਾਹੀ ਤੁਹਾਡਾ ਨਾਂ ਵੋਟਰ ਸੂਚੀ ਵਿੱਚ ਦਰਜ ਹੋਵੇਗਾ।
+1249	You can have the Voter's ID by registering online, or at a service centre with appropriate documents.	ਤੁਸੀਂ ਔਨਲਾਈਨ ਰਜਿਸਟਰ ਕਰਕੇ, ਜਾਂ ਢੁਕਵੇਂ ਦਸਤਾਵੇਜ਼ਾਂ ਦੇ ਨਾਲ ਕਿਸੇ ਸੇਵਾ ਕੇਂਦਰ ਵਿੱਚ ਵੋਟਰ ਆਈ.ਡੀ. ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।
+1250	This will be all for today.	ਅੱਜ ਲਈ ਇਨ੍ਹਾਂ ਹੀ ਕਰਾਂਗੇ I
+1251	Talk with your families about their experiences as voters for the next day.	ਅਗਲੇ ਦਿਨ ਲਈ ਆਪਣੇ ਪਰਿਵਾਰਾਂ ਨਾਲ ਓਨ੍ਹਾਂ ਦੇ ਪਹਿਲੀ ਵਾਰ ਵੋਟ ਪਾਉਣ ਦੇ ਤਜ਼ਰਬਿਆਂ ਬਾਰੇ ਗੱਲ ਕਰ ਕੇ ਆਓ।
+1252	Yes ma'am, thank you.	ਜੀ ਮੈਡਮ, ਧੰਨਵਾਦ।
+1253	Hello, I'm here to issue a PAN Card.	ਹੈਲੋ, ਮੈਂ ਆਪਣਾ ਪੈਨ ਕਾਰਡ ਜਾਰੀ ਕਰਵਾਉਣ ਆਈਆਂ ਹਾਂ I
+1254	Is it for yourself?	ਆਪਣੇ ਵਾਸਤੇ?
+1255	For me and my daughter actually.	ਦਰਅਸਲ ਮੇਰੇ ਤੇ ਮੇਰੀ ਧੀ ਦੇ ਲਈ
+1256	But, my daughter has British citizenship.	ਪਰ, ਮੇਰੀ ਧੀ ਕੋਲ ਬਰਤਾਨਵੀ ਨਾਗਰਿਕਤਾ ਹੈ I
+1257	Oh, that is alright.	ਓਹ! ਕੋਈ ਗੱਲ ਨਹੀਂ I
+1258	Can you list the documents we shall need to produce?	ਕਿ ਤੁਸੀਂ ਦਸਤਾਵੇਜ਼ਾ ਦੀ ਸੂਚੀ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ?
+1259	Let's start with your PAN Card.	ਤੁਹਾਡੇ ਪੈਨ ਕਾਰਡ ਤੋਂ ਸ਼ੁਰੂਵਤ ਕਰਦੇ ਹਾਂ I
+1260	I assume you're Indian?	ਮੈਂ ਮੰਨ ਰਿਹਾ ਹਾਂ ਕਿ ਤੁਸੀਂ ਭਾਰਤੀ ਹੋ?
+1261	Yes, that is correct.	ਹਾਂ, ਇਹ ਸਹੀ ਹੈ I
+1262	For you, ma'am, we'll be needing three documents.	ਮੈਡਮ, ਤੁਹਾਡੇ ਲਈ, ਸਾਨੂੰ ਤਿੰਨ ਦਸਤਾਵੇਜ਼ ਲਗਣਗੇ I
+1263	A proof of identity, a proof of address and a proof of your date of birth.	ਇੱਕ ਪ੍ਰ੍ਮਾਣ ਪੱਤਰ, ਇੱਕ ਪਤੇ ਦਾ ਪੱਤਰ ਅਤੇ ਜਨਮ ਪ੍ਰਮਾਣ ਪੱਤਰ I
+1264	Which documents will be taken as proof of each?	ਇਨ੍ਹਾਂ ਸਬੂਤਾਂ ਵਿਚੋਂ ਕਿਹੜਾ ਦਸਤਾਵੇਜ਼ ਲਿਆ ਜਾਏਗਾ?
+1265	For identity, you can produce a copy of your Aadhar Card, or your voter ID or your passport.	ਪਛਾਣ ਲਈ, ਤੁਸੀਂ ਆਪਣਾ ਆਧਾਰ ਕਾਰਡ, ਜਾਂ ਆਪਣੀ ਵੋਟਰ ਆਈ.ਡੀ ਜਾਂ ਪਾਸਪੋਰਟ ਦੀ ਕਾਪੀ ਪੇਸ਼ ਕਰ ਸਕਦੇ ਹੋ।
+1266	You can also go for a copy of your ration card, and a few other documents that are listed on a form I'll give you.	ਤੁਸੀਂ ਆਪਣੇ ਰਾਸ਼ਨ ਕਾਰਡ ਦੀ ਕਾਪੀ ਵੀ ਲੈ ਸਕਦੇ ਹੋ, ਇਹ ਫਾਰਮ ਜੋ ਮੈਂ ਤੁਹਾਨੂੰ ਦੇਵਾਂਗਾ, ਉਸ ਵਿੱਚ ਕੁਛ ਹੋਰ ਦਸਤਾਵੇਜ਼ ਦਿੱਤੇ ਹੋਏ ਹਨ I
+1267	Whatever it is, it must have your picture.	ਜਿਹੜਾ ਮਰਜ਼ੀ ਹੋਵੇ, ਉਸ ਵਿੱਚ ਤੁਹਾਡੀ ਤਸਵੀਰ ਜ਼ਰੂਰ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ I
+1268	Have I made that clear?	ਕੀ ਮੈਂ ਇਹ ਸਪੱਸ਼ਟ ਕਰ ਦਿੱਤਾ ਹੈ?
+1269	Yes, sir, you did.	ਜੀ, ਸਰ, ਤੁਸੀਂ ਸਾਫ਼ ਕਰ ਦਿੱਤਾ ਹੈ I
+1270	For proof of address, any bill that's not more than three months old will do.	ਪਤੇ ਦੇ ਪ੍ਰਮਾਣ ਦੇ ਲਈ, ਕੋਈ ਵੀ ਬਿਲ ਜੋ ਤਿੰਨ ਮਹਿਨੀਆਂ ਤੋਂ ਪੂਰਾਣਾ ਨਹੀਂ ਹੈ, ਓਹ ਚੱਲ ਜਾਵੇਗਾ I
+1271	By bill I mean landline bill, or an electricity bill, or water bill.	ਬਿਲ ਤੋਂ ਮੇਰਾ ਮਤਲਬ ਹੈ, ਲੈਂਡਲਾਈਨ ਬਿੱਲ, ਜਾਂ ਬਿਜਲੀ ਦਾ ਬਿੱਲ, ਜਾਂ ਪਾਣੀ ਦਾ ਬਿੱਲ I
+1272	They're listed in the form.	ਓਹ ਸਭ ਫਾਰਮ ਵਿੱਚ ਦਿਤੇ ਹੋਏ ਹਨ I
+1273	Or, you can produce a copy of your post office passbook, or passport.	ਜਾਂ, ਤੁਸੀਂ ਆਪਣੀ ਪੋਸਟ ਆਫਿਸ ਪਾਸਬੁੱਕ, ਜਾਂ ਪਾਸਪੋਰਟ ਦੀ ਇੱਕ ਕਾਪੀ ਪੇਸ਼ ਕਰ ਸਕਦੇ ਹੋ।
+1274	Again, whatever it is, it should have your address.	ਫੇਰ, ਜੋ ਵੀ ਹੈ, ਉਸ ਤੇ ਤੁਹਾਡਾ ਪਤਾ ਦਿਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ I
+1275	You get the picture.	ਤੁਸੀਂ ਸਮਝ ਗਏ ਨਾ
+1276	I do, and what about the date of birth?	ਹਾਂ, ਅਤੇ ਜਨਮ ਮਿਤੀ ਬਾਰੇ ਕਿਵੇਂ ਕਰਨਾ ਹੈ?
+1277	A birth certificate or a passport will do.	ਜਨਮ ਪ੍ਰਮਾਣ ਪੱਤਰ ਜਾਂ ਪਾਸਪੋਰਟ ਨਾਲ ਕੰਮ ਹੋ ਜਾਵੇਗਾ I
+1278	Now, for your daughter, she will have to produce two documents.	ਹੁਣ, ਤੁਹਾਡੀ ਧੀ ਲਈ, ਉਸ ਨੂੰ ਦੋ ਦਸਤਾਵੇਜ਼ ਪੇਸ਼ ਕਰਨੇ ਪੈਣਗੇ I
+1279	A proof of identity and a proof of address.	ਇੱਕ ਪਛਾਣ ਦਾ ਸਬੂਤ ਅਤੇ ਇੱਕ ਪਤੇ ਦਾ ਸਬੂਤ।
+1280	A passport will be enough for both.	ਇੱਕ ਪਾਸਪੋਰਟ ਦੋਨਾਂ ਲਈ ਕਾਫੀ ਹੈ I
+1281	That is a relief.	ਸ਼ੁਕਰ ਹੈ I
+1282	Here is the list.	ਇਹ ਰਹੀ ਸੂਚੀ I
+1283	You'll find all the documents listed.	ਇਸ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸਾਰੇ ਦਸਤਾਵੇਜ਼ ਮਿਲ ਜਾਣਗੇ I
+1284	How long will it take to deliver the card?	ਕਿੰਨੀ ਦੇਰ ਲਗੇਗੀ ਕਾਰਡ ਪਹੁੰਚਣ ਲਈ?
+1285	At least 15 to 20 working days.	ਘੱਟੋ-ਘੱਟ 15 ਤੋਂ 20 ਕਾਰਜ ਦਿਵਸ
+1286	May I come in, sir?	ਸ਼੍ਰੀਮਨ, ਕਿ ਮੈਂ ਅੰਦਰ ਆ ਸਕਦੀ ਹਾ?
+1287	Yes, please come in.	ਹਾਂਜੀ, ਕ੍ਰਿਪਾ ਕਰਕੇ ਅੰਦਰ ਆਉ I
+1288	Please take your seat.	ਕ੍ਰਿਪਾ ਕਰਕੇ ਬੈਥੋ
+1289	Tell me, how can I help you?	ਦਸੋਂ, ਮੈਂ ਕਿਦਾਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ?
+1290	Sir, I have come from Hope NGO.	ਸ਼੍ਰੀਮਨ, ਮੈਂ ਹੋਪ ਗੈਰਸਕਰਾਰੀ ਸੰਸਥਾ ਤੋਂ ਆਈਆਂ ਹਾਂ I
+1291	We are running a few schools for the underpreviledged.	ਅਸੀਂ ਗ਼ਰੀਬਾ ਲਈ ਕੁੱਛ ਸਕੂਲ ਚੱਲਾ ਰਹੇ ਹਾਂ I
+1292	We have 3 schools in the slum areas.	ਸਾਡੇ ਸਲੱਮ ਖੇਤਰਾਂ ਵਿੱਚ ਤਿੰਨ ਸਕੂਲ ਹਨ I
+1293	That's really impressive!	ਇਹ ਤਾਂ ਬਹੁਤ ਵਧੀਆ ਗੱਲ ਹੈ I
+1294	I must say, it is really a great initiative.	ਮੈਨੂੰ ਕਹਿਣਾ ਪੇਏਗਾ, ਇਹ ਇੱਕ ਬਹੁਤ ਵਧੀਆ ਪਹਿਲ ਹੈ I
+1295	So, what can I help you with?	ਸੋ, ਮੈਂ ਕਿਦਾਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ ?
+1296	Sir, I want some information about your office.	ਸ਼੍ਰੀਮਨ, ਮੈਨੂੰ ਤੁਹਾਡੇ ਦਫ਼ਤਰ ਬਾਰੇ ਕੁੱਛ ਜਾਣਕਾਰੀ ਚਾਹੀਦੀ ਸੀ I
+1297	As you know our students are from labour family.	ਜਿਦਾਂ ਕਿ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਸਾਡੇ ਸਾਡੇ ਵਿਦਿਆਰਥੀ ਮਜ਼ਦੂਰ ਪਰਿਵਾਰਾ ਤੋਂ ਆਉਂਦੇ ਹਨ।
+1298	I want to know if there is any work opportunity for our 10th grade students.	ਮੈਂ ਇਹ ਜਾਨਣਾ ਚਾਉਂਦਾ ਹਾਂ ਜੇਰਕ 10 ਵੀ ਵਰਗ ਦੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਕੋਈ ਕੰਮ ਕਰਨ ਦੇ ਮੌਕੇ ਹਨ I
+1299	Yes, tell me what do you want to know?	ਹਾਂ, ਦਸੋਂ ਤੁਸੀਂ ਕਿ ਜਾਣਨਾ ਚਾਉਂਦੇ ਹੋ?
+1300	That's really a good thought.	ਇੱਕ ਤਾਂ ਬਹੁਤ ਵਧੀਆ ਸੋਚ ਹੈ I
+1301	But, will they work while studying?	ਪਰ, ਕਿ ਓਹ ਪੜ੍ਹਾਈ ਦੇ ਨਾਲ ਨਾਲ ਕੰਮ ਕਰਨਗੇ ?
+1302	No sir, they will not.	ਨਹੀਂ ਸ਼੍ਰੀਮਨ, ਓਹ ਨਹੀਂ ਕਰਨਗੇ I
+1303	They will complete their 10th-grade exam next month.	ਓਹ ਆਪਣੀ 10 ਵੀ ਜਮਾਤ ਦੇ ਇਮਤਿਹਾਨ ਅਗਲੇ ਮਹਿਨੇ ਪੂਰੇ ਕਰਨਗੇ।
+1304	So, after the exam, we want them to be engaged somewhere so that they can start earning.	ਸੋ, ਇਮਤਿਹਾਨਾ ਤੋਂ ਬਾਅਦ, ਅਸੀਂ ਚਾਉਂਦੇ ਹਾਂ ਕਿ ਓਹ ਕਿਤੇ ਰੁੱਝ ਜਾਣ ਤਾਂ ਜੋ ਓਹ ਪੈਸੇ ਕਮਾਉਣਾ ਸ਼ੁਰੂ ਕਰ ਦੇਣ I
+1305	They will also learn about discipline, team work, etc.	ਇਸ ਦੇ ਨਾਲ ਓਹ ਅਨੁਸ਼ਾਸਨ, ਟੀਮ ਵਰਕ ਆਦਿ ਬਾਰੇ ਵੀ ਸਿੱਖਣਗੇ।
+1306	Oh, okay! That can be done.	ਠੀਕ ਹੈ! ਇਹ ਕੰਮ ਹੋ ਸਕਦਾ ਹੈ I
+1307	That will be good for them as well.	ਇਹ ਓਨ੍ਹਾਂ ਵਾਸਤੇ ਵੀ ਚੰਗਾ ਰਹੇਗਾ I
+1308	They will be able to learn different things.	ਓਹ ਅਲੱਗ ਅਲੱਗ ਚੀਜ਼ਾਂ ਸਿਖ ਸਕਣਗੇ I
+1309	Yes, sir, we don't want them to go back to the slum environment.	ਜੀ, ਸ਼੍ਰੀਮਾਣ, ਅਸੀਂ ਨਹੀਂ ਚਾਉਂਦੇ ਕਿ ਓਹ ਵਾਪਸ ਝੁੱਗੀ-ਝੌਂਪੜੀ ਦੇ ਵਾਤਾਵਰਨ ਵਿੱਚ ਜਾਉਣ I
+1310	If they start working in some office, they will be introduced to the work culture.	ਜੇਕਰ ਓਹ ਕਿਸੇ ਦਫ਼ਤਰ ਵਿੱਚ ਕੰਮ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨਗੇ, ਤਾਂ ਓਹ ਕੰਮ ਦੇ ਵਾਤਾਵਰਣ ਨਾਲ ਜਾਣੂ ਹੋ ਸਕਣਗੇ।
+1311	Yes, that will be a boost up for them.	ਹਾਂ, ਇਹ ਓਨ੍ਹਾਂ ਨੂੰ ਅੱਗੇ ਵਧਾਏਗਾ I
+1312	I will check if I can engage a few of them in my packaging unit.	ਮੈਂ ਦੇਖਦਾ ਹੈ ਜੇਕਰ ਮੈਂ ਉਹਨਾਂ ਵਿੱਚੋਂ ਕਈਆ ਨੂੰ ਆਪਣੀ ਪੈਕੇਜਿੰਗ ਯੂਨਿਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰ ਸਕਦਾ/ਹਾਂ ਜਾ ਨਹੀਂ।
+1313	Thank you so much for your assurance.	ਤੁਹਾਡੇ ਆਸ਼ਵਾਸ਼ਨ ਲਈ ਤੁਹਾਡਾ ਬਹੁਤ ਧੰਨਵਾਦ।
+1314	I will bring a few of them once the exam is over.	ਤੁਹਾਡੇ ਭਰੋਸੇ ਲਈ ਤੁਹਾਡਾ ਬਹੁਤ ਧੰਨਵਾਦ।
+1315	Thank you once again for your helping mind.	ਮੈਂ ਓਨ੍ਹਾਂ ਨੂੰ ਪਰਿਖ ਖ਼ਤਮ ਹੋਣ ਤੋਂ ਬਾਅਦ ਇਥੇ ਲਿਆਂਵੰਗ
+1316	This litti is reminding me of idli.	ਇਹ ਲਿੱਟੀ ਮੈਨੂੰ ਇਡਲੀ ਦੀ ਯਾਦ ਦਵਾ ਰਹੀ ਹੈ|
+1317	The two are largely different but the shape is reminding me of it.	ਦੋਵੇਂ ਵਿੱਚ ਬਹੁਤ ਫਰਕ ਹੈ ਪਰ ਆਕਾਰ ਮੈਨੂੰ ਇਸਦੀ ਯਾਦ ਦਵਾ ਰਿਹਾ ਹੈ|
+1318	Yeah, it is a Bihari staple.	ਹਾਂ, ਇਹ ਇੱਕ ਬਿਹਾਰੀ ਮੁੱਖ ਭੋਜਨ ਹੈ|
+1319	The side dish is called Chokha.	ਸਾਈਡ ਡਿਸ਼ ਨੂੰ ਚੌਖਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ|
+1320	Litti are mainly made of wheat while the Chokha is made of brinjals and tomatoes.	ਲਿੱਟੀ ਮੁੱਖ ਤੌਰ ਤੇ ਕਣਕ ਦਾ ਬਣਿਆ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਕਿ ਚੌਖਾ ਬੈਂਗਣ ਅਤੇ ਟਮਾਟਰਾਂ ਦਾ ਬਣਿਆ ਹੁੰਦਾ ਹੈ|
+1321	What oil do they use in this?	ਇਸ ਵਿੱਚ ਕਿਹੜਾ ਤੇਲ ਵਰਤਦੇ ਹਨ?
+1322	It seems different from Kerala cuisine.	ਇਹ ਕੇਰਲ ਦੇ ਪਕਵਾਨਾਂ ਤੋਂ ਵੱਖਰਾ ਜਾਪਦਾ ਹੈ|
+1323	Mustard oil is used in the Chokha typically.	ਸਰੋਂ ਦਾ ਤੇਲ ਆਮ ਤੌਰ ਤੇ ਚੌਖੇ ਵਿੱਚ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ|
+1324	Mustard oil is used in all dishes of Bihari cuisine.	ਸਾਰੇ ਬਿਹਾਰੀ ਪਕਵਾਨਾਂ ਵਿੱਚ ਸਰੋਂ ਦਾ ਤੇਲ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ|
+1325	What is the dish in front of you?	ਤੁਹਾਡੇ ਸਾਹਮਣੇ ਕਿਹੜਾ ਪਕਵਾਨ ਹੈ?
+1326	It's called puttu and we normally eat it with black chickpeas.	ਇਸ ਨੂੰ ਪੁੱਟੂ ਕਹਿੰਦੇ ਹਨ ਅਤੇ ਅਸੀਂ ਆਮ ਤੌਰ 'ਤੇ ਕਾਲੇ ਛੋਲਿਆਂ ਨਾਲ ਇਸ ਨੂੰ ਖਾਨੇ ਹਾਂ|
+1327	There are various kinds of it, but the one I ordered is made of rice powder.	ਇਹ ਬਹੁਤ ਤਰ੍ਹਾਂ ਦੇ ਹੁੰਦੇ ਹਨ, ਪਰ ਜਿਹੜਾ ਇੱਕ ਮੈਂ ਆਡਰ ਕੀਤਾ ਹੈ ਉਹ ਚੌਲਾਂ ਦੇ ਆਟੇ ਦਾ ਬਣਿਆ ਹੋਇਆ ਹੈ|
+1328	Oh, is the black chickpea side dish spicy?	ਓਹ, ਕੀ ਕਾਲੇ ਛੋਲਿਆਂ ਦੀ ਸਾਈਡ ਡਿਸ਼ ਮਸਾਲੇ-ਦਾਰ ਕਰਾਰੀ ਹੈ?
+1329	I haven't heard of puttu before.	ਮੈਂ ਪਹਿਲਾਂ ਕਦੇ ਪੁੱਟੂ ਬਾਰੇ ਨਹੀਂ ਸੁਣਿਆ |
+1330	Is that coconut sprinkled on top of it?	ਕੀ ਉਸ ਉੱਤੇ ਨਾਰੀਅਲ ਭੁਕਿਆ ਹੋਈਆਂ ਹੈ?
+1331	Yes, coconut is commonly used in a lot of dishes in Kerala.	ਹਾਂ, ਨਾਰੀਅਲ ਦਾ ਤੇਲ ਕੇਰਲ ਦੀਆਂ ਬਹੁਤ ਸਾਰੇ ਪਕਵਾਨਾਂ ਵਿੱਚ ਅਕਸਰ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ|
+1332	Spice is also abundant in them so most dishes have a high spice content.	ਉਹਨਾਂ ਵਿੱਚ ਮਸਾਲਾ ਵੀ ਭਰਪੂਰ ਹੁੰਦਾ ਹੈ ਇਸ ਲਈ ਜਿਆਦਾਤਰ ਪਕਵਾਨਾਂ ਵਿੱਚ ਮਸਾਲੇ ਦੀ ਮਾਤਰਾ ਵਧੇਰੇ ਹੁੰਦੀ ਹੈ|
+1333	Is litti your favorite dish?	ਕੀ ਲਿੱਟੀ ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਪਕਵਾਨ ਹੈ?
+1334	Litti is one of my favorites.	ਲਿੱਟੀ ਮੇਰੇ ਪਸੰਦੀਦਾ ਪਕਵਾਨਾਂ 'ਚੋਂ ਇੱਕ ਹੈ|
+1335	My favourite Bihari dish is the Sattu ka Paratha.	ਮੇਰਾ ਪਸੰਦੀਦਾ ਬਿਹਾਰੀ ਪਕਵਾਨ ਸੱਤੂ ਦਾ ਪਰਾਂਠਾ ਹੈ|
+1336	It looks like an Indian taco.	ਇਹ ਭਾਰਤੀ ਟੈਕੋ ਵਰਗਾ ਦਿਖਦਾ ਹੈ|
+1337	I've never heard of that, but is it very healthy?	ਮੈਂ ਕਦੇ ਇਸ ਬਾਰੇ ਨਹੀਂ ਸੁਣਿਆ, ਪਰ ਕੀ ਇਹ ਪੌਸ਼ਟਿਕ ਹੈ?
+1338	Oh yes! It is a very healthy dish.	ਓਹ ਹਾਂ, ਇਹ ਬਹੁਤ ਪੌਸ਼ਟਿਕ ਹੈ|
+1339	It is made of chickpea flour and other herbs.	ਇਹ ਛੋਲੀਆਂ ਦੇ ਆਟੇ ਅਤੇ ਹੋਰ ਜੜੀ ਬੂਟੀਆਂ ਦਾ ਬਣਿਆ ਹੁੰਦਾ ਹੈ|
+1340	It also has a very tangy flavour, which is why it is my favorite.	ਇਸ ਦਾ ਬਹੁਤ ਖੱਟਾ ਸੁਆਦ ਹੁੰਦਾ ਹੈ, ਜਿਸ ਕਰਕੇ ਇਹ ਮੇਰਾ ਪਸੰਦੀਦਾ ਹੈ|
+1341	What about you, which is your favorite dish in Kerala cuisine?	ਤੁਹਾਡੇ ਬਾਰੇ ਕੀ, ਤੁਹਾਡਾ ਕਿਹੜਾ ਕੇਰਲ ਪਕਵਾਨ ਸਭ ਤੋਂ ਪਸੰਦੀਦਾ ਹੈ?
+1342	Appam and stew is my favorite.	ਅਪਮ ਅਤੇ ਸਟ੍ਰੂ ਮੇਰੇ ਪਸੰਦੀਦਾ ਪਕਵਾਨ ਹਨ|
+1343	It is made with fermented rice flour and it's essentially a pancake with crispy edges.	ਇਹ ਖਮੀਰ ਵਾਲੇ ਚੌਲਾਂ ਦੇ ਆਟੇ ਨਾਲ ਬਣਾਇਆ ਹੁੰਦਾ ਹੈ ਅਤੇ ਇਹ ਖਾਸ ਤੌਰ 'ਤੇ ਕ੍ਰਿਸਪੀ ਕਿਨਾਰੇ ਵਾਲਾ ਪੈਨਕੇਕ ਹੈ|
+1344	Oh, that sounds tasty.	ਓਹ, ਇਹ ਸੁਆਦ ਲੱਗਦਾ ਹੈ|
+1345	We should do this more often.	ਸਾਨੂੰ ਇਹ ਹੋਰ ਵੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ|
+1346	Excuse me, is a gluten-free diet available here?	ਮੁਆਫ਼ ਕਰਨਾ, ਕਿ ਇੱਥੇ ਗਲੁਟਨ ਮੁਕਤ ਖਾਣਾ ਉਪਲੱਬਧ ਹੈ?
+1347	I'm diabetic and my friend is allergic to gluten.	ਮੈਂ ਸ਼ੂਗਰ ਦਾ ਮਰੀਜ਼ ਹਾਂ ਅਤੇ ਮੇਰੇ ਦੋਸਤ ਨੂੰ ਗਲੁਟਨ ਤੋਂ ਐਲਰਜੀ ਹੈ
+1348	Of course, what are you interested in having?	ਜ਼ਰੂਰ, ਤੁਸੀਂ ਕਿ ਲੈਣਾ ਚਾਹੋਂਗੇ ?
+1349	I was hoping that you could recommend some of your dishes.	ਮੈਂ ਉਮੀਦ ਕਰ ਰਿਹਾ ਸੀ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਕੋਈ ਵਿਅੰਜਨ ਦੀ ਸਿਫ਼ਾਰਿਸ਼ ਕਰੋਂਗੇ
+1350	I have heard that this restaurant has very healthy food.	ਮੈਂ ਸੁਣਿਆ ਹੈ ਕਿ ਇਸ ਰੈਸਟੋਰੈਂਟ ਵਿੱਚ ਕਾਫ਼ੀ ਸਵਸਥ ਖਾਣਾ ਮਿਲਦਾ ਹੈ
+1351	For customers looking for a gluten-free diet, we offer rice, corn, flax seed, and millet alternatives.	ਜਿਹੜੇ ਗਾਹਰਕ ਗਲੁਟਨ ਮੁਕਤ ਖਾਣਾ ਚਾਉਂਦੇ ਹਨ, ਓਨ੍ਹਾਂ ਲਈ ਅਸੀਂ ਚੌਲ, ਮੱਕੀ,ਅਲਸੀ ਅਤੇ ਬਾਜਰੇ ਦੇ ਵਿਕਲਪ ਪ੍ਰ੍ਸਤੁਤ ਕਰਦੇ ਹਾਂ
+1352	We have a range of salads and smoothies as well.	ਸਾਡੇ ਕੋਲ ਕਈ ਭਾਂਤ ਦੀਆਂ ਸਲਾਦ ਅਤੇ ਸਮੂਦੀਆਂ ਵੀ ਹਨ
+1353	We have a diabetic-friendly menu too.	ਸਾਡੇ ਕੋਲ ਸ਼ੂਗਰ ਦੇ ਮਰੀਜ਼ਾ ਲਈ ਅਲੱਗ ਭੋਜਨ ਸੂਚੀ ਹੈ
+1354	I was looking for a local food menu that was gluten-free.	ਮੈਂ ਸਥਾਨਿਕ ਭੋਜਨ ਦੀ ਸੂਚੀ ਦੇਖ ਰਹੀ ਸੀ ਜੋ ਕਿ ਗਲੁਟਨ ਮੁਕਤ ਹੈ
+1355	Something like mushroom brown rice or chicken quinoa biryani.	ਮਸ਼ਰੂਮ ਬ੍ਰਾਊਨ ਰਾਈਸ ਜਾਂ ਚਿਕਨ ਕੁਇਨੋਆ ਬਿਰਯਾਨੀ ਵਰਗਾ ਕੁੱਛ
+1356	Yes, these options are available here.	ਹਾਂਜੀ, ਇਹ ਵਿਕਲਪ ਈਥੇ ਉਪਲਬੱਧ ਹਨ
+1357	We also have a few gluten-free soup dishes that you may want to take a look at.	ਸਾਡੇ ਕੋਲ ਕੁੱਛ ਗਲੁਟਨ ਮੁਕਤ ਸੂਪ ਵੀ ਹਨ ਜੇ ਤੁਸੀਂ ਦੇਖਣਾ ਚਾਹੋਂਗੇ
+1358	What do you wish to have from the diabetic-friendly menu?	ਤੁਸੀਂ ਸ਼ੂਗਰ ਮੁਕਤ ਭੋਜਨ ਸੂਚੀ ਵਿਚੋਂ ਕਿ ਲੈਣਾਂ ਚਾਹੋਂਗੇ?
+1359	I'll have one Sabudane ki khichdi and the mushroom brown rice that I mentioned earlier.	ਮੈਂ ਸਾਬੂਦਾਨੇ ਦੀ ਖਿਚੜੀ ਅਤੇ ਮਸ਼ਰੂਮ ਬ੍ਰਾਊਨ ਰਾਈਸ, ਜਿਸ ਬਾਰੇ ਮੈਂ ਪਹਿਲਾ ਗੱਲ ਕਿਤੀ ਸੀ, ਓਹੀ ਲਉਨਗਾਂ
+1360	What are the options you have for soup?	ਤੁਹਾਡੇ ਕੋਲ ਸੂਪ ਦੇ ਹੋਰ ਕੀ ਵਿਕਲਪ ਹਨ ??
+1361	We have a gluten-free french onion soup.	ਸਾਡੇ ਕੋਲ ਗਲੂਟਨ ਮੁਕਤ ਫ੍ਰੇਂਚ ਔਨਿਅਨ ਸੂਪ ਹੈ
+1362	We also make a savory split pea lentil soup.	ਅਸੀਂ ਨਮਕੀਨ ਸਪਲਿਟ ਪਿਈ ਲੈਂਟਿਲ ਸੂਪ ਵੀ ਬਣਾਉਂਦੇ ਹਾਂ
+1363	Then we have the Pho Bo and a West African peanut butter soup.	ਫੇਰ ਸਾਡੇ ਕੋਲ ਫ਼ੋ ਬੋ ਅਤੇ ਪੱਛਮੀ ਅਫ਼ਰੀਕੀ ਪੇਅਨੂਟ ਬੱਟਰ ਸੂਪ ਵੀ ਹੈ
+1364	The French onion soup sounds interesting so we'll have two of that.	ਫ੍ਰੈਂਚਔਨਿਯਨ ਸੂਪ ਸੁਣਨ ਵਿੱਚ ਦਿਲਚਸਪ ਲੱਗ ਰਿਹਾ ਹੈ ਇਸ ਲਈ ਅਸੀਂ ਓਹ ਦੋ ਲਵਾਂਗੇ।
+1365	I normally skip the desserts because it's hard to find desserts that are diabetes friendly.	ਮੈਂ ਆਮ ਤੋਰ ਤੇ ਮਿਠਾ ਛੱਡ ਦਿੰਦਾ ਹੈ ਕਿਉਂਕਿ ਸ਼ੂਗਰ ਤੋਂ ਬਿਨਾਂ ਮਿਠਾਈਆਂ ਨੂੰ ਲੱਭਣਾ ਮੁਸ਼ਕਲ ਹੈ।
+1366	Oh, don't worry, we have options of diabetic-friendly desserts too.	ਓਹ! ਚਿੰਤਾ ਨਾ ਕਰੋ, ਸਾਡੇ ਕੋਲ ਬਗੈਰ ਮਿਠੇ ਮਿਠਾਈਆਂ ਵੀ ਹਨ
+1367	You could try the low-carb peanut butter cookies or the chocolate keto fat bombs.	ਤੁਸੀਂ ਘੱਟ ਕਾਰਭ ਵਾਲੇ ਪੇਅਨੂਟ ਬੱਟਰ ਕੂਕੀਜ਼ ਜਾਂ ਕਿਟੋ ਫ਼ੈਟ ਬੋਮਬ ਚਖ ਸਕਦੇ ਹੋ
+1368	We also make a good protein cheesecake.	ਅਸੀਂ ਇੱਕ ਵਧੀਆਂ ਪ੍ਰੋਟੀਨ ਚੀਜ਼ਕੇਕ ਵੀ ਬਣਾਉਂਦੇ ਹਾਂ
+1369	I haven't had a cheesecake in so long because of my diabetes.	ਆਪਣੀ ਸੂਗਰ ਕਾਰਣ ਮੈਂ ਕਿੰਨੇ ਸਮੇਂ ਤੋਂ ਚੀਜ਼ਕੇਕ ਨਹੀਂ ਖਾਈਆ
+1370	I'll have the protein cheesecake and a low-carb peanut butter cookie for her.	ਮੈਂ ਟੀਨ ਚੀਜ਼ਕੇਕ ਲਉਗਾ ਅਤੇ ਓਨ੍ਹਾਂ ਲਈ ਘੱਟ ਕਾਰਭ ਵਾਲੀ ਪੀਅਨਟ ਬੱਟਰ ਕੂਕੀਜ਼
+1371	This restaurant is amazing.	ਇਸ ਰੈਸਟੋਰੈਂਟ ਤਾਂ ਸ਼ਾਨਦਾਰ ਹੈ
+1372	Thank you for the compliment.	ਤਾਰੀਫ਼ ਕਰਨ ਲਈ ਧੰਨਵਾਦ
+1373	I hope you take the time to leave us a review on Google.	ਮੈਂ ਉਮੀਦ ਕਰਦਾ ਹਾਂ ਕਿ ਤੁਸੀਂ ਸਮਾ ਕੱਢ ਕੇ ਸਾਡੇ ਲਈ ਗੂਗਲ ਤੇ ਸਰਵੇਖਣ ਲਿੱਖੋਗੇ
+1374	Please let me know if you need anything at all.	ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਦੱਸੀਓ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਹੋਰ ਚੀਜ਼ ਦੀ ਲੋੜ ਹੈ।
+1375	I'll make sure to leave a good review.	ਮੈਂ ਜ਼ਰੂਰ ਇੱਕ ਚੰਗਾ ਸਮੀਖਿਆ ਛੱਡਾਗਾ I
+1376	May I come in, sir?	ਕੀ ਮੈਂ ਅੰਦਰ ਆ ਸਕਦਾ, ਸਾਹਿਬ?
+1377	Yes, have a seat please.	ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਠੋ|
+1378	What can I do for you?	ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?
+1379	My name is Anand Yadav.	ਮੇਰਾ ਨਾਮ ਆਨੰਦ ਯਾਦਵ ਹੈ|
+1380	I'd like to take some money out of my savings account.	ਮੈਂ ਆਪਣੇ ਬੱਚਤ ਖਾਤੇ ਵਿੱਚੋਂ ਕੁੱਝ ਪੈਸੇ ਕਢਵਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ|
+1381	I'm not sure what the withdrawal procedures are.	ਮੈਨੂੰ ਪੱਕਾ ਨਹੀਂ ਪਤਾ ਕਿ ਪੈਸੇ ਕਢਵਾਉਣ ਦੀ ਕੀ ਪ੍ਰਕਿਰਿਆ ਹੈ|
+1382	Could you please assist me?	ਕੀ ਤੁਸੀਂ ਮੇਰੀ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋ?
+1383	Sure thing, sir.	ਜ਼ਰੂਰ, ਸਾਹਿਬ|
+1384	First and foremost, you must complete the withdrawal form.	ਸਭ ਤੋਂ ਪਹਿਲਾਂ, ਤੁਹਾਨੂੰ ਪੈਸੇ ਕਢਵਾਉਣ ਵਾਲਾ ਫ਼ਾਰਮ ਪੂਰਾ ਕਰਨਾ ਪੈਣਗਾ|
+1385	Please enter your account number, name, mobile number, and address in the fields below.	ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਥਾਵਾਂ ਵਿੱਚ ਆਪਣਾ ਖਾਤਾ ਨੰਬਰ, ਨਾਮ, ਮੋਬਾਇਲ ਨੰਬਰ ਅਤੇ ਪਤਾ ਭਰੋ|
+1386	Okay. Do I have to sign here?	ਅੱਛਾ, ਕੀ ਮੈਨੂੰ ਇੱਥੇ ਦਸਤਖਤ ਕਰਨੇ ਪੈਣਗੇ?
+1387	Ofcourse. Please do so.	ਬੇਸ਼ੱਕ| ਅਜਿਹਾ ਕਰੋ|
+1388	How much money do you want to withdraw?	ਤੁਸੀਂ ਕਿੰਨ੍ਹੇ ਪੈਸੇ ਕਢਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+1389	I require a withdrawal of Rs.100,000/-.	ਮੈਨੂੰ 1,00,000/- ਰੁਪਏ ਕਢਵਾਉਣ ਦੀ ਲੋੜ ਹੈ|
+1390	Please fill out the form with the amount in words and figures, Sir.	ਕਿਰਪਾ ਕਰਕੇ ਸ਼ਬਦਾਂ ਅਤੇ ਅੰਕੜਿਆਂ ਵਿੱਚ ਰਕਮ ਭਰ ਕੇ ਪੈਸੇ ਕਢਵਾਉਣ ਵਾਲਾ ਫ਼ਾਰਮ ਪੂਰਾ ਕਰ ਦੋ, ਸ੍ਰੀਮਾਨ |
+1391	Please remember to sign your name at the bottom of the withdrawal form.	ਕਿਰਪਾ ਕਰਕੇ ਪੈਸੇ ਕਢਵਾਉਣ ਵਾਲੇ ਫ਼ਾਰਮ 'ਤੇ ਹੇਠਾਂ ਆਪਣੇ ਦਸਤਖ਼ਤ ਕਰਨੇ ਯਾਦ ਰਖਿਓ|
+1392	Fine. I'll remember that.	ਠੀਕ ਹੈ| ਮੈਂ ਇਹ ਯਾਦ ਰੱਖਾਂਗਾ|
+1393	Which of the following is the withdrawal counter?	ਇਹਨਾਂ ਚੋਂ ਕਿਹੜਾ ਪੈਸੇ ਕਢਵਾਉਣ ਵਾਲਾ ਕਾਊਂਟਰ ਹੈ?
+1394	Sir, please proceed to Counter No. 2.	ਸਾਹਿਬ, ਕਿਰਪਾ ਕਰਕੇ ਕਾਊਂਟਰ ਨੰਬਰ ਦੋ 'ਤੇ ਜਾਓ|
+1395	The employee at the counter will confirm the customer's account number and name.	ਕਾਊਂਟਰ ਨੰਬਰ ਦੋ ਵਾਲਾ ਕਰਮਚਾਰੀ ਗਾਹਕ ਦਾ ਖਾਤਾ ਨੰਬਰ ਅਤੇ ਨਾਮ ਦੀ ਪੁਸ਼ਟੀ ਕਰੇਗਾ|
+1396	And you will receive the funds.	ਅਤੇ ਤੁਹਾਨੂੰ ਪੈਸੇ ਮਿਲ ਜਾਣਗੇ|
+1397	Thank you!	ਧੰਨਵਾਦ!
+1398	Can I do anything else for you?	ਕੀ ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਕੁੱਝ ਹੋਰ ਕਰ ਸਕਦਾ ਹਾਂ?
+1399	I require one more assistance.	ਮੈਨੂੰ ਇੱਕ ਹੋਰ ਸਹਾਇਕ ਦੀ ਲੋੜ ਹੈ|
+1400	How can I know the account balance after the withdrawal?	ਮੈਨੂੰ ਪੈਸੇ ਕਢਵਾਉਣ ਤੋਂ ਬਾਅਦ ਖਾਤੇ ਦੇ ਬਕਾਏ ਬਾਟੇ ਕਿਵੇਂ ਪਤਾ ਲੱਗੇਗਾ?
+1401	Sir, please ask the counter staff to enter the balance amount in the passbook.	ਸਾਹਿਬ, ਕਿਰਪਾ ਕਰਕੇ ਬੈਂਕ ਦੇ ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਬਕਾਇਆ ਰਾਸ਼ੀ ਪਾਸ ਬੁੱਕ 'ਤੇ ਚੜ੍ਹਾਉਣ ਲਈ ਕਹੋ?
+1402	Alright! Thank you very much.	ਠੀਕ ! ਤੁਹਾਡਾ ਬਹੁਤ ਬਹੁਤ ਧੰਨਵਾਦ |
+1403	Welcome sir!	ਸੁਆਗਤ ਹੈ ਸਾਹਿਬ!
+1404	Thanks for being the valuable customer.	ਕੀਮਤੀ ਗਾਹਕ ਹੋਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ|
+1405	Visit again.	ਫਿਰ ਆਉਣਾ|
+1406	Are you into sports films?	ਕਿ ਤੁਸੀਂ ਖੇਡਾਂ ਵਾਲੀਆਂ ਫਿਲਮਾਂ ਦੇਖਦੇ ਹੋ?
+1407	You know the ones in which they tell the story of real sports players.	ਓਹ ਫ਼ਿਲਮਾਂ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਓਹ ਅਸਲੀ ਖੇਡਾਰੀਆ ਦੀ ਕਹਾਣੀ ਬਾਰੇ ਦੱਸਦੇ ਹਨ
+1408	It is so inspiring.	ਓਹ ਕਿੰਨੇ ਪ੍ਰੇਰਨਾਦਾਇਕ ਹੁੰਦੀਆਂ ਹਨ
+1409	I started liking them after I watched Mary Kom.	ਮੇਰੀ ਕੋਮ ਦੇਖਣ ਤੋਂ ਬਾਅਦ, ਮੈਨੂੰ ਓਹ ਪਸੰਦ ਆਉਣ ਲਗੀਆਂ
+1410	It felt so good watching that.	ਓਹ ਦੇਖ ਕੇ ਬਹੁਤ ਚੰਗਾ ਲਗੀਆਂ
+1411	Oh I love those movies.	ਓਹ ਮੈਨੂੰ ਓਹੀਜੀ ਫ਼ਿਲਮਾਂ ਬਹੁਤ ਪਸੰਦ ਹਨ
+1412	My favourite is Bhaag Milkha bhaag.	ਮੇਰੀ ਮਨਪਸੰਦ ਭਾਗ ਮਿਲਖਾ ਭਾਗ ਹੈ
+1413	It's a 2013 movie about the athlete Milkha Singh.	ਇਹ 2013 ਦੀ ਫ਼ਿਲਮ ਖਿਡਾਰੀ ਮਿਲਖਾ ਸਿੰਘ ਦੇ ਉਤੇ ਹੈ
+1414	Do you know how awesome that person is?	ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਉਹ ਵਿਅਕਤੀ ਕਿੰਨਾ ਸ਼ਾਨਦਾਰ ਹੈ?
+1415	He's also known as The Flying Sikh!	ਓਹਨੂੰ ਫਲਾਇੰਗ ਸਿੱਖ ਦੇ ਨਾਂ ਨਾਲ ਵੀ ਜਣਿਆ ਜਾਂਦਾ ਹੈ
+1416	Oh I love that guy!	ਓਹ! ਮੈਨੂੰ ਓਹ ਬੰਦਾ ਬਹੁਤ ਪਸੰਦ ਹੈ!
+1417	He is the only athlete to win gold at 400 metres at the Asian Games and the Commonwealth Games.	ਓਹ ਇਕਲੌਤੇ ਅਥਲੀਟ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਏਸ਼ੀਆਈ ਖੇਡਾਂ ਅਤੇ ਰਾਸ਼ਟਰਮੰਡਲ ਖੇਡਾਂ ਵਿੱਚ 400 ਮੀਟਰ ਦੀ ਦੌੜ ਵਿੱਚ ਸੋਨ ਤਮਗਾ ਜਿੱਤੀਆਂ
+1418	How cool is that?	ਇਹ ਕਿੰਨਾ ਸ਼ਾਨਦਾਰ ਹੈ?
+1419	He also won gold medals in the 1958 and1962 Asian Games.	ਓਨ੍ਹਾਂ ਨੇ 1958 ਅਤੇ 1962 ਦੀਆਂ ਏਸ਼ੀਆਈ ਖੇਡਾਂ ਵਿੱਚ ਵੀ ਸੋਨ ਤਮਗਾ ਜਿੱਤੀਆਂ
+1420	I aspire to be like him one day.	ਮੈਂ ਓਨ੍ਹਾਂ ਦੀ ਤਰਹ ਬਣਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ
+1421	He has got a Padma Shri.	ਓਨ੍ਹਾਂ ਕੋਲ ਪਦਮਾ ਸ਼੍ਰੀ ਵੀ ਹੈ
+1422	I wish to get one after I become an awesome athlete like him.	ਮੈਂ ਓਨ੍ਹਾਂ ਦੀ ਤਰਹ ਇੱਕ ਸ਼ਾਨਦਾਰ ਅਥਲੀਟ ਬਣਨ ਤੋਂ ਬਾਅਦ ਇਹ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ
+1423	And that race where he finished fourth?	ਅਤੇ ਓਹ ਦੋੜ ਜਿਸ ਵਿੱਚ ਓਹ ਚੌਥੇ ਸਥਾਨ ਤੇ ਆਏ?
+1424	The 400-metres final at the 1960 Olympic Games?	1960 ਦੀ ਓਲਿਂਪਿਕ ਖੇਡਾਂ ਵਿੱਚ 400 - ਮੀਟਰ
+1425	I think that is what he is best remembered for.	ਮੇਰੇ ਖਿਆਲ ਨਾਲ ਉਸ ਲਈ ਉਹ ਸਭ ਤੋਂ ਜ਼ਿਆਦਾ ਜਾਣੇ ਜਾਂਦੇ ਹਨ I
+1426	I once had to write a project report on him.	ਮੈਂ ਇੱਕ ਵਾਰ ਓਨ੍ਹਾਂ ਉਪਰ ਇੱਕ ਵਾਰਤਾ ਲਿਖਣਾ ਸੀ I
+1427	I read up a lot about him.	ਮੈਂ ਓਨ੍ਹਾਂ ਬਾਰੇ ਬਹੁਤ ਪੜ੍ਹੀਆਂ I
+1428	That time he finished fourth, he set an Indian National Record that was not broken for like 40 years!	ਜਦੋਂ ਓਹ ਚੌਥੇ ਆਏ, ਓਨ੍ਹਾਂ ਨੇ ਭਾਰਤੀ ਰਾਸ਼ਟਰੀ ਰਿਕਾਰਡ ਬਣਾਈਆ ਜੋ ਕਿ ਪਿਛਲੇ40 ਸਾਲਾਂ ਵਿੱਚ ਕਿਸੇ ਨੇ ਨਹੀਂ ਤੋੜੀਆਂ ਸੀ I
+1429	I heard a lot about him while growing up.	ਮੈਂ ਵਡੇ ਹੁੰਦੇ ਹੋਏ ਉਸ ਬਾਰੇ ਬਹੁਤ ਸੁਨੀਆਂ ਹੈ I
+1430	My dad was a die-hard fan.	ਮੇਰੇ ਪਿਤਾ ਬਹੁਤ ਵਡੇ ਫੈਨ ਸਨ I
+1431	I also read his autobiography.	ਮੈਂ ਉਸ ਦੀ ਸਵੈ-ਜੀਵਨੀ ਵੀ ਪੜ੍ਹੀ ਹੈ I
+1432	It was after reading that I thought I'll watch the movie.	ਉਸ ਨੂੰ ਪੜ੍ਹਨ ਤੋਂ ਬਾਅਦ ਮੈਂ ਫ਼ਿਲਮ ਦੇਖਣ ਦਾ ਸੋਚੀਆਂ I
+1433	It was so worth it.	ਓਹ ਵਧੀਆ ਸੀ I
+1434	The movie won many awards too.	ਫ਼ਿਲਮ ਨੇ ਵੀ ਕਈ ਪੁਰੁਸਕਾਰ ਜਿੱਤੇ ਸਨ I
+1435	Farhan Akhtar has done a great job.	ਫਰਹਾਨ ਅਖ਼ਤਰ ਨੇ ਬਹੁਤ ਵੱਧੀਆਂ ਕੰਮ ਕਿਤਾ ਹੈ I
+1436	It would be cool if you become a great athlete like Milkha Singh.	ਬਹੁਤ ਵਧੀਆ ਹੋਵੇਗਾ ਜੇ ਤੁਸੀਂ ਵੀ ਮਿਲਖਾ ਸਿੰਘ ਵਾਂਗ ਇੱਕ ਮਹਾਨ ਖਿਡਾਰੀ ਬਣ ਜਾਂਦੇ ਹੋ I
+1437	Hello, is this the Jaipur City Palace?	ਹੈਲੋ, ਕੀ ਇਹ ਜੈਪੁਰ ਸਿਟੀ ਪੈਲੇਸ ਹੈ?
+1438	Yes, how may I help you?	ਹਾਂ ਜੀ, ਮੈਂ ਤੁਹਾਡੀ ਕੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ?
+1439	I'm calling from the brand Vera.	ਮੈਂ ਬ੍ਰਾਂਡ ਵੇਰਾ ਤੋਂ ਗੱਲ ਕਰ ਰਿਹਾ ਹਾਂ|
+1440	We're an international luxury brand based in Chennai.	ਅਸੀਂ ਚੇਨਈ ਵਿੱਚ ਸਥਿਤ ਇੱਕ ਅੰਤਰਰਾਸ਼ਟਰੀ ਲਗਜ਼ਰੀ ਬ੍ਰਾਂਡ ਹਾਂ|
+1441	I'm calling for a request to access the palace for a photoshoot.	ਮੈਂ ਮਹਿਲ 'ਚ ਇੱਕ ਫੋਟੋ ਸ਼ੂਟ ਕਰਨ ਦੀ ਪ੍ਰਵਾਨਗੀ ਲੈਣ ਲਈ ਫੋਨ ਕਰ ਰਿਹਾ ਹਾਂ|
+1442	We're releasing a new product.	ਅਸੀਂ ਇੱਕ ਨਵਾਂ ਉਤਪਾਦ ਜਾਰੀ ਕਰ ਰਹੇ ਹਾਂ|
+1443	Okay, that can be arranged for.	ਠੀਕ ਹੈ, ਇਸਦਾ ਪ੍ਰਬੰਧ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ|
+1444	Can I have your name, please?	ਕੀ ਮੈਂ ਤੁਹਾਡਾ ਨਾਮ ਜਾਣ ਸਕਦਾ ਹਾਂ?
+1445	It's Ananth. Would you require some identification?	ਇਹ ਅਨੰਤ ਹੈ, ਕੀ ਤੁਹਾਨੂੰ ਕੁੱਝ ਪਛਾਣ ਦੀ ਲੋੜ ਹੈ?
+1446	We'll be needing quite a few documents.	ਸਾਨੂੰ ਕੁੱਝ ਦਸਤਾਵੇਜ਼ਾਂ ਦੀ ਲੋੜ ਹੋਵੇਗੀ|
+1447	One, a valid proof that the company exists.	ਇੱਕ, ਇੱਕ ਜਾਇਜ਼ ਦਸਤਾਵੇਜ ਕਿ ਕੰਪਨੀ ਮੌਜੂਦ ਹੈ|
+1448	Two, a list of the entire crew involved, along with their identification.	ਦੂਜਾ, ਸ਼ਾਮਿਲ ਹੋਣ ਵਾਲੇ ਅਮਲੇ ਦੀ ਪੂਰੀ ਸੂਚੀ , ਉਹਨਾਂ ਦੇ ਪਛਾਣ ਦਸਤਾਵੇਜ਼ਾਂ ਸਮੇਤ|
+1449	And identity proof of the person in charge.	ਅਤੇ ਇੰਚਾਰਜ ਵਿਅਕਤੀ ਦਾ ਪਛਾਣ ਪੱਤਰ|
+1450	Would it be okay if the documents are mailed to you?	ਕੀ ਇਹ ਠੀਕ ਰਹੇਗਾ ਕਿ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਨੂੰ ਈਮੇਲ ਕਰ ਦਵਾ?
+1451	Yes, but we'll need to see identity proof on the day of the shoot.	ਹਾਂ, ਪਰ ਸਾਨੂੰ ਸ਼ੂਟ ਦੇ ਦਿਨ ਪਛਾਣ ਦਾ ਸਬੂਤ ਦੇਖਣ ਦੀ ਲੋੜ ਪਵੇਗੀ|
+1452	Sure, I understand.	ਯਕੀਨਨ, ਮੈਂ ਸਮਝਦਾ ਹਾਂ|
+1453	What are the charges and fees?	ਖ਼ਰਚੇ ਅਤੇ ਫੀਸ ਕੀ ਹਨ ?
+1454	Fees for Indian nationals or residents would be Rs. 200 or 300 based on the package.	ਭਾਰਤੀ ਨਾਗਰਿਕਾਂ ਅਤੇ ਵਸਨੀਕਾਂ ਲਈ ਪੈਕੇਜ ਤੇ ਅਧਾਰਤ ਫੀਸ 200 ਜਾਂ 300 ਹੋਵੇਗੀ|
+1455	The Museum package includes all the palace Courts and galleries and the camera without a tripod.	ਮਿਉਜ਼ੀਅਮ ਪੈਕੇਜ ਵਿੱਚ ਪੈਲੇਸ ਦੀਆਂ ਸਾਰੀਆਂ ਦਰਬਾਰ ਅਤੇ ਗੈਲਰੀਆਂ ਅਤੇ ਕੈਮਰਾ ਬਿਨ੍ਹਾਂ ਟ੍ਰਾਇਪੋਡ ਦੇ ਸ਼ਾਮਿਲ ਹਨ|
+1456	The Composite package includes that along with Jaigarh and the Royal Centotaphs.	ਕੰਪੋਜ਼ਿਟ ਪੈਕੇਜ ਵਿੱਚ ਇਹ ਸਭ ਜੈਗੜ੍ਹ ਅਤੇ ਰਾਇਲ ਸੈਂਟੋਟਾਫਸ ਦੇ ਨਾਲ ਸ਼ਾਮਿਲ ਹਨ|
+1457	Foreigners will be charged Rs. 700 for the Composite package.	ਵਿਦੇਸ਼ੀਆਂ ਤੋਂ ਕੰਪੋਜ਼ਿਟ ਪੈਕੇਜ ਦੇ 700 ਰੁਪਏ ਲਏ ਜਾਣਗੇ|
+1458	Can we access the palace at night?	ਕੀ ਅਸੀਂ ਰਾਤ ਨੂੰ ਮਹਿਲ ਤੱਕ ਪਹੁੰਚ ਸਕਦੇ ਹਾਂ?
+1459	You can, that is another package.	ਤੁਸੀਂ ਪਹੁੰਚ ਸਕਦੇ ਹੋ, ਉਹ ਅਲੱਗ ਪੈਕੇਜ ਹੈ|
+1460	That will cost you Rs. 500 for Indians and Rs. 1000 for foreigners.	ਉਹ ਭਾਰਤੀਆਂ ਲਈ 500 ਰੁਪਏ ਅਤੇ ਵਿਦੇਸ਼ੀਆਂ ਲਈ 1000 ਰੁਪਏ ਹੈ|
+1461	There are also special tickets available that gives you exclusive access.	ਇੱਥੇ ਵਿਦੇਸ਼ ਟਿਕਟਾਂ ਵੀ ਉਪਲਬੱਧ ਹਨ ਜੋ ਤੁਹਾਨੂੰ ਵਿਸ਼ੇਸ਼ ਪਹੁੰਚ ਦਿੰਦੀਆਂ ਹਨ|
+1462	You can check our websites for more details.	ਤੁਸੀਂ ਵਧੇਰੀ ਜਾਣਕਾਰੀ ਲਈ ਸਾਡੀ ਵੈੱਬਸਾਈਟ ਚੈੱਕ ਕਰ ਸਕਦੇ ਹੋ|
+1463	Would it be okay if someone drops in this week and makes the booking?	ਕੀ ਇਹ ਠੀਕ ਹੋਵੇਗਾ ਜੇਕਰ ਕੋਈ ਇਸ ਹਫ਼ਤੇ ਵਿੱਚ ਆ ਕੇ ਬੁਕਿੰਗ ਕਰਦਾ ਹੈ?
+1464	Yes, that will be alright.	ਹਾਂ, ਇਹ ਠੀਕ ਰਹੇਗਾ|
+1465	Thank you for calling.	ਫੋਨ ਕਰਨ ਲਈ ਧੰਨਵਾਦ|
+1466	Hi Bishnu, what are you doing these days?	ਹਾਂ ਜੀ ਬਿਸ਼ਣੂ, ਇਨ੍ਹਾਂ ਦਿਨਾਂ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ?
+1467	Have you been to any bike rides recently?	ਕੀ ਤੁਸੀਂ ਹਾਲ ਹੀ ਵਿੱਚ ਕਿਸੇ ਮੋਟਰ ਸਾਈਕਲ ਸਵਾਰੀ 'ਤੇ ਗਏ ਹੋ?
+1468	I have seen some pictures of you.	ਮੈਂ ਤੁਹਾਡੀਆਂ ਕੁੱਝ ਫੋਟੋਆਂ ਦੇਖੀਆਂ ਹਨ|
+1469	No, it was from a different ride a long time ago.	ਨਹੀਂ, ਉਹ ਬਹੁਤ ਸਮਾਂ ਪਹਿਲਾਂ ਇੱਕ ਵੱਖਰੀ ਸਵਾਰੀ ਦੀਆਂ ਹਨ|
+1470	I had a really busy week, so couldn't take out time for a ride.	ਮੇਰਾ ਹਫ਼ਤਾ ਬਹੁਤ ਵਿਅਸਤ ਸੀ, ਇਸ ਲਈ ਸਵਾਰੀ ਲਈ ਸਮਾਂ ਨਹੀਂ ਕੱਢ ਸਕਿਆ|
+1471	But I am going this weekend.	ਪਰ ਮੈਂ ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਜਾ ਰਿਹਾ ਹਾਂ|
+1472	What about you; are you doing your music practice?	ਤੁਸੀਂ ਦੱਸੋ; ਤੁਸੀਂ ਆਪਣੀ ਸੰਗੀਤ ਅਭਿਆਸ ਕਰ ਰਹੇ ਹੋ?
+1473	Yeah, I am doing it whenever I get a little free time.	ਹਾਂ, ਮੈਂ ਇਹ ਕਰਦਾ ਹਾਂ ਜਦੋਂ ਵੀ ਮੈਨੂੰ ਕੁੱਝ ਖਾਲੀ ਸਮਾਂ ਮਿਲਦਾ ਹੈ|
+1474	My days are also very hectic, you know.	ਮੇਰੇ ਦੀਨ ਵੀ ਬਹੁਤ ਰੁਝੇਵੇਂ ਵਾਲੇ ਹਨ, ਤੁਹਾਨੂੰ ਪਤਾ ਹੈ|
+1475	I can't even manage to do Riyaz every day.	ਇੱਥੋਂ ਤੱਕ ਕਿ ਮੈਂ ਰੋਜ਼ ਰਿਆਜ਼ ਕਰਨ ਲਈ ਵੀ ਪ੍ਰਬੰਧ ਨਹੀਂ ਕਰ ਸਕਦਾ|
+1476	Anyway, are you really free this weekend?	ਚਲੋ ਖੈਰ, ਕੀ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਫ਼੍ਰੀ ਹੋ?
+1477	How are you going to manage time to go for a ride?	ਤੁਸੀਂ ਸਵਾਰੀ 'ਤੇ ਜਾਣ ਲਈ ਸਮੇਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇ ਕਰਦੇ ਹੋ?
+1478	I actually did overtime for a few days and completed my target.	ਮੈਂ ਅਸਲ 'ਚ ਕੁੱਝ ਦਿਨ ਵਾਧੂ ਸਮਾਂ ਲਗਾਉਂਦਾ ਹਾਂ ਅਤੇ ਆਪਣੇ ਟੀਚੇ ਪੂਰੇ ਕਰਦਾ ਹਾਂ|
+1479	So I am free this weekend.	ਇਸ ਲਈ ਮੈਂ ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਫ਼੍ਰੀ ਹਾਂ|
+1480	I badly need some refreshing time.	ਮੈਨੂੰ ਬੁਰੀ ਤਰ੍ਹਾਂ ਕੁੱਝ ਤਾਤਾਜ਼ਗੀ ਵਾਲੇ ਸਮੇਂ ਦੀ ਲੋੜ ਹੈ|
+1481	Only by following your hobby, you can do it, right?	ਸਿਰਫ਼ ਆਪਣੇ ਸ਼ੌਂਕ ਦੇ ਚੱਲਦੇ, ਤੁਸੀਂ ਇਹ ਕਰ ਸਕਦੇ ਹੋ, ਸਹੀ ਹੈ ?
+1482	Yeah, you are right.	ਹਾਂ, ਤੁਸੀਂ ਠੀਕ ਕਿਹਾ|
+1483	I need some time for myself too.	ਮੈਨੂੰ ਵੀ ਆਪਣੇ ਲਈ ਕੁੱਝ ਸਮਾਂ ਚਾਹੀਦਾ ਹੈ|
+1484	I am also thinking of taking part in a singing competition this Friday.	ਮੈਂ ਵੀ ਸੋਚ ਰਿਹਾ ਹਾਂ ਕਿ ਇਸ ਸ਼ੁੱਕਰਵਾਰ ਇੱਕ ਗਾਇਨ ਪ੍ਰਤਿਯੋਗਤਾ ਵਿੱਚ ਹਿੱਸਾ ਲਵਾਂ|
+1485	I hope it will help me get in touch with my favorite activity again.	ਮੈਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਇਹ ਮੇਰੇ ਪਸੰਦੀਦਾ ਕੰਮ ਨਾਲ ਮੈਨੂੰ ਦੁਬਾਰਾ ਜੁੜਨ 'ਚ ਮੇਰੀ ਮਦਦ ਕਰੇਗਾ|
+1486	How do you manage your time to follow your hobby amidst such a busy schedule?	ਤੁਸੀਂ ਅਜਿਹੇ ਵਿਅਸਤ ਕਾਰਜਕ੍ਰਮ ਦੇ ਵਿਚਕਾਰ ਆਪਣੇ ਸ਼ੌਂਕ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਆਪਣੇ ਸਮੇਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਕਰਦੇ ਹੋ?
+1487	I try to do Riyaz everyday morning before starting my work.	ਮੈਂ ਰੋਜ਼ ਸਵੇਰੇ ਆਪਣਾ ਕੰਮ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਰਿਆਜ਼ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ|
+1488	And I try not to keep my work pending.	ਅਤੇ ਮੈਂ ਕੋਸ਼ਿਸ ਕਰਦਾ ਹਾਂ ਕਿ ਮੈਂ ਆਪਣਾ ਕੰਮ ਅਧੂਰਾ ਨਾ ਛੱਡਾਂ |
+1489	So that I can get some time to do the things I like.	ਤਾਂ ਜੋ ਮੈਨੂੰ ਉਹ ਚੀਜ਼ਾਂ ਕਰਨ ਦਾ ਸਮਾਂ ਮਿਲ ਜਾਵੇ ਜੋ ਮੈਨੂੰ ਪਸੰਦ ਨੇ|
+1490	That way, I can spend my weekends listening to music and practicing as well.	ਇਸ ਤਰ੍ਹਾਂ, ਮੈਂ ਆਪਣੇ ਹਫ਼ਤੇ ਦਾ ਅੰਤ ਵਿੱਚ ਸੰਗੀਤ ਸੁਣ ਕੇ ਅਤੇ ਅਭਿਆਸ ਕਰ ਕੇ ਗੁਜ਼ਾਰਦਾ ਹਾਂ|
+1491	I also try to do exactly the same.	ਮੈਂ ਵੀ ਇਸੇ ਤਰ੍ਹਾਂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗਾ|
+1492	But these past few weeks have been very hectic.	ਪਰ ਪਿਛਲੇ ਕੁੱਝ ਹਫ਼ਤੇ ਬੇਹੱਦ ਰੁਝੇਵੇ ਵਾਲੇ ਸਨ|
+1493	Still, I have managed for this weekend.	ਅਜੇ ਵੀ, ਮੈਂ ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ 'ਚ ਪ੍ਰਬੰਧ ਕਰ ਰਿਹਾ ਹਾਂ|
+1494	What kind of singing competition are you taking part in?	ਕਿਸ ਤਰ੍ਹਾਂ ਦੀ ਗਾਇਨ ਪ੍ਰਤੀਯੋਗਤਾ ਵਿੱਚ ਹਿੱਸਾ ਲੈ ਰਹੇ ਹੋ?
+1495	It's kind of an Inter-office singing competition.	ਇਹ ਇੱਕ ਤਰ੍ਹਾਂ ਦੀ ਇੰਟਰ-ਆਫਿਸ ਗਾਇਨ ਪ੍ਰਤੀਯੋਗਤਾ ਹੈ|
+1496	I am going to represent my office in this competition.	ਮੈਂ ਇਸ ਪ੍ਰਤੀਯੋਗਤਾ ਵਿੱਚ ਆਪਣੇ ਦਫ਼ਤਰ ਦੀ ਪ੍ਰਤੀਨਿੱਧਤਾ ਕਰਾਂਗਾ|
+1497	I am really excited about it.	ਮੈਂ ਇਸ ਨੂੰ ਲੈ ਕੇ ਬਹੁਤ ਉਤਸੁਕ ਹਾਂ|
+1498	That is great, you must take part in it.	ਇਹ ਵਧੀਆ ਹੈ, ਤੁਹਾਨੂੰ ਇਸ ਵਿੱਚ ਹਿੱਸਾ ਜ਼ਰੂਰ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ|
+1499	I wish you the best of luck.	ਮੈਂ ਤੁਹਾਨੂੰ ਸ਼ੁਭ ਇੱਛਾਵਾਂ ਦਿੰਦਾ ਹਾਂ|
+1500	Thank you so much.	ਧੰਨਵਾਦ ਬਹੁਤ ਬਹੁਤ|
+1501	You too have a safe trip.	ਤੁਹਾਡੀ ਵੀ ਯਾਤਰਾ ਸੁਖਦ ਹੋਵੇ|
+1502	Thank you, Lelina.	ਧੰਨਵਾਦ, ਲੇਲੀਨਾਂ |
